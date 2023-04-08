@@ -1,0 +1,12769 @@
+---
+abandon:
+  pos:
+  - verb
+  level: B2
+ability:
+  pos:
+  - noun
+  level: A2
+able:
+  pos:
+  - adjective
+  level: A2
+about:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+above:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+abroad:
+  pos:
+  - adverb
+  level: A2
+absolute:
+  pos:
+  - adjective
+  level: B2
+absolutely:
+  pos:
+  - adverb
+  level: B1
+academic:
+  level: B2
+  pos:
+  - adjective
+  - noun
+accept:
+  pos:
+  - verb
+  level: A2
+acceptable:
+  pos:
+  - adjective
+  level: B2
+access:
+  level: B1
+  pos:
+  - noun
+  - verb
+accident:
+  pos:
+  - noun
+  level: A2
+accommodation:
+  pos:
+  - noun
+  level: B1
+accompany:
+  pos:
+  - verb
+  level: B2
+according to:
+  pos:
+  - preposition
+  level: A2
+account:
+  level: B2
+  pos:
+  - noun
+  - verb
+accurate:
+  pos:
+  - adjective
+  level: B2
+accuse:
+  pos:
+  - verb
+  level: B2
+achieve:
+  pos:
+  - verb
+  level: A2
+achievement:
+  pos:
+  - noun
+  level: B1
+acknowledge:
+  pos:
+  - verb
+  level: B2
+acquire:
+  pos:
+  - verb
+  level: B2
+across:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+act:
+  level: A2
+  pos:
+  - noun
+  - verb
+action:
+  pos:
+  - noun
+  level: A1
+active:
+  pos:
+  - adjective
+  level: A2
+activity:
+  pos:
+  - noun
+  level: A1
+actor:
+  pos:
+  - noun
+  level: A1
+actress:
+  pos:
+  - noun
+  level: A1
+actual:
+  pos:
+  - adjective
+  level: B2
+actually:
+  pos:
+  - adverb
+  level: A2
+ad:
+  pos:
+  - noun
+  level: B1
+adapt:
+  pos:
+  - verb
+  level: B2
+add:
+  pos:
+  - verb
+  level: A1
+addition:
+  pos:
+  - noun
+  level: B1
+additional:
+  pos:
+  - adjective
+  level: B2
+address:
+  level: B2
+  pos:
+  - noun
+  - verb
+administration:
+  pos:
+  - noun
+  level: B2
+admire:
+  pos:
+  - verb
+  level: B1
+admit:
+  pos:
+  - verb
+  level: B1
+adopt:
+  pos:
+  - verb
+  level: B2
+adult:
+  level: A1
+  pos:
+  - adjective
+  - noun
+advance:
+  level: B2
+  pos:
+  - adjective
+  - noun
+  - verb
+advanced:
+  pos:
+  - adjective
+  level: B1
+advantage:
+  pos:
+  - noun
+  level: A2
+adventure:
+  pos:
+  - noun
+  level: A2
+advertise:
+  pos:
+  - verb
+  level: A2
+advertisement:
+  pos:
+  - noun
+  level: A2
+advertising:
+  pos:
+  - noun
+  level: A2
+advice:
+  pos:
+  - noun
+  level: A1
+advise:
+  pos:
+  - verb
+  level: B1
+affair:
+  pos:
+  - noun
+  level: B2
+affect:
+  pos:
+  - verb
+  level: A2
+afford:
+  pos:
+  - verb
+  level: B1
+afraid:
+  pos:
+  - adjective
+  level: A1
+after:
+  level: A1
+  pos:
+  - adverb
+  - conjunction
+  - preposition
+afternoon:
+  pos:
+  - noun
+  level: A1
+afterwards:
+  pos:
+  - adverb
+  level: B2
+again:
+  pos:
+  - adverb
+  level: A1
+against:
+  pos:
+  - preposition
+  level: A2
+age:
+  level: B1
+  pos:
+  - noun
+  - verb
+aged:
+  pos:
+  - adjective
+  level: B1
+agency:
+  pos:
+  - noun
+  level: B2
+agenda:
+  pos:
+  - noun
+  level: B2
+agent:
+  pos:
+  - noun
+  level: B1
+aggressive:
+  pos:
+  - adjective
+  level: B2
+ago:
+  pos:
+  - adverb
+  level: A1
+agree:
+  pos:
+  - verb
+  level: A1
+agreement:
+  pos:
+  - noun
+  level: B1
+ah:
+  pos:
+  - exclamation
+  level: A2
+ahead:
+  pos:
+  - adverb
+  level: B1
+aid:
+  level: B2
+  pos:
+  - noun
+  - verb
+aim:
+  level: B1
+  pos:
+  - noun
+  - verb
+air:
+  pos:
+  - noun
+  level: A1
+aircraft:
+  pos:
+  - noun
+  level: B2
+airline:
+  pos:
+  - noun
+  level: A2
+airport:
+  pos:
+  - noun
+  level: A1
+alarm:
+  level: B2
+  pos:
+  - noun
+  - verb
+album:
+  pos:
+  - noun
+  level: B1
+alcohol:
+  pos:
+  - noun
+  level: B1
+alcoholic:
+  pos:
+  - adjective
+  level: B1
+alive:
+  pos:
+  - adjective
+  level: A2
+all:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+all right:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+  - exclamation
+allow:
+  pos:
+  - verb
+  level: A2
+almost:
+  pos:
+  - adverb
+  level: A2
+alone:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+along:
+  level: A2
+  pos:
+  - adverb
+  - preposition
+already:
+  pos:
+  - adverb
+  level: A2
+also:
+  pos:
+  - adverb
+  level: A1
+alter:
+  pos:
+  - verb
+  level: B2
+alternative:
+  level: A2
+  pos:
+  - adjective
+  - noun
+although:
+  pos:
+  - conjunction
+  level: A2
+always:
+  pos:
+  - adverb
+  level: A1
+amazed:
+  pos:
+  - adjective
+  level: B1
+amazing:
+  pos:
+  - adjective
+  level: A1
+ambition:
+  pos:
+  - noun
+  level: B1
+ambitious:
+  pos:
+  - adjective
+  level: B1
+among:
+  pos:
+  - preposition
+  level: A2
+amount:
+  level: B2
+  pos:
+  - noun
+  - verb
+analyse:
+  pos:
+  - verb
+  level: B1
+analysis:
+  pos:
+  - noun
+  level: B1
+ancient:
+  pos:
+  - adjective
+  level: A2
+and:
+  pos:
+  - conjunction
+  level: A1
+anger:
+  pos:
+  - noun
+  level: B2
+angle:
+  pos:
+  - noun
+  level: B2
+angry:
+  pos:
+  - adjective
+  level: A1
+animal:
+  pos:
+  - noun
+  level: A1
+ankle:
+  pos:
+  - noun
+  level: A2
+anniversary:
+  pos:
+  - noun
+  level: B2
+announce:
+  pos:
+  - verb
+  level: B1
+announcement:
+  pos:
+  - noun
+  level: B1
+annoy:
+  pos:
+  - verb
+  level: B1
+annoyed:
+  pos:
+  - adjective
+  level: B1
+annoying:
+  pos:
+  - adjective
+  level: B1
+annual:
+  pos:
+  - adjective
+  level: B2
+another:
+  level: A1
+  pos:
+  - determiner
+  - pronoun
+answer:
+  level: A1
+  pos:
+  - noun
+  - verb
+anxious:
+  pos:
+  - adjective
+  level: B2
+any:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+anymore:
+  pos:
+  - adverb
+  level: A2
+anybody:
+  pos:
+  - pronoun
+  level: A2
+anyone:
+  pos:
+  - pronoun
+  level: A1
+anything:
+  pos:
+  - pronoun
+  level: A1
+anyway:
+  pos:
+  - adverb
+  level: A2
+anywhere:
+  level: A2
+  pos:
+  - adverb
+  - pronoun
+apart:
+  pos:
+  - adverb
+  level: B1
+apartment:
+  pos:
+  - noun
+  level: A1
+apologize:
+  pos:
+  - verb
+  level: B1
+app:
+  pos:
+  - noun
+  level: A2
+apparent:
+  pos:
+  - adjective
+  level: B2
+apparently:
+  pos:
+  - adverb
+  level: B2
+appeal:
+  level: B2
+  pos:
+  - noun
+  - verb
+appear:
+  pos:
+  - verb
+  level: A2
+appearance:
+  pos:
+  - noun
+  level: A2
+apple:
+  pos:
+  - noun
+  level: A1
+application:
+  pos:
+  - noun
+  level: B1
+apply:
+  pos:
+  - verb
+  level: A2
+appointment:
+  pos:
+  - noun
+  level: B1
+appreciate:
+  pos:
+  - verb
+  level: B1
+approach:
+  level: B2
+  pos:
+  - noun
+  - verb
+appropriate:
+  pos:
+  - adjective
+  level: B2
+approval:
+  pos:
+  - noun
+  level: B2
+approve:
+  pos:
+  - verb
+  level: B2
+approximately:
+  pos:
+  - adverb
+  level: B1
+April:
+  pos:
+  - noun
+  level: A1
+architect:
+  pos:
+  - noun
+  level: A2
+architecture:
+  pos:
+  - noun
+  level: A2
+area:
+  pos:
+  - noun
+  level: A1
+argue:
+  pos:
+  - verb
+  level: A2
+argument:
+  pos:
+  - noun
+  level: A2
+arise:
+  pos:
+  - verb
+  level: B2
+arm:
+  pos:
+  - noun
+  level: A1
+armed:
+  pos:
+  - adjective
+  level: B2
+arms:
+  pos:
+  - noun
+  level: B2
+army:
+  pos:
+  - noun
+  level: A2
+around:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+arrange:
+  pos:
+  - verb
+  level: A2
+arrangement:
+  pos:
+  - noun
+  level: A2
+arrest:
+  level: B1
+  pos:
+  - noun
+  - verb
+arrival:
+  pos:
+  - noun
+  level: B1
+arrive:
+  pos:
+  - verb
+  level: A1
+art:
+  pos:
+  - noun
+  level: A1
+article:
+  pos:
+  - noun
+  level: A1
+artificial:
+  pos:
+  - adjective
+  level: B2
+artist:
+  pos:
+  - noun
+  level: A1
+artistic:
+  pos:
+  - adjective
+  level: B2
+as:
+  level: A1
+  pos:
+  - adverb
+  - conjunction
+  - preposition
+ashamed:
+  pos:
+  - adjective
+  level: B2
+ask:
+  pos:
+  - verb
+  level: A1
+asleep:
+  pos:
+  - adjective
+  level: A2
+aspect:
+  pos:
+  - noun
+  level: B2
+assess:
+  pos:
+  - verb
+  level: B2
+assessment:
+  pos:
+  - noun
+  level: B2
+assignment:
+  pos:
+  - noun
+  level: B1
+assist:
+  pos:
+  - verb
+  level: B1
+assistant:
+  level: A2
+  pos:
+  - adjective
+  - noun
+associate:
+  pos:
+  - verb
+  level: B2
+associated:
+  pos:
+  - adjective
+  level: B2
+association:
+  pos:
+  - noun
+  level: B2
+assume:
+  pos:
+  - verb
+  level: B2
+at:
+  pos:
+  - preposition
+  level: A1
+athlete:
+  pos:
+  - noun
+  level: A2
+atmosphere:
+  pos:
+  - noun
+  level: B1
+attach:
+  pos:
+  - verb
+  level: B1
+attack:
+  level: A2
+  pos:
+  - noun
+  - verb
+attempt:
+  level: B2
+  pos:
+  - noun
+  - verb
+attend:
+  pos:
+  - verb
+  level: A2
+attention:
+  level: A2
+  pos:
+  - exclamation
+  - noun
+attitude:
+  pos:
+  - noun
+  level: B1
+attract:
+  pos:
+  - verb
+  level: B1
+attraction:
+  pos:
+  - noun
+  level: B1
+attractive:
+  pos:
+  - adjective
+  level: A2
+audience:
+  pos:
+  - noun
+  level: A2
+August:
+  pos:
+  - noun
+  level: A1
+aunt:
+  pos:
+  - noun
+  level: A1
+author:
+  pos:
+  - noun
+  level: A2
+authority:
+  pos:
+  - noun
+  level: B1
+autumn:
+  pos:
+  - noun
+  level: A1
+available:
+  pos:
+  - adjective
+  level: A2
+average:
+  level: B1
+  pos:
+  - adjective
+  - noun
+  - verb
+avoid:
+  pos:
+  - verb
+  level: A2
+award:
+  level: B1
+  pos:
+  - noun
+  - verb
+aware:
+  pos:
+  - adjective
+  level: B1
+away:
+  pos:
+  - adverb
+  level: A1
+awful:
+  pos:
+  - adjective
+  level: A2
+baby:
+  pos:
+  - noun
+  level: A1
+back:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - noun
+  - verb
+background:
+  pos:
+  - noun
+  level: A2
+backwards:
+  pos:
+  - adverb
+  level: B1
+bacteria:
+  pos:
+  - noun
+  level: B2
+bad:
+  pos:
+  - adjective
+  level: A1
+badly:
+  pos:
+  - adverb
+  level: A2
+bag:
+  pos:
+  - noun
+  level: A1
+bake:
+  pos:
+  - verb
+  level: B1
+balance:
+  level: B1
+  pos:
+  - noun
+  - verb
+ball:
+  pos:
+  - noun
+  level: A1
+ban:
+  level: B1
+  pos:
+  - noun
+  - verb
+banana:
+  pos:
+  - noun
+  level: A1
+band:
+  pos:
+  - noun
+  level: A1
+bank:
+  pos:
+  - noun
+  level: A1
+bar:
+  level: B2
+  pos:
+  - noun
+  - verb
+barrier:
+  pos:
+  - noun
+  level: B2
+base:
+  level: B1
+  pos:
+  - noun
+  - verb
+baseball:
+  pos:
+  - noun
+  level: A2
+based:
+  pos:
+  - adjective
+  level: A2
+basic:
+  pos:
+  - adjective
+  level: B1
+basically:
+  pos:
+  - adverb
+  level: B2
+basis:
+  pos:
+  - noun
+  level: B1
+basketball:
+  pos:
+  - noun
+  level: A2
+bath:
+  pos:
+  - noun
+  level: A1
+bathroom:
+  pos:
+  - noun
+  level: A1
+battery:
+  pos:
+  - noun
+  level: B1
+battle:
+  level: B2
+  pos:
+  - noun
+  - verb
+be:
+  level: A1
+  pos:
+  - verb
+  - auxiliary
+  - verb
+beach:
+  pos:
+  - noun
+  level: A1
+bean:
+  pos:
+  - noun
+  level: A2
+bear:
+  level: B2
+  pos:
+  - noun
+  - verb
+beat:
+  level: A2
+  pos:
+  - noun
+  - verb
+beautiful:
+  pos:
+  - adjective
+  level: A1
+beauty:
+  pos:
+  - noun
+  level: B1
+because:
+  pos:
+  - conjunction
+  level: A1
+become:
+  pos:
+  - verb
+  level: A1
+bed:
+  pos:
+  - noun
+  level: A1
+bedroom:
+  pos:
+  - noun
+  level: A1
+bee:
+  pos:
+  - noun
+  level: B1
+beef:
+  pos:
+  - noun
+  level: A2
+beer:
+  pos:
+  - noun
+  level: A1
+before:
+  level: A1
+  pos:
+  - adverb
+  - conjunction
+  - preposition
+beg:
+  pos:
+  - verb
+  level: B2
+begin:
+  pos:
+  - verb
+  level: A1
+beginning:
+  pos:
+  - noun
+  level: A1
+behave:
+  pos:
+  - verb
+  level: A2
+behaviour:
+  pos:
+  - noun
+  level: A2
+behind:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+being:
+  pos:
+  - noun
+  level: B2
+belief:
+  pos:
+  - noun
+  level: B1
+believe:
+  pos:
+  - verb
+  level: A1
+bell:
+  pos:
+  - noun
+  level: B1
+belong:
+  pos:
+  - verb
+  level: A2
+below:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+belt:
+  pos:
+  - noun
+  level: A2
+bend:
+  level: B1
+  pos:
+  - noun
+  - verb
+benefit:
+  level: B1
+  pos:
+  - noun
+  - verb
+bent:
+  pos:
+  - adjective
+  level: B2
+best:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+  - noun
+bet:
+  level: B2
+  pos:
+  - noun
+  - verb
+better:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+  - noun
+between:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+beyond:
+  level: B2
+  pos:
+  - adverb
+  - preposition
+bicycle:
+  pos:
+  - noun
+  level: A1
+big:
+  pos:
+  - adjective
+  level: A1
+bike:
+  pos:
+  - noun
+  level: A1
+bill:
+  level: B2
+  pos:
+  - noun
+  - verb
+billion:
+  pos:
+  - number
+  level: A2
+bin:
+  pos:
+  - noun
+  level: A2
+biology:
+  pos:
+  - noun
+  level: A2
+bird:
+  pos:
+  - noun
+  level: A1
+birth:
+  pos:
+  - noun
+  level: A2
+birthday:
+  pos:
+  - noun
+  level: A1
+biscuit:
+  pos:
+  - noun
+  level: A2
+bit:
+  pos:
+  - noun
+  level: A2
+bite:
+  level: B1
+  pos:
+  - noun
+  - verb
+bitter:
+  pos:
+  - adjective
+  level: B2
+black:
+  level: A1
+  pos:
+  - adjective
+  - noun
+blame:
+  level: B2
+  pos:
+  - noun
+  - verb
+blank:
+  level: A2
+  pos:
+  - adjective
+  - noun
+blind:
+  pos:
+  - adjective
+  level: B2
+block:
+  level: B1
+  pos:
+  - noun
+  - verb
+blog:
+  pos:
+  - noun
+  level: A1
+blonde:
+  pos:
+  - adjective
+  level: A1
+blood:
+  pos:
+  - noun
+  level: A2
+blow:
+  pos:
+  - verb
+  level: A2
+blue:
+  level: A1
+  pos:
+  - adjective
+  - noun
+board:
+  level: B1
+  pos:
+  - noun
+  - verb
+boat:
+  pos:
+  - noun
+  level: A1
+body:
+  pos:
+  - noun
+  level: A1
+boil:
+  pos:
+  - verb
+  level: A2
+bomb:
+  level: B1
+  pos:
+  - noun
+  - verb
+bond:
+  pos:
+  - noun
+  level: B2
+bone:
+  pos:
+  - noun
+  level: A2
+book:
+  level: A2
+  pos:
+  - noun
+  - verb
+boot:
+  pos:
+  - noun
+  level: A1
+border:
+  level: B2
+  pos:
+  - noun
+  - verb
+bored:
+  pos:
+  - adjective
+  level: A1
+boring:
+  pos:
+  - adjective
+  level: A1
+born:
+  pos:
+  - verb
+  level: A1
+borrow:
+  pos:
+  - verb
+  level: A2
+boss:
+  pos:
+  - noun
+  level: A2
+both:
+  level: A1
+  pos:
+  - determiner
+  - pronoun
+bother:
+  pos:
+  - verb
+  level: B1
+bottle:
+  pos:
+  - noun
+  level: A1
+bottom:
+  level: A2
+  pos:
+  - adjective
+  - noun
+bowl:
+  pos:
+  - noun
+  level: A2
+box:
+  pos:
+  - noun
+  level: A1
+boy:
+  pos:
+  - noun
+  level: A1
+boyfriend:
+  pos:
+  - noun
+  level: A1
+brain:
+  pos:
+  - noun
+  level: A2
+branch:
+  pos:
+  - noun
+  level: B1
+brand:
+  level: B1
+  pos:
+  - noun
+  - verb
+brave:
+  pos:
+  - adjective
+  level: B1
+bread:
+  pos:
+  - noun
+  level: A1
+break:
+  level: A1
+  pos:
+  - noun
+  - verb
+breakfast:
+  pos:
+  - noun
+  level: A1
+breast:
+  pos:
+  - noun
+  level: B2
+breath:
+  pos:
+  - noun
+  level: B1
+breathe:
+  pos:
+  - verb
+  level: B1
+breathing:
+  pos:
+  - noun
+  level: B1
+bride:
+  pos:
+  - noun
+  level: B1
+bridge:
+  pos:
+  - noun
+  level: A2
+brief:
+  pos:
+  - adjective
+  level: B2
+bright:
+  pos:
+  - adjective
+  level: A2
+brilliant:
+  pos:
+  - adjective
+  level: A2
+bring:
+  pos:
+  - verb
+  level: A1
+broad:
+  pos:
+  - adjective
+  level: B2
+broadcast:
+  level: B2
+  pos:
+  - noun
+  - verb
+broken:
+  pos:
+  - adjective
+  level: A2
+brother:
+  pos:
+  - noun
+  level: A1
+brown:
+  level: A1
+  pos:
+  - adjective
+  - noun
+brush:
+  level: A2
+  pos:
+  - noun
+  - verb
+bubble:
+  pos:
+  - noun
+  level: B1
+budget:
+  pos:
+  - noun
+  level: B2
+build:
+  pos:
+  - verb
+  level: A1
+building:
+  pos:
+  - noun
+  level: A1
+bullet:
+  pos:
+  - noun
+  level: B2
+bunch:
+  pos:
+  - noun
+  level: B2
+burn:
+  level: A2
+  pos:
+  - noun
+  - verb
+bury:
+  pos:
+  - verb
+  level: B1
+bus:
+  pos:
+  - noun
+  level: A1
+bush:
+  pos:
+  - noun
+  level: B2
+business:
+  pos:
+  - noun
+  level: A1
+businessman:
+  pos:
+  - noun
+  level: A2
+busy:
+  pos:
+  - adjective
+  level: A1
+but:
+  level: B2
+  pos:
+  - conjunction
+  - preposition
+butter:
+  pos:
+  - noun
+  level: A1
+button:
+  pos:
+  - noun
+  level: A2
+buy:
+  pos:
+  - verb
+  level: A1
+by:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+bye:
+  pos:
+  - exclamation
+  level: A1
+cable:
+  pos:
+  - noun
+  level: B2
+cafe:
+  pos:
+  - noun
+  level: A1
+cake:
+  pos:
+  - noun
+  level: A1
+calculate:
+  pos:
+  - verb
+  level: B2
+call:
+  level: A1
+  pos:
+  - noun
+  - verb
+calm:
+  level: B1
+  pos:
+  - adjective
+  - noun
+  - verb
+camera:
+  pos:
+  - noun
+  level: A1
+camp:
+  level: A2
+  pos:
+  - noun
+  - verb
+campaign:
+  level: B1
+  pos:
+  - noun
+  - verb
+camping:
+  pos:
+  - noun
+  level: A2
+campus:
+  pos:
+  - noun
+  level: B1
+can:
+  level: A1
+  pos:
+  - noun
+  - modal
+  - verb
+cancel:
+  pos:
+  - verb
+  level: B2
+cancer:
+  pos:
+  - noun
+  level: B2
+candidate:
+  pos:
+  - noun
+  level: B1
+cannot:
+  pos:
+  - modal
+  - verb
+  level: A1
+cap:
+  pos:
+  - noun
+  level: B1
+capable:
+  pos:
+  - adjective
+  level: B2
+capacity:
+  pos:
+  - noun
+  level: B2
+capital:
+  level: A1
+  pos:
+  - adjective
+  - noun
+captain:
+  pos:
+  - noun
+  level: B1
+capture:
+  level: B2
+  pos:
+  - noun
+  - verb
+car:
+  pos:
+  - noun
+  level: A1
+card:
+  pos:
+  - noun
+  level: A1
+care:
+  level: A2
+  pos:
+  - noun
+  - verb
+career:
+  pos:
+  - noun
+  level: A1
+careful:
+  pos:
+  - adjective
+  level: A2
+carefully:
+  pos:
+  - adverb
+  level: A2
+careless:
+  pos:
+  - adjective
+  level: B1
+carpet:
+  pos:
+  - noun
+  level: A2
+carrot:
+  pos:
+  - noun
+  level: A1
+carry:
+  pos:
+  - verb
+  level: A1
+cartoon:
+  pos:
+  - noun
+  level: A2
+case:
+  pos:
+  - noun
+  level: A2
+cash:
+  pos:
+  - noun
+  level: A2
+cast:
+  level: B2
+  pos:
+  - noun
+  - verb
+castle:
+  pos:
+  - noun
+  level: A2
+cat:
+  pos:
+  - noun
+  level: A1
+catch:
+  level: A2
+  pos:
+  - noun
+  - verb
+category:
+  pos:
+  - noun
+  level: B1
+cause:
+  level: A2
+  pos:
+  - noun
+  - verb
+CD:
+  pos:
+  - noun
+  level: A1
+ceiling:
+  pos:
+  - noun
+  level: B1
+celebrate:
+  pos:
+  - verb
+  level: A2
+celebration:
+  pos:
+  - noun
+  level: B1
+celebrity:
+  pos:
+  - noun
+  level: A2
+cell:
+  pos:
+  - noun
+  level: B2
+cent:
+  pos:
+  - noun
+  level: A1
+central:
+  pos:
+  - adjective
+  level: B1
+centre:
+  level: B1
+  pos:
+  - noun
+  - verb
+century:
+  pos:
+  - noun
+  level: A1
+ceremony:
+  pos:
+  - noun
+  level: B1
+certain:
+  pos:
+  - adjective
+  level: A2
+certainly:
+  pos:
+  - adverb
+  level: A2
+chain:
+  level: B2
+  pos:
+  - noun
+  - verb
+chair:
+  level: B2
+  pos:
+  - noun
+  - verb
+chairman:
+  pos:
+  - noun
+  level: B2
+challenge:
+  level: B2
+  pos:
+  - noun
+  - verb
+champion:
+  pos:
+  - noun
+  level: B1
+chance:
+  pos:
+  - noun
+  level: A2
+change:
+  level: A1
+  pos:
+  - noun
+  - verb
+channel:
+  pos:
+  - noun
+  level: B1
+chapter:
+  pos:
+  - noun
+  level: B1
+character:
+  pos:
+  - noun
+  level: A2
+characteristic:
+  level: B2
+  pos:
+  - adjective
+  - noun
+charge:
+  level: B1
+  pos:
+  - noun
+  - verb
+charity:
+  pos:
+  - noun
+  level: A2
+chart:
+  level: B2
+  pos:
+  - noun
+  - verb
+chat:
+  level: A2
+  pos:
+  - noun
+  - verb
+cheap:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+cheat:
+  level: B1
+  pos:
+  - noun
+  - verb
+check:
+  level: A1
+  pos:
+  - noun
+  - verb
+cheerful:
+  pos:
+  - adjective
+  level: B1
+cheese:
+  pos:
+  - noun
+  level: A1
+chef:
+  pos:
+  - noun
+  level: A2
+chemical:
+  level: B1
+  pos:
+  - adjective
+  - noun
+chemistry:
+  pos:
+  - noun
+  level: A2
+chest:
+  pos:
+  - noun
+  level: B1
+chicken:
+  pos:
+  - noun
+  level: A1
+chief:
+  level: B2
+  pos:
+  - adjective
+  - noun
+child:
+  pos:
+  - noun
+  level: A1
+childhood:
+  pos:
+  - noun
+  level: B1
+chip:
+  pos:
+  - noun
+  level: A2
+chocolate:
+  pos:
+  - noun
+  level: A1
+choice:
+  pos:
+  - noun
+  level: A2
+choose:
+  pos:
+  - verb
+  level: A1
+church:
+  pos:
+  - noun
+  level: A2
+cigarette:
+  pos:
+  - noun
+  level: A2
+cinema:
+  pos:
+  - noun
+  level: A1
+circle:
+  level: A2
+  pos:
+  - noun
+  - verb
+circumstance:
+  pos:
+  - noun
+  level: B2
+cite:
+  pos:
+  - verb
+  level: B2
+citizen:
+  pos:
+  - noun
+  level: B2
+city:
+  pos:
+  - noun
+  level: A1
+civil:
+  pos:
+  - adjective
+  level: B2
+claim:
+  level: B1
+  pos:
+  - noun
+  - verb
+class:
+  pos:
+  - noun
+  level: A1
+classic:
+  level: B2
+  pos:
+  - adjective
+  - noun
+classical:
+  pos:
+  - adjective
+  level: A2
+classroom:
+  pos:
+  - noun
+  level: A1
+clause:
+  pos:
+  - noun
+  level: B1
+clean:
+  level: A1
+  pos:
+  - adjective
+  - verb
+clear:
+  level: B1
+  pos:
+  - adjective
+  - verb
+clearly:
+  pos:
+  - adverb
+  level: A2
+clever:
+  pos:
+  - adjective
+  level: A2
+click:
+  level: B1
+  pos:
+  - noun
+  - verb
+client:
+  pos:
+  - noun
+  level: B1
+climate:
+  pos:
+  - noun
+  level: A2
+climb:
+  level: A1
+  pos:
+  - noun
+  - verb
+clock:
+  pos:
+  - noun
+  level: A1
+close:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+  - verb
+closed:
+  pos:
+  - adjective
+  level: A2
+closely:
+  pos:
+  - adverb
+  level: B2
+cloth:
+  pos:
+  - noun
+  level: B1
+clothes:
+  pos:
+  - noun
+  level: A1
+clothing:
+  pos:
+  - noun
+  level: A2
+cloud:
+  pos:
+  - noun
+  level: A2
+club:
+  pos:
+  - noun
+  level: A1
+clue:
+  pos:
+  - noun
+  level: B1
+coach:
+  level: B1
+  pos:
+  - noun
+  - verb
+coal:
+  pos:
+  - noun
+  level: B1
+coast:
+  pos:
+  - noun
+  level: A2
+coat:
+  pos:
+  - noun
+  level: A1
+code:
+  pos:
+  - noun
+  level: A2
+coffee:
+  pos:
+  - noun
+  level: A1
+coin:
+  pos:
+  - noun
+  level: B1
+cold:
+  level: A1
+  pos:
+  - adjective
+  - noun
+collapse:
+  level: B2
+  pos:
+  - noun
+  - verb
+colleague:
+  pos:
+  - noun
+  level: A2
+collect:
+  pos:
+  - verb
+  level: A2
+collection:
+  pos:
+  - noun
+  level: B1
+college:
+  pos:
+  - noun
+  level: A1
+colour:
+  pos:
+  - noun
+  level: A1
+coloured:
+  pos:
+  - adjective
+  level: B1
+column:
+  pos:
+  - noun
+  level: A2
+combination:
+  pos:
+  - noun
+  level: B2
+combine:
+  pos:
+  - verb
+  level: B1
+come:
+  pos:
+  - verb
+  level: A1
+comedy:
+  pos:
+  - noun
+  level: A2
+comfort:
+  level: B2
+  pos:
+  - noun
+  - verb
+comfortable:
+  pos:
+  - adjective
+  level: A2
+command:
+  level: B2
+  pos:
+  - noun
+  - verb
+comment:
+  level: B1
+  pos:
+  - noun
+  - verb
+commercial:
+  level: B1
+  pos:
+  - adjective
+  - noun
+commission:
+  level: B2
+  pos:
+  - noun
+  - verb
+commit:
+  pos:
+  - verb
+  level: B1
+commitment:
+  pos:
+  - noun
+  level: B2
+committee:
+  pos:
+  - noun
+  level: B2
+common:
+  pos:
+  - adjective
+  level: A1
+commonly:
+  pos:
+  - adverb
+  level: B2
+communicate:
+  pos:
+  - verb
+  level: A2
+communication:
+  pos:
+  - noun
+  level: B1
+community:
+  pos:
+  - noun
+  level: A2
+company:
+  pos:
+  - noun
+  level: A1
+compare:
+  pos:
+  - verb
+  level: A1
+comparison:
+  pos:
+  - noun
+  level: B1
+compete:
+  pos:
+  - verb
+  level: A2
+competition:
+  pos:
+  - noun
+  level: A2
+competitive:
+  pos:
+  - adjective
+  level: B1
+competitor:
+  pos:
+  - noun
+  level: B1
+complain:
+  pos:
+  - verb
+  level: A2
+complaint:
+  pos:
+  - noun
+  level: B1
+complete:
+  level: A1
+  pos:
+  - adjective
+  - verb
+completely:
+  pos:
+  - adverb
+  level: A2
+complex:
+  level: B2
+  pos:
+  - adjective
+  - noun
+complicated:
+  pos:
+  - adjective
+  level: B2
+component:
+  pos:
+  - noun
+  level: B2
+computer:
+  pos:
+  - noun
+  level: A1
+concentrate:
+  pos:
+  - verb
+  level: B1
+concentration:
+  pos:
+  - noun
+  level: B2
+concept:
+  pos:
+  - noun
+  level: B2
+concern:
+  level: B2
+  pos:
+  - noun
+  - verb
+concerned:
+  pos:
+  - adjective
+  level: B2
+concert:
+  pos:
+  - noun
+  level: A1
+conclude:
+  pos:
+  - verb
+  level: B1
+conclusion:
+  pos:
+  - noun
+  level: B1
+condition:
+  pos:
+  - noun
+  level: A2
+conduct:
+  level: B2
+  pos:
+  - noun
+  - verb
+conference:
+  pos:
+  - noun
+  level: A2
+confidence:
+  pos:
+  - noun
+  level: B2
+confident:
+  pos:
+  - adjective
+  level: B1
+confirm:
+  pos:
+  - verb
+  level: B1
+conflict:
+  level: B2
+  pos:
+  - noun
+  - verb
+confuse:
+  pos:
+  - verb
+  level: B1
+confused:
+  pos:
+  - adjective
+  level: B1
+confusing:
+  pos:
+  - adjective
+  level: B2
+connect:
+  pos:
+  - verb
+  level: A2
+connected:
+  pos:
+  - adjective
+  level: A2
+connection:
+  pos:
+  - noun
+  level: B1
+conscious:
+  pos:
+  - adjective
+  level: B2
+consequence:
+  pos:
+  - noun
+  level: B1
+conservative:
+  level: B2
+  pos:
+  - adjective
+  - noun
+consider:
+  pos:
+  - verb
+  level: A2
+consideration:
+  pos:
+  - noun
+  level: B2
+consist:
+  pos:
+  - verb
+  level: B1
+consistent:
+  pos:
+  - adjective
+  level: B2
+constant:
+  pos:
+  - adjective
+  level: B2
+constantly:
+  pos:
+  - adverb
+  level: B2
+construct:
+  pos:
+  - verb
+  level: B2
+construction:
+  pos:
+  - noun
+  level: B2
+consume:
+  pos:
+  - verb
+  level: B1
+consumer:
+  pos:
+  - noun
+  level: B1
+contact:
+  level: B1
+  pos:
+  - noun
+  - verb
+contain:
+  pos:
+  - verb
+  level: A2
+container:
+  pos:
+  - noun
+  level: B1
+contemporary:
+  pos:
+  - adjective
+  level: B2
+content:
+  pos:
+  - noun
+  level: B1
+contest:
+  level: B2
+  pos:
+  - noun
+  - verb
+context:
+  pos:
+  - noun
+  level: A2
+continent:
+  pos:
+  - noun
+  level: A2
+continue:
+  pos:
+  - verb
+  level: A2
+continuous:
+  pos:
+  - adjective
+  level: B1
+contract:
+  level: B2
+  pos:
+  - noun
+  - verb
+contrast:
+  level: B1
+  pos:
+  - noun
+  - verb
+contribute:
+  pos:
+  - verb
+  level: B2
+contribution:
+  pos:
+  - noun
+  level: B2
+control:
+  level: A2
+  pos:
+  - noun
+  - verb
+convenient:
+  pos:
+  - adjective
+  level: B1
+conversation:
+  pos:
+  - noun
+  level: A1
+convert:
+  pos:
+  - verb
+  level: B2
+convince:
+  pos:
+  - verb
+  level: B1
+convinced:
+  pos:
+  - adjective
+  level: B2
+cook:
+  level: A1
+  pos:
+  - noun
+  - verb
+cooker:
+  pos:
+  - noun
+  level: A2
+cooking:
+  pos:
+  - noun
+  level: A1
+cool:
+  level: B1
+  pos:
+  - adjective
+  - verb
+copy:
+  level: A2
+  pos:
+  - noun
+  - verb
+core:
+  level: B2
+  pos:
+  - adjective
+  - noun
+corner:
+  pos:
+  - noun
+  level: A2
+corporate:
+  pos:
+  - adjective
+  level: B2
+correct:
+  level: A1
+  pos:
+  - adjective
+  - verb
+correctly:
+  pos:
+  - adverb
+  level: A2
+cost:
+  level: A1
+  pos:
+  - noun
+  - verb
+costume:
+  pos:
+  - noun
+  level: B1
+cottage:
+  pos:
+  - noun
+  level: B1
+cotton:
+  pos:
+  - noun
+  level: B1
+could:
+  pos:
+  - modal
+  - verb
+  level: A1
+council:
+  pos:
+  - noun
+  level: B2
+count:
+  level: A2
+  pos:
+  - noun
+  - verb
+country:
+  pos:
+  - noun
+  level: A1
+countryside:
+  pos:
+  - noun
+  level: B1
+county:
+  pos:
+  - noun
+  level: B2
+couple:
+  pos:
+  - noun
+  level: A2
+courage:
+  pos:
+  - noun
+  level: B2
+course:
+  pos:
+  - noun
+  level: A1
+court:
+  pos:
+  - noun
+  level: B1
+cousin:
+  pos:
+  - noun
+  level: A1
+cover:
+  level: A2
+  pos:
+  - noun
+  - verb
+covered:
+  pos:
+  - adjective
+  level: B1
+cow:
+  pos:
+  - noun
+  level: A1
+crash:
+  level: B2
+  pos:
+  - noun
+  - verb
+crazy:
+  pos:
+  - adjective
+  level: A2
+cream:
+  level: A1
+  pos:
+  - adjective
+  - noun
+create:
+  pos:
+  - verb
+  level: A1
+creation:
+  pos:
+  - noun
+  level: B2
+creative:
+  pos:
+  - adjective
+  level: A2
+creature:
+  pos:
+  - noun
+  level: B2
+credit:
+  level: B2
+  pos:
+  - noun
+  - verb
+crew:
+  pos:
+  - noun
+  level: B2
+crime:
+  pos:
+  - noun
+  level: A2
+criminal:
+  level: A2
+  pos:
+  - adjective
+  - noun
+crisis:
+  pos:
+  - noun
+  level: B2
+criterion:
+  pos:
+  - noun
+  level: B2
+critic:
+  pos:
+  - noun
+  level: B2
+critical:
+  pos:
+  - adjective
+  level: B2
+criticism:
+  pos:
+  - noun
+  level: B2
+criticize:
+  pos:
+  - verb
+  level: B2
+crop:
+  pos:
+  - noun
+  level: B2
+cross:
+  level: A2
+  pos:
+  - noun
+  - verb
+crowd:
+  pos:
+  - noun
+  level: A2
+crowded:
+  pos:
+  - adjective
+  level: A2
+crucial:
+  pos:
+  - adjective
+  level: B2
+cruel:
+  pos:
+  - adjective
+  level: B1
+cry:
+  level: A2
+  pos:
+  - noun
+  - verb
+cultural:
+  pos:
+  - adjective
+  level: B1
+culture:
+  pos:
+  - noun
+  level: A1
+cup:
+  pos:
+  - noun
+  level: A1
+cupboard:
+  pos:
+  - noun
+  level: A2
+cure:
+  level: B2
+  pos:
+  - noun
+  - verb
+curly:
+  pos:
+  - adjective
+  level: A2
+currency:
+  pos:
+  - noun
+  level: B1
+current:
+  level: B2
+  pos:
+  - adjective
+  - noun
+currently:
+  pos:
+  - adverb
+  level: B1
+curtain:
+  pos:
+  - noun
+  level: B1
+curve:
+  level: B2
+  pos:
+  - noun
+  - verb
+curved:
+  pos:
+  - adjective
+  level: B2
+custom:
+  pos:
+  - noun
+  level: B1
+customer:
+  pos:
+  - noun
+  level: A1
+cut:
+  level: A1
+  pos:
+  - noun
+  - verb
+cycle:
+  level: A2
+  pos:
+  - noun
+  - verb
+dad:
+  pos:
+  - noun
+  level: A1
+daily:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+damage:
+  level: B1
+  pos:
+  - noun
+  - verb
+dance:
+  level: A1
+  pos:
+  - noun
+  - verb
+dancer:
+  pos:
+  - noun
+  level: A1
+dancing:
+  pos:
+  - noun
+  level: A1
+danger:
+  pos:
+  - noun
+  level: A2
+dangerous:
+  pos:
+  - adjective
+  level: A1
+dark:
+  level: A2
+  pos:
+  - adjective
+  - noun
+data:
+  pos:
+  - noun
+  level: A2
+date:
+  level: B2
+  pos:
+  - noun
+  - verb
+daughter:
+  pos:
+  - noun
+  level: A1
+day:
+  pos:
+  - noun
+  level: A1
+dead:
+  pos:
+  - adjective
+  level: A2
+deal:
+  level: A2
+  pos:
+  - noun
+  - verb
+dear:
+  level: A2
+  pos:
+  - adjective
+  - exclamation
+death:
+  pos:
+  - noun
+  level: A2
+debate:
+  level: B2
+  pos:
+  - noun
+  - verb
+debt:
+  pos:
+  - noun
+  level: B2
+decade:
+  pos:
+  - noun
+  level: B1
+December:
+  pos:
+  - noun
+  level: A1
+decent:
+  pos:
+  - adjective
+  level: B2
+decide:
+  pos:
+  - verb
+  level: A1
+decision:
+  pos:
+  - noun
+  level: A2
+declare:
+  pos:
+  - verb
+  level: B2
+decline:
+  level: B2
+  pos:
+  - noun
+  - verb
+decorate:
+  pos:
+  - verb
+  level: B1
+decoration:
+  pos:
+  - noun
+  level: B2
+decrease:
+  level: B2
+  pos:
+  - noun
+  - verb
+deep:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+deeply:
+  pos:
+  - adverb
+  level: B2
+defeat:
+  level: B2
+  pos:
+  - noun
+  - verb
+defence:
+  pos:
+  - noun
+  level: B2
+defend:
+  pos:
+  - verb
+  level: B2
+define:
+  pos:
+  - verb
+  level: B1
+definite:
+  pos:
+  - adjective
+  level: B1
+definitely:
+  pos:
+  - adverb
+  level: A2
+definition:
+  pos:
+  - noun
+  level: B1
+degree:
+  pos:
+  - noun
+  level: A2
+delay:
+  level: B2
+  pos:
+  - noun
+  - verb
+deliberate:
+  pos:
+  - adjective
+  level: B2
+deliberately:
+  pos:
+  - adverb
+  level: B2
+delicious:
+  pos:
+  - adjective
+  level: A1
+delight:
+  level: B2
+  pos:
+  - noun
+  - verb
+delighted:
+  pos:
+  - adjective
+  level: B2
+deliver:
+  pos:
+  - verb
+  level: B1
+delivery:
+  pos:
+  - noun
+  level: B2
+demand:
+  level: B2
+  pos:
+  - noun
+  - verb
+demonstrate:
+  pos:
+  - verb
+  level: B2
+dentist:
+  pos:
+  - noun
+  level: A2
+deny:
+  pos:
+  - verb
+  level: B2
+department:
+  pos:
+  - noun
+  level: A2
+departure:
+  pos:
+  - noun
+  level: B1
+depend:
+  pos:
+  - verb
+  level: A2
+depressed:
+  pos:
+  - adjective
+  level: B2
+depressing:
+  pos:
+  - adjective
+  level: B2
+depth:
+  pos:
+  - noun
+  level: B2
+describe:
+  pos:
+  - verb
+  level: A1
+description:
+  pos:
+  - noun
+  level: A1
+desert:
+  level: B2
+  pos:
+  - noun
+  - verb
+deserve:
+  pos:
+  - verb
+  level: B2
+design:
+  level: A1
+  pos:
+  - noun
+  - verb
+designer:
+  pos:
+  - noun
+  level: A2
+desire:
+  level: B2
+  pos:
+  - noun
+  - verb
+desk:
+  pos:
+  - noun
+  level: A1
+desperate:
+  pos:
+  - adjective
+  level: B2
+despite:
+  pos:
+  - preposition
+  level: B1
+destination:
+  pos:
+  - noun
+  level: B1
+destroy:
+  pos:
+  - verb
+  level: A2
+detail:
+  level: B2
+  pos:
+  - noun
+  - verb
+detailed:
+  pos:
+  - adjective
+  level: B2
+detect:
+  pos:
+  - verb
+  level: B2
+detective:
+  pos:
+  - noun
+  level: A2
+determine:
+  pos:
+  - verb
+  level: B1
+determined:
+  pos:
+  - adjective
+  level: B1
+develop:
+  pos:
+  - verb
+  level: A2
+development:
+  pos:
+  - noun
+  level: B1
+device:
+  pos:
+  - noun
+  level: A2
+diagram:
+  pos:
+  - noun
+  level: B1
+dialogue:
+  pos:
+  - noun
+  level: A1
+diamond:
+  pos:
+  - noun
+  level: B1
+diary:
+  pos:
+  - noun
+  level: A2
+dictionary:
+  pos:
+  - noun
+  level: A1
+die:
+  pos:
+  - verb
+  level: A1
+diet:
+  pos:
+  - noun
+  level: A1
+difference:
+  pos:
+  - noun
+  level: A1
+different:
+  pos:
+  - adjective
+  level: A1
+differently:
+  pos:
+  - adverb
+  level: A2
+difficult:
+  pos:
+  - adjective
+  level: A1
+difficulty:
+  pos:
+  - noun
+  level: B1
+dig:
+  pos:
+  - verb
+  level: B2
+digital:
+  pos:
+  - adjective
+  level: A2
+dinner:
+  pos:
+  - noun
+  level: A1
+direct:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+  - verb
+direction:
+  pos:
+  - noun
+  level: A2
+directly:
+  pos:
+  - adverb
+  level: B1
+director:
+  pos:
+  - noun
+  level: A2
+dirt:
+  pos:
+  - noun
+  level: B1
+dirty:
+  pos:
+  - adjective
+  level: A1
+disadvantage:
+  pos:
+  - noun
+  level: B1
+disagree:
+  pos:
+  - verb
+  level: A2
+disappear:
+  pos:
+  - verb
+  level: A2
+disappointed:
+  pos:
+  - adjective
+  level: B1
+disappointing:
+  pos:
+  - adjective
+  level: B1
+disaster:
+  pos:
+  - noun
+  level: A2
+disc:
+  pos:
+  - noun
+  level: B2
+discipline:
+  pos:
+  - noun
+  level: B2
+discount:
+  level: B2
+  pos:
+  - noun
+  - verb
+discover:
+  pos:
+  - verb
+  level: A2
+discovery:
+  pos:
+  - noun
+  level: A2
+discuss:
+  pos:
+  - verb
+  level: A1
+discussion:
+  pos:
+  - noun
+  level: A2
+disease:
+  pos:
+  - noun
+  level: A2
+dish:
+  pos:
+  - noun
+  level: A1
+dishonest:
+  pos:
+  - adjective
+  level: B2
+disk:
+  pos:
+  - noun
+  level: B2
+dislike:
+  level: B1
+  pos:
+  - noun
+  - verb
+dismiss:
+  pos:
+  - verb
+  level: B2
+display:
+  level: B2
+  pos:
+  - noun
+  - verb
+distance:
+  pos:
+  - noun
+  level: A2
+distribute:
+  pos:
+  - verb
+  level: B2
+distribution:
+  pos:
+  - noun
+  level: B2
+district:
+  pos:
+  - noun
+  level: B2
+divide:
+  level: B1
+  pos:
+  - noun
+  - verb
+division:
+  pos:
+  - noun
+  level: B2
+divorced:
+  pos:
+  - adjective
+  level: A2
+do:
+  level: A1
+  pos:
+  - verb
+  - auxiliary
+  - verb
+doctor:
+  pos:
+  - noun
+  level: A1
+document:
+  level: B2
+  pos:
+  - noun
+  - verb
+documentary:
+  pos:
+  - noun
+  level: B1
+dog:
+  pos:
+  - noun
+  level: A1
+dollar:
+  pos:
+  - noun
+  level: A1
+domestic:
+  pos:
+  - adjective
+  level: B2
+dominate:
+  pos:
+  - verb
+  level: B2
+donate:
+  pos:
+  - verb
+  level: B1
+door:
+  pos:
+  - noun
+  level: A1
+double:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+  - determiner
+  - pronoun
+  - verb
+doubt:
+  level: B1
+  pos:
+  - noun
+  - verb
+down:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+download:
+  level: A2
+  pos:
+  - noun
+  - verb
+downstairs:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+downwards:
+  pos:
+  - adverb
+  level: B2
+dozen:
+  level: B2
+  pos:
+  - determiner
+  - noun
+draft:
+  level: B2
+  pos:
+  - noun
+  - verb
+drag:
+  pos:
+  - verb
+  level: B2
+drama:
+  pos:
+  - noun
+  level: A2
+dramatic:
+  pos:
+  - adjective
+  level: B2
+draw:
+  pos:
+  - verb
+  level: A1
+drawing:
+  pos:
+  - noun
+  level: A2
+dream:
+  level: A2
+  pos:
+  - noun
+  - verb
+dress:
+  level: A1
+  pos:
+  - noun
+  - verb
+dressed:
+  pos:
+  - adjective
+  level: B1
+drink:
+  level: A1
+  pos:
+  - noun
+  - verb
+drive:
+  level: A1
+  pos:
+  - noun
+  - verb
+driver:
+  pos:
+  - noun
+  level: A1
+driving:
+  pos:
+  - noun
+  level: A2
+drop:
+  level: A2
+  pos:
+  - noun
+  - verb
+drug:
+  pos:
+  - noun
+  level: A2
+drum:
+  pos:
+  - noun
+  level: B1
+drunk:
+  pos:
+  - adjective
+  level: B1
+dry:
+  level: A2
+  pos:
+  - adjective
+  - verb
+due:
+  pos:
+  - adjective
+  level: B1
+during:
+  pos:
+  - preposition
+  level: A1
+dust:
+  pos:
+  - noun
+  level: B1
+duty:
+  pos:
+  - noun
+  level: B1
+DVD:
+  pos:
+  - noun
+  level: A1
+each:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+ear:
+  pos:
+  - noun
+  level: A1
+early:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+earn:
+  pos:
+  - verb
+  level: A2
+earth:
+  pos:
+  - noun
+  level: A2
+earthquake:
+  pos:
+  - noun
+  level: B1
+easily:
+  pos:
+  - adverb
+  level: A2
+east:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+eastern:
+  pos:
+  - adjective
+  level: B1
+easy:
+  pos:
+  - adjective
+  level: A1
+eat:
+  pos:
+  - verb
+  level: A1
+economic:
+  pos:
+  - adjective
+  level: B1
+economy:
+  pos:
+  - noun
+  level: B1
+edge:
+  pos:
+  - noun
+  level: B1
+edit:
+  pos:
+  - verb
+  level: B2
+edition:
+  pos:
+  - noun
+  level: B2
+editor:
+  pos:
+  - noun
+  level: B1
+educate:
+  pos:
+  - verb
+  level: B1
+educated:
+  pos:
+  - adjective
+  level: B1
+education:
+  pos:
+  - noun
+  level: A2
+educational:
+  pos:
+  - adjective
+  level: B1
+effect:
+  pos:
+  - noun
+  level: A2
+effective:
+  pos:
+  - adjective
+  level: B1
+effectively:
+  pos:
+  - adverb
+  level: B1
+efficient:
+  pos:
+  - adjective
+  level: B2
+effort:
+  pos:
+  - noun
+  level: B1
+egg:
+  pos:
+  - noun
+  level: A1
+eight:
+  pos:
+  - number
+  level: A1
+eighteen:
+  pos:
+  - number
+  level: A1
+eighty:
+  pos:
+  - number
+  level: A1
+either:
+  level: A2
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+elderly:
+  pos:
+  - adjective
+  level: B2
+elect:
+  pos:
+  - verb
+  level: B2
+election:
+  pos:
+  - noun
+  level: B1
+electric:
+  pos:
+  - adjective
+  level: A2
+electrical:
+  pos:
+  - adjective
+  level: A2
+electricity:
+  pos:
+  - noun
+  level: A2
+electronic:
+  pos:
+  - adjective
+  level: A2
+element:
+  pos:
+  - noun
+  level: B1
+elephant:
+  pos:
+  - noun
+  level: A1
+eleven:
+  pos:
+  - number
+  level: A1
+else:
+  pos:
+  - adverb
+  level: A1
+elsewhere:
+  pos:
+  - adverb
+  level: B2
+email:
+  level: A1
+  pos:
+  - noun
+  - verb
+embarrassed:
+  pos:
+  - adjective
+  level: B1
+embarrassing:
+  pos:
+  - adjective
+  level: B1
+emerge:
+  pos:
+  - verb
+  level: B2
+emergency:
+  pos:
+  - noun
+  level: B1
+emotion:
+  pos:
+  - noun
+  level: B1
+emotional:
+  pos:
+  - adjective
+  level: B2
+emphasis:
+  pos:
+  - noun
+  level: B2
+emphasize:
+  pos:
+  - verb
+  level: B2
+employ:
+  pos:
+  - verb
+  level: A2
+employee:
+  pos:
+  - noun
+  level: A2
+employer:
+  pos:
+  - noun
+  level: A2
+employment:
+  pos:
+  - noun
+  level: B1
+empty:
+  level: B1
+  pos:
+  - adjective
+  - verb
+enable:
+  pos:
+  - verb
+  level: B2
+encounter:
+  level: B2
+  pos:
+  - noun
+  - verb
+encourage:
+  pos:
+  - verb
+  level: B1
+end:
+  level: A1
+  pos:
+  - noun
+  - verb
+ending:
+  pos:
+  - noun
+  level: A2
+enemy:
+  pos:
+  - noun
+  level: B1
+energy:
+  pos:
+  - noun
+  level: A2
+engage:
+  pos:
+  - verb
+  level: B2
+engaged:
+  pos:
+  - adjective
+  level: B1
+engine:
+  pos:
+  - noun
+  level: A2
+engineer:
+  pos:
+  - noun
+  level: A2
+engineering:
+  pos:
+  - noun
+  level: B1
+enhance:
+  pos:
+  - verb
+  level: B2
+enjoy:
+  pos:
+  - verb
+  level: A1
+enormous:
+  pos:
+  - adjective
+  level: A2
+enough:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+enquiry:
+  pos:
+  - noun
+  level: B2
+ensure:
+  pos:
+  - verb
+  level: B2
+enter:
+  pos:
+  - verb
+  level: A2
+entertain:
+  pos:
+  - verb
+  level: B1
+entertainment:
+  pos:
+  - noun
+  level: B1
+enthusiasm:
+  pos:
+  - noun
+  level: B2
+enthusiastic:
+  pos:
+  - adjective
+  level: B2
+entire:
+  pos:
+  - adjective
+  level: B2
+entirely:
+  pos:
+  - adverb
+  level: B2
+entrance:
+  pos:
+  - noun
+  level: B1
+entry:
+  pos:
+  - noun
+  level: B1
+environment:
+  pos:
+  - noun
+  level: A2
+environmental:
+  pos:
+  - adjective
+  level: B1
+episode:
+  pos:
+  - noun
+  level: B1
+equal:
+  level: B1
+  pos:
+  - adjective
+  - noun
+  - verb
+equally:
+  pos:
+  - adverb
+  level: B1
+equipment:
+  pos:
+  - noun
+  level: A2
+error:
+  pos:
+  - noun
+  level: A2
+escape:
+  level: B1
+  pos:
+  - noun
+  - verb
+especially:
+  pos:
+  - adverb
+  level: A2
+essay:
+  pos:
+  - noun
+  level: A2
+essential:
+  pos:
+  - adjective
+  level: B1
+establish:
+  pos:
+  - verb
+  level: B2
+estate:
+  pos:
+  - noun
+  level: B2
+estimate:
+  level: B2
+  pos:
+  - noun
+  - verb
+ethical:
+  pos:
+  - adjective
+  level: B2
+euro:
+  pos:
+  - noun
+  level: A1
+evaluate:
+  pos:
+  - verb
+  level: B2
+even:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+evening:
+  pos:
+  - noun
+  level: A1
+event:
+  pos:
+  - noun
+  level: A1
+eventually:
+  pos:
+  - adverb
+  level: B1
+ever:
+  pos:
+  - adverb
+  level: A1
+every:
+  pos:
+  - determiner
+  level: A1
+everybody:
+  pos:
+  - pronoun
+  level: A1
+everyday:
+  pos:
+  - adjective
+  level: A2
+everyone:
+  pos:
+  - pronoun
+  level: A1
+everything:
+  pos:
+  - pronoun
+  level: A1
+everywhere:
+  pos:
+  - adverb
+  level: A2
+evidence:
+  pos:
+  - noun
+  level: A2
+evil:
+  level: B2
+  pos:
+  - adjective
+  - noun
+exact:
+  pos:
+  - adjective
+  level: A2
+exactly:
+  pos:
+  - adverb
+  level: A2
+exam:
+  pos:
+  - noun
+  level: A1
+examination:
+  pos:
+  - noun
+  level: B2
+examine:
+  pos:
+  - verb
+  level: B1
+example:
+  pos:
+  - noun
+  level: A1
+excellent:
+  pos:
+  - adjective
+  level: A2
+except:
+  level: A2
+  pos:
+  - conjunction
+  - preposition
+exchange:
+  level: B1
+  pos:
+  - noun
+  - verb
+excited:
+  pos:
+  - adjective
+  level: A1
+excitement:
+  pos:
+  - noun
+  level: B1
+exciting:
+  pos:
+  - adjective
+  level: A1
+excuse:
+  level: B2
+  pos:
+  - noun
+  - verb
+executive:
+  level: B2
+  pos:
+  - adjective
+  - noun
+exercise:
+  level: A1
+  pos:
+  - noun
+  - verb
+exhibition:
+  pos:
+  - noun
+  level: B1
+exist:
+  pos:
+  - verb
+  level: A2
+existence:
+  pos:
+  - noun
+  level: B2
+expand:
+  pos:
+  - verb
+  level: B1
+expect:
+  pos:
+  - verb
+  level: A2
+expectation:
+  pos:
+  - noun
+  level: B2
+expected:
+  pos:
+  - adjective
+  level: B1
+expedition:
+  pos:
+  - noun
+  level: B1
+expense:
+  pos:
+  - noun
+  level: B2
+expensive:
+  pos:
+  - adjective
+  level: A1
+experience:
+  level: B1
+  pos:
+  - noun
+  - verb
+experienced:
+  pos:
+  - adjective
+  level: B1
+experiment:
+  level: B1
+  pos:
+  - noun
+  - verb
+expert:
+  level: A2
+  pos:
+  - adjective
+  - noun
+explain:
+  pos:
+  - verb
+  level: A1
+explanation:
+  pos:
+  - noun
+  level: A2
+explode:
+  pos:
+  - verb
+  level: B1
+exploration:
+  pos:
+  - noun
+  level: B2
+explore:
+  pos:
+  - verb
+  level: B1
+explosion:
+  pos:
+  - noun
+  level: B1
+export:
+  level: B1
+  pos:
+  - noun
+  - verb
+expose:
+  pos:
+  - verb
+  level: B2
+express:
+  pos:
+  - verb
+  level: A2
+expression:
+  pos:
+  - noun
+  level: A2
+extend:
+  pos:
+  - verb
+  level: B2
+extent:
+  pos:
+  - noun
+  level: B2
+external:
+  pos:
+  - adjective
+  level: B2
+extra:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+  - noun
+extraordinary:
+  pos:
+  - adjective
+  level: B2
+extreme:
+  level: B2
+  pos:
+  - adjective
+  - noun
+extremely:
+  pos:
+  - adverb
+  level: A2
+eye:
+  pos:
+  - noun
+  level: A1
+face:
+  level: B1
+  pos:
+  - noun
+  - verb
+facility:
+  pos:
+  - noun
+  level: B2
+fact:
+  pos:
+  - noun
+  level: A1
+factor:
+  pos:
+  - noun
+  level: A2
+factory:
+  pos:
+  - noun
+  level: A2
+fail:
+  pos:
+  - verb
+  level: A2
+failure:
+  pos:
+  - noun
+  level: B2
+fair:
+  pos:
+  - adjective
+  level: A2
+fairly:
+  pos:
+  - adverb
+  level: B1
+faith:
+  pos:
+  - noun
+  level: B2
+fall:
+  level: A1
+  pos:
+  - noun
+  - verb
+'false':
+  pos:
+  - adjective
+  level: A1
+familiar:
+  pos:
+  - adjective
+  level: B1
+family:
+  level: A1
+  pos:
+  - adjective
+  - noun
+famous:
+  pos:
+  - adjective
+  level: A1
+fan:
+  pos:
+  - noun
+  level: A2
+fancy:
+  level: B1
+  pos:
+  - adjective
+  - verb
+fantastic:
+  pos:
+  - adjective
+  level: A1
+far:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+farm:
+  level: A2
+  pos:
+  - noun
+  - verb
+farmer:
+  pos:
+  - noun
+  level: A1
+farming:
+  pos:
+  - noun
+  level: A2
+fascinating:
+  pos:
+  - adjective
+  level: B1
+fashion:
+  pos:
+  - noun
+  level: A2
+fashionable:
+  pos:
+  - adjective
+  level: B1
+fast:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+fasten:
+  pos:
+  - verb
+  level: B1
+fat:
+  level: A2
+  pos:
+  - adjective
+  - noun
+father:
+  pos:
+  - noun
+  level: A1
+fault:
+  pos:
+  - noun
+  level: B2
+favour:
+  level: B2
+  pos:
+  - noun
+  - verb
+favourite:
+  level: A1
+  pos:
+  - adjective
+  - noun
+fear:
+  level: B1
+  pos:
+  - noun
+  - verb
+feather:
+  pos:
+  - noun
+  level: B2
+feature:
+  level: B1
+  pos:
+  - noun
+  - verb
+February:
+  pos:
+  - noun
+  level: A1
+fee:
+  pos:
+  - noun
+  level: B2
+feed:
+  level: A2
+  pos:
+  - noun
+  - verb
+feedback:
+  pos:
+  - noun
+  level: B2
+feel:
+  level: A1
+  pos:
+  - noun
+  - verb
+feeling:
+  pos:
+  - noun
+  level: A1
+fellow:
+  pos:
+  - adjective
+  level: B2
+female:
+  level: A2
+  pos:
+  - adjective
+  - noun
+fence:
+  pos:
+  - noun
+  level: B1
+festival:
+  pos:
+  - noun
+  level: A1
+few:
+  level: A1
+  pos:
+  - adjective
+  - determiner
+  - pronoun
+fiction:
+  pos:
+  - noun
+  level: A2
+field:
+  pos:
+  - noun
+  level: A2
+fifteen:
+  pos:
+  - number
+  level: A1
+fifth:
+  pos:
+  - ordinal
+  - number
+  level: A1
+fifty:
+  pos:
+  - number
+  level: A1
+fight:
+  level: A2
+  pos:
+  - noun
+  - verb
+fighting:
+  pos:
+  - noun
+  level: B1
+figure:
+  level: B2
+  pos:
+  - noun
+  - verb
+file:
+  level: B2
+  pos:
+  - noun
+  - verb
+fill:
+  pos:
+  - verb
+  level: A1
+film:
+  level: A2
+  pos:
+  - noun
+  - verb
+final:
+  level: A2
+  pos:
+  - adjective
+  - noun
+finally:
+  pos:
+  - adverb
+  level: A2
+finance:
+  level: B2
+  pos:
+  - noun
+  - verb
+financial:
+  pos:
+  - adjective
+  level: B1
+find:
+  pos:
+  - verb
+  level: A1
+finding:
+  pos:
+  - noun
+  level: B2
+fine:
+  pos:
+  - adjective
+  level: A1
+finger:
+  pos:
+  - noun
+  level: A2
+finish:
+  level: A1
+  pos:
+  - noun
+  - verb
+fire:
+  level: B1
+  pos:
+  - noun
+  - verb
+firm:
+  pos:
+  - noun
+  level: B2
+first:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - noun
+  - ordinal
+  - number
+firstly:
+  pos:
+  - adverb
+  level: A2
+fish:
+  level: A2
+  pos:
+  - noun
+  - verb
+fishing:
+  pos:
+  - noun
+  level: A2
+fit:
+  level: A2
+  pos:
+  - adjective
+  - verb
+fitness:
+  pos:
+  - noun
+  level: B1
+five:
+  pos:
+  - number
+  level: A1
+fix:
+  level: A2
+  pos:
+  - noun
+  - verb
+fixed:
+  pos:
+  - adjective
+  level: B1
+flag:
+  pos:
+  - noun
+  level: B1
+flame:
+  pos:
+  - noun
+  level: B2
+flash:
+  level: B2
+  pos:
+  - noun
+  - verb
+flat:
+  level: A1
+  pos:
+  - adjective
+  - noun
+flexible:
+  pos:
+  - adjective
+  level: B2
+flight:
+  pos:
+  - noun
+  level: A1
+float:
+  pos:
+  - verb
+  level: B2
+flood:
+  level: B1
+  pos:
+  - noun
+  - verb
+floor:
+  pos:
+  - noun
+  level: A1
+flour:
+  pos:
+  - noun
+  level: B1
+flow:
+  level: B1
+  pos:
+  - noun
+  - verb
+flower:
+  pos:
+  - noun
+  level: A1
+flu:
+  pos:
+  - noun
+  level: A2
+fly:
+  level: A1
+  pos:
+  - noun
+  - verb
+flying:
+  level: A2
+  pos:
+  - adjective
+  - noun
+focus:
+  level: A2
+  pos:
+  - noun
+  - verb
+fold:
+  level: B1
+  pos:
+  - noun
+  - verb
+folding:
+  pos:
+  - adjective
+  level: B2
+folk:
+  level: B1
+  pos:
+  - adjective
+  - noun
+follow:
+  pos:
+  - verb
+  level: A1
+following:
+  level: B2
+  pos:
+  - adjective
+  - noun
+  - preposition
+food:
+  pos:
+  - noun
+  level: A1
+foot:
+  pos:
+  - noun
+  level: A1
+football:
+  pos:
+  - noun
+  level: A1
+for:
+  pos:
+  - preposition
+  level: A1
+force:
+  level: B1
+  pos:
+  - noun
+  - verb
+foreign:
+  pos:
+  - adjective
+  level: A2
+forest:
+  pos:
+  - noun
+  level: A2
+forever:
+  pos:
+  - adverb
+  level: B1
+forget:
+  pos:
+  - verb
+  level: A1
+forgive:
+  pos:
+  - verb
+  level: B2
+fork:
+  pos:
+  - noun
+  level: A2
+form:
+  level: A1
+  pos:
+  - noun
+  - verb
+formal:
+  pos:
+  - adjective
+  level: A2
+former:
+  pos:
+  - adjective
+  level: B2
+fortunately:
+  pos:
+  - adverb
+  level: A2
+fortune:
+  pos:
+  - noun
+  level: B2
+forty:
+  pos:
+  - number
+  level: A1
+forward:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+found:
+  pos:
+  - verb
+  level: B2
+four:
+  pos:
+  - number
+  level: A1
+fourteen:
+  pos:
+  - number
+  level: A1
+fourth:
+  pos:
+  - ordinal
+  - number
+  level: A1
+frame:
+  level: B1
+  pos:
+  - noun
+  - verb
+free:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - verb
+freedom:
+  pos:
+  - noun
+  level: B2
+freeze:
+  pos:
+  - verb
+  level: B1
+frequency:
+  pos:
+  - noun
+  level: B2
+frequently:
+  pos:
+  - adverb
+  level: B1
+fresh:
+  pos:
+  - adjective
+  level: A2
+Friday:
+  pos:
+  - noun
+  level: A1
+fridge:
+  pos:
+  - noun
+  level: A2
+friend:
+  pos:
+  - noun
+  level: A1
+friendly:
+  pos:
+  - adjective
+  level: A1
+friendship:
+  pos:
+  - noun
+  level: B1
+frighten:
+  pos:
+  - verb
+  level: B1
+frightened:
+  pos:
+  - adjective
+  level: B1
+frightening:
+  pos:
+  - adjective
+  level: B1
+frog:
+  pos:
+  - noun
+  level: A2
+from:
+  pos:
+  - preposition
+  level: A1
+front:
+  level: A1
+  pos:
+  - adjective
+  - noun
+frozen:
+  pos:
+  - adjective
+  level: B1
+fruit:
+  pos:
+  - noun
+  level: A1
+fry:
+  pos:
+  - verb
+  level: B1
+fuel:
+  level: B2
+  pos:
+  - noun
+  - verb
+full:
+  pos:
+  - adjective
+  level: A1
+fully:
+  pos:
+  - adverb
+  level: B2
+fun:
+  level: A1
+  pos:
+  - adjective
+  - noun
+function:
+  level: B2
+  pos:
+  - noun
+  - verb
+fund:
+  level: B2
+  pos:
+  - noun
+  - verb
+fundamental:
+  pos:
+  - adjective
+  level: B2
+funding:
+  pos:
+  - noun
+  level: B2
+funny:
+  pos:
+  - adjective
+  level: A1
+fur:
+  pos:
+  - noun
+  level: B1
+furniture:
+  pos:
+  - noun
+  level: A2
+further:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+furthermore:
+  pos:
+  - adverb
+  level: B2
+future:
+  level: A1
+  pos:
+  - adjective
+  - noun
+gain:
+  level: B2
+  pos:
+  - noun
+  - verb
+gallery:
+  pos:
+  - noun
+  level: A2
+game:
+  pos:
+  - noun
+  level: A1
+gang:
+  pos:
+  - noun
+  level: B2
+gap:
+  pos:
+  - noun
+  level: A2
+garage:
+  pos:
+  - noun
+  level: B1
+garden:
+  pos:
+  - noun
+  level: A1
+gas:
+  pos:
+  - noun
+  level: A2
+gate:
+  pos:
+  - noun
+  level: A2
+gather:
+  pos:
+  - verb
+  level: B1
+general:
+  pos:
+  - adjective
+  level: A2
+generally:
+  pos:
+  - adverb
+  level: B1
+generate:
+  pos:
+  - verb
+  level: B2
+generation:
+  pos:
+  - noun
+  level: B1
+generous:
+  pos:
+  - adjective
+  level: B1
+genre:
+  pos:
+  - noun
+  level: B2
+gentle:
+  pos:
+  - adjective
+  level: B1
+gentleman:
+  pos:
+  - noun
+  level: B1
+geography:
+  pos:
+  - noun
+  level: A1
+get:
+  pos:
+  - verb
+  level: A1
+ghost:
+  pos:
+  - noun
+  level: B1
+giant:
+  level: B1
+  pos:
+  - adjective
+  - noun
+gift:
+  pos:
+  - noun
+  level: A2
+girl:
+  pos:
+  - noun
+  level: A1
+girlfriend:
+  pos:
+  - noun
+  level: A1
+give:
+  pos:
+  - verb
+  level: A1
+glad:
+  pos:
+  - adjective
+  level: B1
+glass:
+  pos:
+  - noun
+  level: A1
+global:
+  pos:
+  - adjective
+  level: B1
+glove:
+  pos:
+  - noun
+  level: B1
+go:
+  level: A1
+  pos:
+  - noun
+  - verb
+goal:
+  pos:
+  - noun
+  level: A2
+god:
+  pos:
+  - noun
+  level: A2
+gold:
+  level: A2
+  pos:
+  - adjective
+  - noun
+golf:
+  pos:
+  - noun
+  level: A2
+good:
+  level: A2
+  pos:
+  - adjective
+  - noun
+goodbye:
+  level: A1
+  pos:
+  - exclamation
+  - noun
+goods:
+  pos:
+  - noun
+  level: B1
+govern:
+  pos:
+  - verb
+  level: B2
+government:
+  pos:
+  - noun
+  level: A2
+grab:
+  pos:
+  - verb
+  level: B2
+grade:
+  level: B2
+  pos:
+  - noun
+  - verb
+gradually:
+  pos:
+  - adverb
+  level: B2
+graduate:
+  level: B1
+  pos:
+  - noun
+  - verb
+grain:
+  pos:
+  - noun
+  level: B1
+grand:
+  pos:
+  - adjective
+  level: B2
+grandfather:
+  pos:
+  - noun
+  level: A1
+grandmother:
+  pos:
+  - noun
+  level: A1
+grandparent:
+  pos:
+  - noun
+  level: A1
+grant:
+  level: B2
+  pos:
+  - noun
+  - verb
+grass:
+  pos:
+  - noun
+  level: A2
+grateful:
+  pos:
+  - adjective
+  level: B1
+great:
+  pos:
+  - adjective
+  level: A1
+green:
+  level: A1
+  pos:
+  - adjective
+  - noun
+greet:
+  pos:
+  - verb
+  level: A2
+grey:
+  level: A1
+  pos:
+  - adjective
+  - noun
+ground:
+  pos:
+  - noun
+  level: A2
+group:
+  pos:
+  - noun
+  level: A1
+grow:
+  pos:
+  - verb
+  level: A1
+growth:
+  pos:
+  - noun
+  level: B1
+guarantee:
+  level: B2
+  pos:
+  - noun
+  - verb
+guard:
+  level: B1
+  pos:
+  - noun
+  - verb
+guess:
+  level: A1
+  pos:
+  - noun
+  - verb
+guest:
+  pos:
+  - noun
+  level: A2
+guide:
+  level: A2
+  pos:
+  - noun
+  - verb
+guilty:
+  pos:
+  - adjective
+  level: B1
+guitar:
+  pos:
+  - noun
+  level: A1
+gun:
+  pos:
+  - noun
+  level: A2
+guy:
+  pos:
+  - noun
+  level: A2
+gym:
+  pos:
+  - noun
+  level: A1
+habit:
+  pos:
+  - noun
+  level: A2
+hair:
+  pos:
+  - noun
+  level: A1
+half:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - noun
+  - pronoun
+hall:
+  pos:
+  - noun
+  level: A2
+hand:
+  level: B1
+  pos:
+  - noun
+  - verb
+handle:
+  level: B2
+  pos:
+  - noun
+  - verb
+hang:
+  pos:
+  - verb
+  level: B1
+happen:
+  pos:
+  - verb
+  level: A1
+happily:
+  pos:
+  - adverb
+  level: A2
+happiness:
+  pos:
+  - noun
+  level: B1
+happy:
+  pos:
+  - adjective
+  level: A1
+hard:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+hardly:
+  pos:
+  - adverb
+  level: B1
+harm:
+  level: B2
+  pos:
+  - noun
+  - verb
+harmful:
+  pos:
+  - adjective
+  level: B2
+hat:
+  pos:
+  - noun
+  level: A1
+hate:
+  level: A1
+  pos:
+  - noun
+  - verb
+have:
+  level: A2
+  pos:
+  - verb
+  - auxiliary
+  - verb
+have to:
+  pos:
+  - modal
+  - verb
+  level: A1
+he:
+  pos:
+  - pronoun
+  level: A1
+head:
+  level: B1
+  pos:
+  - noun
+  - verb
+headache:
+  pos:
+  - noun
+  level: A2
+headline:
+  pos:
+  - noun
+  level: B1
+health:
+  pos:
+  - noun
+  level: A1
+healthy:
+  pos:
+  - adjective
+  level: A1
+hear:
+  pos:
+  - verb
+  level: A1
+hearing:
+  pos:
+  - noun
+  level: B2
+heart:
+  pos:
+  - noun
+  level: A2
+heat:
+  level: A2
+  pos:
+  - noun
+  - verb
+heating:
+  pos:
+  - noun
+  level: B1
+heaven:
+  pos:
+  - noun
+  level: B2
+heavily:
+  pos:
+  - adverb
+  level: B1
+heavy:
+  pos:
+  - adjective
+  level: A2
+heel:
+  pos:
+  - noun
+  level: B2
+height:
+  pos:
+  - noun
+  level: A2
+helicopter:
+  pos:
+  - noun
+  level: B1
+hell:
+  pos:
+  - noun
+  level: B2
+hello:
+  level: A1
+  pos:
+  - exclamation
+  - noun
+help:
+  level: A1
+  pos:
+  - noun
+  - verb
+helpful:
+  pos:
+  - adjective
+  level: A2
+her:
+  level: A1
+  pos:
+  - determiner
+  - pronoun
+here:
+  pos:
+  - adverb
+  level: A1
+hero:
+  pos:
+  - noun
+  level: A2
+hers:
+  pos:
+  - pronoun
+  level: A2
+herself:
+  pos:
+  - pronoun
+  level: A2
+hesitate:
+  pos:
+  - verb
+  level: B2
+hey:
+  pos:
+  - exclamation
+  level: A1
+hi:
+  pos:
+  - exclamation
+  level: A1
+hide:
+  pos:
+  - verb
+  level: A2
+high:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - noun
+highlight:
+  level: B1
+  pos:
+  - noun
+  - verb
+highly:
+  pos:
+  - adverb
+  level: B1
+hill:
+  pos:
+  - noun
+  level: A2
+him:
+  pos:
+  - pronoun
+  level: A1
+himself:
+  pos:
+  - pronoun
+  level: A2
+hire:
+  level: B1
+  pos:
+  - noun
+  - verb
+his:
+  level: A2
+  pos:
+  - determiner
+  - pronoun
+historic:
+  pos:
+  - adjective
+  level: B1
+historical:
+  pos:
+  - adjective
+  level: B1
+history:
+  pos:
+  - noun
+  level: A1
+hit:
+  level: A2
+  pos:
+  - noun
+  - verb
+hobby:
+  pos:
+  - noun
+  level: A1
+hockey:
+  pos:
+  - noun
+  level: A2
+hold:
+  level: A2
+  pos:
+  - noun
+  - verb
+hole:
+  pos:
+  - noun
+  level: A2
+holiday:
+  pos:
+  - noun
+  level: A1
+hollow:
+  pos:
+  - adjective
+  level: B2
+holy:
+  pos:
+  - adjective
+  level: B2
+home:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+homework:
+  pos:
+  - noun
+  level: A1
+honest:
+  pos:
+  - adjective
+  level: B1
+honour:
+  level: B2
+  pos:
+  - noun
+  - verb
+hope:
+  level: A1
+  pos:
+  - noun
+  - verb
+horrible:
+  pos:
+  - adjective
+  level: B1
+horror:
+  pos:
+  - noun
+  level: B1
+horse:
+  pos:
+  - noun
+  level: A1
+hospital:
+  pos:
+  - noun
+  level: A1
+host:
+  level: B2
+  pos:
+  - noun
+  - verb
+hot:
+  pos:
+  - adjective
+  level: A1
+hotel:
+  pos:
+  - noun
+  level: A1
+hour:
+  pos:
+  - noun
+  level: A1
+house:
+  level: B2
+  pos:
+  - noun
+  - verb
+household:
+  pos:
+  - noun
+  level: B2
+housing:
+  pos:
+  - noun
+  level: B2
+how:
+  pos:
+  - adverb
+  level: A1
+however:
+  pos:
+  - adverb
+  level: A1
+huge:
+  pos:
+  - adjective
+  level: A2
+human:
+  level: A2
+  pos:
+  - adjective
+  - noun
+humorous:
+  pos:
+  - adjective
+  level: B2
+humour:
+  pos:
+  - noun
+  level: B2
+hundred:
+  pos:
+  - number
+  level: A1
+hungry:
+  pos:
+  - adjective
+  level: A1
+hunt:
+  level: B1
+  pos:
+  - noun
+  - verb
+hunting:
+  pos:
+  - noun
+  level: B2
+hurricane:
+  pos:
+  - noun
+  level: B1
+hurry:
+  level: B1
+  pos:
+  - noun
+  - verb
+hurt:
+  level: A2
+  pos:
+  - adjective
+  - noun
+  - verb
+husband:
+  pos:
+  - noun
+  level: A1
+I:
+  pos:
+  - pronoun
+  level: A1
+ice:
+  pos:
+  - noun
+  level: A1
+icecream:
+  pos:
+  - noun
+  level: A1
+idea:
+  pos:
+  - noun
+  level: A1
+ideal:
+  level: B2
+  pos:
+  - adjective
+  - noun
+identify:
+  pos:
+  - verb
+  level: A2
+identity:
+  pos:
+  - noun
+  level: B1
+if:
+  pos:
+  - conjunction
+  level: A1
+ignore:
+  pos:
+  - verb
+  level: B1
+ill:
+  pos:
+  - adjective
+  level: A2
+illegal:
+  pos:
+  - adjective
+  level: B1
+illness:
+  pos:
+  - noun
+  level: A2
+illustrate:
+  pos:
+  - verb
+  level: B2
+illustration:
+  pos:
+  - noun
+  level: B2
+image:
+  pos:
+  - noun
+  level: A2
+imaginary:
+  pos:
+  - adjective
+  level: B1
+imagination:
+  pos:
+  - noun
+  level: B2
+imagine:
+  pos:
+  - verb
+  level: A1
+immediate:
+  pos:
+  - adjective
+  level: B1
+immediately:
+  pos:
+  - adverb
+  level: A2
+immigrant:
+  pos:
+  - noun
+  level: B1
+impact:
+  level: B1
+  pos:
+  - noun
+  - verb
+impatient:
+  pos:
+  - adjective
+  level: B2
+imply:
+  pos:
+  - verb
+  level: B2
+import:
+  level: B1
+  pos:
+  - noun
+  - verb
+importance:
+  pos:
+  - noun
+  level: B1
+important:
+  pos:
+  - adjective
+  level: A1
+impose:
+  pos:
+  - verb
+  level: B2
+impossible:
+  pos:
+  - adjective
+  level: A2
+impress:
+  pos:
+  - verb
+  level: B2
+impressed:
+  pos:
+  - adjective
+  level: B2
+impression:
+  pos:
+  - noun
+  level: B1
+impressive:
+  pos:
+  - adjective
+  level: B1
+improve:
+  pos:
+  - verb
+  level: A1
+improvement:
+  pos:
+  - noun
+  level: B1
+in:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+inch:
+  pos:
+  - noun
+  level: B2
+incident:
+  pos:
+  - noun
+  level: B2
+include:
+  pos:
+  - verb
+  level: A1
+included:
+  pos:
+  - adjective
+  level: A2
+including:
+  pos:
+  - preposition
+  level: A2
+income:
+  pos:
+  - noun
+  level: B2
+increase:
+  level: A2
+  pos:
+  - noun
+  - verb
+increasingly:
+  pos:
+  - adverb
+  level: B2
+incredible:
+  pos:
+  - adjective
+  level: A2
+incredibly:
+  pos:
+  - adverb
+  level: B1
+indeed:
+  pos:
+  - adverb
+  level: B1
+independent:
+  pos:
+  - adjective
+  level: A2
+indicate:
+  pos:
+  - verb
+  level: B1
+indirect:
+  pos:
+  - adjective
+  level: B1
+individual:
+  level: A2
+  pos:
+  - adjective
+  - noun
+indoor:
+  pos:
+  - adjective
+  level: B1
+indoors:
+  pos:
+  - adverb
+  level: B1
+industrial:
+  pos:
+  - adjective
+  level: B2
+industry:
+  pos:
+  - noun
+  level: A2
+infection:
+  pos:
+  - noun
+  level: B2
+influence:
+  level: B1
+  pos:
+  - noun
+  - verb
+inform:
+  pos:
+  - verb
+  level: B2
+informal:
+  pos:
+  - adjective
+  level: A2
+information:
+  pos:
+  - noun
+  level: A1
+ingredient:
+  pos:
+  - noun
+  level: B1
+initial:
+  pos:
+  - adjective
+  level: B2
+initially:
+  pos:
+  - adverb
+  level: B2
+initiative:
+  pos:
+  - noun
+  level: B2
+injure:
+  pos:
+  - verb
+  level: B1
+injured:
+  pos:
+  - adjective
+  level: B1
+injury:
+  pos:
+  - noun
+  level: A2
+inner:
+  pos:
+  - adjective
+  level: B2
+innocent:
+  pos:
+  - adjective
+  level: B1
+inquiry:
+  pos:
+  - noun
+  level: B2
+insect:
+  pos:
+  - noun
+  level: A2
+inside:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+  - noun
+  - preposition
+insight:
+  pos:
+  - noun
+  level: B2
+insist:
+  pos:
+  - verb
+  level: B2
+inspire:
+  pos:
+  - verb
+  level: B2
+install:
+  pos:
+  - verb
+  level: B2
+instance:
+  pos:
+  - noun
+  level: B2
+instead:
+  pos:
+  - adverb
+  level: A2
+institute:
+  pos:
+  - noun
+  level: B2
+institution:
+  pos:
+  - noun
+  level: B2
+instruction:
+  pos:
+  - noun
+  level: A2
+instructor:
+  pos:
+  - noun
+  level: A2
+instrument:
+  pos:
+  - noun
+  level: A2
+insurance:
+  pos:
+  - noun
+  level: B2
+intelligence:
+  pos:
+  - noun
+  level: B1
+intelligent:
+  pos:
+  - adjective
+  level: A2
+intend:
+  pos:
+  - verb
+  level: B1
+intended:
+  pos:
+  - adjective
+  level: B2
+intense:
+  pos:
+  - adjective
+  level: B2
+intention:
+  pos:
+  - noun
+  level: B1
+interest:
+  level: A1
+  pos:
+  - noun
+  - verb
+interested:
+  pos:
+  - adjective
+  level: A1
+interesting:
+  pos:
+  - adjective
+  level: A1
+internal:
+  pos:
+  - adjective
+  level: B2
+international:
+  pos:
+  - adjective
+  level: A2
+internet:
+  pos:
+  - noun
+  level: A1
+interpret:
+  pos:
+  - verb
+  level: B2
+interrupt:
+  pos:
+  - verb
+  level: B2
+interview:
+  level: A1
+  pos:
+  - noun
+  - verb
+into:
+  pos:
+  - preposition
+  level: A1
+introduce:
+  pos:
+  - verb
+  level: A1
+introduction:
+  pos:
+  - noun
+  level: A2
+invent:
+  pos:
+  - verb
+  level: A2
+invention:
+  pos:
+  - noun
+  level: A2
+invest:
+  pos:
+  - verb
+  level: B1
+investigate:
+  pos:
+  - verb
+  level: B1
+investigation:
+  pos:
+  - noun
+  level: B2
+investment:
+  pos:
+  - noun
+  level: B2
+invitation:
+  pos:
+  - noun
+  level: A2
+invite:
+  pos:
+  - verb
+  level: A2
+involve:
+  pos:
+  - verb
+  level: A2
+involved:
+  pos:
+  - adjective
+  level: B1
+iron:
+  level: B1
+  pos:
+  - noun
+  - verb
+island:
+  pos:
+  - noun
+  level: A1
+issue:
+  level: B2
+  pos:
+  - noun
+  - verb
+IT:
+  pos:
+  - noun
+  level: B1
+it:
+  pos:
+  - pronoun
+  level: A1
+item:
+  pos:
+  - noun
+  level: A2
+its:
+  pos:
+  - determiner
+  level: A1
+itself:
+  pos:
+  - pronoun
+  level: A2
+jacket:
+  pos:
+  - noun
+  level: A1
+jam:
+  pos:
+  - noun
+  level: A2
+January:
+  pos:
+  - noun
+  level: A1
+jazz:
+  pos:
+  - noun
+  level: A2
+jeans:
+  pos:
+  - noun
+  level: A1
+jewellery:
+  pos:
+  - noun
+  level: A2
+job:
+  pos:
+  - noun
+  level: A1
+join:
+  pos:
+  - verb
+  level: A1
+joke:
+  level: A2
+  pos:
+  - noun
+  - verb
+journal:
+  pos:
+  - noun
+  level: B1
+journalist:
+  pos:
+  - noun
+  level: A2
+journey:
+  pos:
+  - noun
+  level: A1
+joy:
+  pos:
+  - noun
+  level: B2
+judge:
+  level: B1
+  pos:
+  - noun
+  - verb
+judgement:
+  pos:
+  - noun
+  level: B2
+juice:
+  pos:
+  - noun
+  level: A1
+July:
+  pos:
+  - noun
+  level: A1
+jump:
+  level: A2
+  pos:
+  - noun
+  - verb
+June:
+  pos:
+  - noun
+  level: A1
+junior:
+  pos:
+  - adjective
+  level: B2
+just:
+  pos:
+  - adverb
+  level: A1
+justice:
+  pos:
+  - noun
+  level: B2
+justify:
+  pos:
+  - verb
+  level: B2
+keen:
+  pos:
+  - adjective
+  level: B1
+keep:
+  pos:
+  - verb
+  level: A1
+key:
+  level: B1
+  pos:
+  - adjective
+  - noun
+  - verb
+keyboard:
+  pos:
+  - noun
+  level: B1
+kick:
+  level: B1
+  pos:
+  - noun
+  - verb
+kid:
+  pos:
+  - noun
+  level: A2
+kill:
+  pos:
+  - verb
+  level: A2
+killing:
+  pos:
+  - noun
+  level: B1
+kilometre:
+  pos:
+  - noun
+  level: A1
+kind:
+  level: A1
+  pos:
+  - adjective
+  - noun
+king:
+  pos:
+  - noun
+  level: A2
+kiss:
+  level: B1
+  pos:
+  - noun
+  - verb
+kitchen:
+  pos:
+  - noun
+  level: A1
+knee:
+  pos:
+  - noun
+  level: A2
+knife:
+  pos:
+  - noun
+  level: A2
+knock:
+  level: A2
+  pos:
+  - noun
+  - verb
+know:
+  pos:
+  - verb
+  level: A1
+knowledge:
+  pos:
+  - noun
+  level: A2
+lab:
+  pos:
+  - noun
+  level: A2
+label:
+  level: B1
+  pos:
+  - noun
+  - verb
+laboratory:
+  pos:
+  - noun
+  level: B1
+labour:
+  pos:
+  - noun
+  level: B2
+lack:
+  level: B1
+  pos:
+  - noun
+  - verb
+lady:
+  pos:
+  - noun
+  level: A2
+lake:
+  pos:
+  - noun
+  level: A2
+lamp:
+  pos:
+  - noun
+  level: A2
+land:
+  level: A2
+  pos:
+  - noun
+  - verb
+landscape:
+  pos:
+  - noun
+  level: B2
+language:
+  pos:
+  - noun
+  level: A1
+laptop:
+  pos:
+  - noun
+  level: A2
+large:
+  pos:
+  - adjective
+  level: A1
+largely:
+  pos:
+  - adverb
+  level: B2
+last:
+  level: A2
+  pos:
+  - adverb
+  - determiner
+  - noun
+  - verb
+late:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+later:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+latest:
+  level: B2
+  pos:
+  - adjective
+  - noun
+laugh:
+  level: A1
+  pos:
+  - noun
+  - verb
+laughter:
+  pos:
+  - noun
+  level: A2
+launch:
+  level: B2
+  pos:
+  - noun
+  - verb
+law:
+  pos:
+  - noun
+  level: A2
+lawyer:
+  pos:
+  - noun
+  level: A2
+lay:
+  pos:
+  - verb
+  level: B1
+layer:
+  pos:
+  - noun
+  level: B1
+lazy:
+  pos:
+  - adjective
+  level: A2
+lead:
+  level: A2
+  pos:
+  - noun
+  - verb
+leader:
+  pos:
+  - noun
+  level: A2
+leadership:
+  pos:
+  - noun
+  level: B2
+leading:
+  pos:
+  - adjective
+  level: B1
+leaf:
+  pos:
+  - noun
+  level: B1
+league:
+  pos:
+  - noun
+  level: B2
+lean:
+  pos:
+  - verb
+  level: B2
+learn:
+  pos:
+  - verb
+  level: A1
+learning:
+  pos:
+  - noun
+  level: A2
+least:
+  level: A2
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+leather:
+  pos:
+  - noun
+  level: B1
+leave:
+  level: A1
+  pos:
+  - noun
+  - verb
+lecture:
+  level: A2
+  pos:
+  - noun
+  - verb
+left:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+leg:
+  pos:
+  - noun
+  level: A1
+legal:
+  pos:
+  - adjective
+  level: B1
+leisure:
+  pos:
+  - noun
+  level: B1
+lemon:
+  pos:
+  - noun
+  level: A2
+lend:
+  pos:
+  - verb
+  level: A2
+length:
+  pos:
+  - noun
+  level: B1
+less:
+  level: A2
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+lesson:
+  pos:
+  - noun
+  level: A1
+let:
+  pos:
+  - verb
+  level: A1
+letter:
+  pos:
+  - noun
+  level: A1
+level:
+  level: B2
+  pos:
+  - adjective
+  - noun
+  - verb
+library:
+  pos:
+  - noun
+  level: A1
+licence:
+  pos:
+  - noun
+  level: B2
+lie:
+  level: B1
+  pos:
+  - noun
+  - verb
+  - verb
+life:
+  pos:
+  - noun
+  level: A1
+lifestyle:
+  pos:
+  - noun
+  level: A2
+lift:
+  level: A2
+  pos:
+  - noun
+  - verb
+light:
+  level: A2
+  pos:
+  - adjective
+  - noun
+  - verb
+like:
+  level: A1
+  pos:
+  - noun
+  - preposition
+  - verb
+likely:
+  pos:
+  - adjective
+  level: A2
+limit:
+  level: B1
+  pos:
+  - noun
+  - verb
+limited:
+  pos:
+  - adjective
+  level: B2
+line:
+  level: B2
+  pos:
+  - noun
+  - verb
+link:
+  level: A2
+  pos:
+  - noun
+  - verb
+lion:
+  pos:
+  - noun
+  level: A1
+lip:
+  pos:
+  - noun
+  level: B1
+liquid:
+  level: B1
+  pos:
+  - adjective
+  - noun
+list:
+  level: A1
+  pos:
+  - noun
+  - verb
+listen:
+  pos:
+  - verb
+  level: A1
+listener:
+  pos:
+  - noun
+  level: A2
+literature:
+  pos:
+  - noun
+  level: B1
+little:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - determiner
+  - pronoun
+live:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - verb
+lively:
+  pos:
+  - adjective
+  level: B2
+living:
+  level: B1
+  pos:
+  - adjective
+  - noun
+load:
+  level: B2
+  pos:
+  - noun
+  - verb
+loan:
+  pos:
+  - noun
+  level: B2
+local:
+  level: B1
+  pos:
+  - adjective
+  - noun
+locate:
+  pos:
+  - verb
+  level: B1
+located:
+  pos:
+  - adjective
+  level: B1
+location:
+  pos:
+  - noun
+  level: B1
+lock:
+  level: A2
+  pos:
+  - noun
+  - verb
+logical:
+  pos:
+  - adjective
+  level: B2
+lonely:
+  pos:
+  - adjective
+  level: B1
+long:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - term
+  - adjective
+  - term
+  - adverb
+look:
+  level: A1
+  pos:
+  - noun
+  - verb
+loose:
+  pos:
+  - adjective
+  level: B2
+lord:
+  pos:
+  - noun
+  level: B2
+lorry:
+  pos:
+  - noun
+  level: A2
+lose:
+  pos:
+  - verb
+  level: A1
+loss:
+  pos:
+  - noun
+  level: B1
+lost:
+  pos:
+  - adjective
+  level: A2
+lot:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+loud:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+loudly:
+  pos:
+  - adverb
+  level: A2
+love:
+  level: A1
+  pos:
+  - noun
+  - verb
+lovely:
+  pos:
+  - adjective
+  level: A2
+low:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - noun
+lower:
+  pos:
+  - verb
+  level: B2
+luck:
+  pos:
+  - noun
+  level: A2
+lucky:
+  pos:
+  - adjective
+  level: A2
+lunch:
+  pos:
+  - noun
+  level: A1
+lung:
+  pos:
+  - noun
+  level: B2
+luxury:
+  level: B1
+  pos:
+  - adjective
+  - noun
+machine:
+  pos:
+  - noun
+  level: A1
+mad:
+  pos:
+  - adjective
+  level: B1
+magazine:
+  pos:
+  - noun
+  level: A1
+magic:
+  level: B1
+  pos:
+  - adjective
+  - noun
+mail:
+  level: A2
+  pos:
+  - noun
+  - verb
+main:
+  pos:
+  - adjective
+  level: A1
+mainly:
+  pos:
+  - adverb
+  level: B1
+maintain:
+  pos:
+  - verb
+  level: B2
+major:
+  pos:
+  - adjective
+  level: A2
+majority:
+  pos:
+  - noun
+  level: B2
+make:
+  level: A1
+  pos:
+  - noun
+  - verb
+male:
+  level: A2
+  pos:
+  - adjective
+  - noun
+mall:
+  pos:
+  - noun
+  level: B1
+man:
+  pos:
+  - noun
+  level: A1
+manage:
+  pos:
+  - verb
+  level: A2
+management:
+  pos:
+  - noun
+  level: B1
+manager:
+  pos:
+  - noun
+  level: A2
+manner:
+  pos:
+  - noun
+  level: A2
+many:
+  level: A1
+  pos:
+  - determiner
+  - pronoun
+map:
+  level: B2
+  pos:
+  - noun
+  - verb
+March:
+  pos:
+  - noun
+  level: A1
+mark:
+  level: A2
+  pos:
+  - noun
+  - verb
+market:
+  level: B1
+  pos:
+  - noun
+  - verb
+marketing:
+  pos:
+  - noun
+  level: B1
+marriage:
+  pos:
+  - noun
+  level: B1
+married:
+  pos:
+  - adjective
+  level: A1
+marry:
+  pos:
+  - verb
+  level: A2
+mass:
+  level: B2
+  pos:
+  - adjective
+  - noun
+massive:
+  pos:
+  - adjective
+  level: B2
+master:
+  level: B2
+  pos:
+  - noun
+  - verb
+match:
+  level: A1
+  pos:
+  - noun
+  - verb
+matching:
+  pos:
+  - adjective
+  level: B2
+material:
+  level: A2
+  pos:
+  - adjective
+  - noun
+mathematics:
+  pos:
+  - noun
+  level: A2
+maths:
+  pos:
+  - noun
+  level: A2
+matter:
+  level: A2
+  pos:
+  - noun
+  - verb
+maximum:
+  level: B2
+  pos:
+  - adjective
+  - noun
+May:
+  pos:
+  - noun
+  level: A1
+may:
+  pos:
+  - modal
+  - verb
+  level: A2
+maybe:
+  pos:
+  - adverb
+  level: A1
+me:
+  pos:
+  - pronoun
+  level: A1
+meal:
+  pos:
+  - noun
+  level: A1
+mean:
+  pos:
+  - verb
+  level: A1
+meaning:
+  pos:
+  - noun
+  level: A1
+means:
+  pos:
+  - noun
+  level: B2
+meanwhile:
+  pos:
+  - adverb
+  level: B1
+measure:
+  level: B1
+  pos:
+  - noun
+  - verb
+measurement:
+  pos:
+  - noun
+  level: B2
+meat:
+  pos:
+  - noun
+  level: A1
+media:
+  pos:
+  - noun
+  level: A2
+medical:
+  pos:
+  - adjective
+  level: A2
+medicine:
+  pos:
+  - noun
+  level: A2
+medium:
+  level: B2
+  pos:
+  - adjective
+  - noun
+meet:
+  pos:
+  - verb
+  level: A1
+meeting:
+  pos:
+  - noun
+  level: A1
+melt:
+  pos:
+  - verb
+  level: B2
+member:
+  pos:
+  - noun
+  level: A1
+memory:
+  pos:
+  - noun
+  level: A2
+mental:
+  pos:
+  - adjective
+  level: B1
+mention:
+  level: A2
+  pos:
+  - noun
+  - verb
+menu:
+  pos:
+  - noun
+  level: A1
+mess:
+  pos:
+  - noun
+  level: B1
+message:
+  pos:
+  - noun
+  level: A1
+metal:
+  pos:
+  - noun
+  level: A2
+method:
+  pos:
+  - noun
+  level: A2
+metre:
+  pos:
+  - noun
+  level: A1
+middle:
+  level: A2
+  pos:
+  - adjective
+  - noun
+midnight:
+  pos:
+  - noun
+  level: A1
+might:
+  pos:
+  - modal
+  - verb
+  level: A2
+mild:
+  pos:
+  - adjective
+  level: B1
+mile:
+  pos:
+  - noun
+  level: A1
+military:
+  level: B2
+  pos:
+  - adjective
+  - noun
+milk:
+  pos:
+  - noun
+  level: A1
+million:
+  pos:
+  - number
+  level: A1
+mind:
+  level: A2
+  pos:
+  - noun
+  - verb
+mine:
+  level: A2
+  pos:
+  - noun
+  - pronoun
+mineral:
+  pos:
+  - noun
+  level: B2
+minimum:
+  level: B2
+  pos:
+  - adjective
+  - noun
+minister:
+  pos:
+  - noun
+  level: B2
+minor:
+  pos:
+  - adjective
+  level: B2
+minority:
+  pos:
+  - noun
+  level: B2
+minute:
+  pos:
+  - noun
+  level: A1
+mirror:
+  pos:
+  - noun
+  level: A2
+miss:
+  pos:
+  - verb
+  level: A1
+missing:
+  pos:
+  - adjective
+  level: A2
+mission:
+  pos:
+  - noun
+  level: B2
+mistake:
+  level: B2
+  pos:
+  - noun
+  - verb
+mix:
+  level: B1
+  pos:
+  - noun
+  - verb
+mixed:
+  pos:
+  - adjective
+  level: B2
+mixture:
+  pos:
+  - noun
+  level: B1
+mobile:
+  level: A2
+  pos:
+  - adjective
+  - noun
+model:
+  level: B2
+  pos:
+  - noun
+  - verb
+modern:
+  pos:
+  - adjective
+  level: A1
+modify:
+  pos:
+  - verb
+  level: B2
+moment:
+  pos:
+  - noun
+  level: A1
+Monday:
+  pos:
+  - noun
+  level: A1
+money:
+  pos:
+  - noun
+  level: A1
+monitor:
+  level: B2
+  pos:
+  - noun
+  - verb
+monkey:
+  pos:
+  - noun
+  level: A2
+month:
+  pos:
+  - noun
+  level: A1
+mood:
+  pos:
+  - noun
+  level: B1
+moon:
+  pos:
+  - noun
+  level: A2
+moral:
+  level: B2
+  pos:
+  - adjective
+  - noun
+more:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+morning:
+  pos:
+  - noun
+  level: A1
+most:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+mostly:
+  pos:
+  - adverb
+  level: A2
+mother:
+  pos:
+  - noun
+  level: A1
+motor:
+  level: B2
+  pos:
+  - adjective
+  - noun
+motorcycle:
+  pos:
+  - noun
+  level: A2
+mount:
+  pos:
+  - verb
+  level: B2
+mountain:
+  pos:
+  - noun
+  level: A1
+mouse:
+  pos:
+  - noun
+  level: A1
+mouth:
+  pos:
+  - noun
+  level: A1
+move:
+  level: A1
+  pos:
+  - noun
+  - verb
+movement:
+  pos:
+  - noun
+  level: A2
+movie:
+  pos:
+  - noun
+  level: A1
+much:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+mud:
+  pos:
+  - noun
+  level: B1
+multiple:
+  pos:
+  - adjective
+  level: B2
+multiply:
+  pos:
+  - verb
+  level: B2
+mum:
+  pos:
+  - noun
+  level: A1
+murder:
+  level: B1
+  pos:
+  - noun
+  - verb
+muscle:
+  pos:
+  - noun
+  level: B1
+museum:
+  pos:
+  - noun
+  level: A1
+music:
+  pos:
+  - noun
+  level: A1
+musical:
+  level: B1
+  pos:
+  - adjective
+  - noun
+musician:
+  pos:
+  - noun
+  level: A2
+must:
+  pos:
+  - modal
+  - verb
+  level: A1
+my:
+  pos:
+  - determiner
+  level: A1
+myself:
+  pos:
+  - pronoun
+  level: A2
+mysterious:
+  pos:
+  - adjective
+  level: B2
+mystery:
+  pos:
+  - noun
+  level: B1
+nail:
+  pos:
+  - noun
+  level: B1
+name:
+  level: A1
+  pos:
+  - noun
+  - verb
+narrative:
+  level: B1
+  pos:
+  - adjective
+  - noun
+narrow:
+  level: B2
+  pos:
+  - adjective
+  - verb
+nation:
+  pos:
+  - noun
+  level: B1
+national:
+  level: B2
+  pos:
+  - adjective
+  - noun
+native:
+  level: B1
+  pos:
+  - adjective
+  - noun
+natural:
+  pos:
+  - adjective
+  level: A1
+naturally:
+  pos:
+  - adverb
+  level: B1
+nature:
+  pos:
+  - noun
+  level: A2
+near:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - preposition
+nearly:
+  pos:
+  - adverb
+  level: A2
+neat:
+  pos:
+  - adjective
+  level: B2
+necessarily:
+  pos:
+  - adverb
+  level: B1
+necessary:
+  pos:
+  - adjective
+  level: A2
+neck:
+  pos:
+  - noun
+  level: A2
+need:
+  level: B1
+  pos:
+  - noun
+  - verb
+  - modal
+  - verb
+needle:
+  pos:
+  - noun
+  level: B1
+negative:
+  level: B2
+  pos:
+  - adjective
+  - noun
+neighbour:
+  pos:
+  - noun
+  level: A1
+neighbourhood:
+  pos:
+  - noun
+  level: B1
+neither:
+  level: A2
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+nerve:
+  pos:
+  - noun
+  level: B2
+nervous:
+  pos:
+  - adjective
+  level: A2
+net:
+  pos:
+  - noun
+  level: B1
+network:
+  pos:
+  - noun
+  level: A2
+never:
+  pos:
+  - adverb
+  level: A1
+nevertheless:
+  pos:
+  - adverb
+  level: B2
+new:
+  pos:
+  - adjective
+  level: A1
+news:
+  pos:
+  - noun
+  level: A1
+newspaper:
+  pos:
+  - noun
+  level: A1
+next:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+  - noun
+next to:
+  pos:
+  - preposition
+  level: A1
+nice:
+  pos:
+  - adjective
+  level: A1
+night:
+  pos:
+  - noun
+  level: A1
+nightmare:
+  pos:
+  - noun
+  level: B2
+nine:
+  pos:
+  - number
+  level: A1
+nineteen:
+  pos:
+  - number
+  level: A1
+ninety:
+  pos:
+  - number
+  level: A1
+'no':
+  level: A1
+  pos:
+  - determiner
+  - exclamation
+no one:
+  pos:
+  - pronoun
+  level: A1
+nobody:
+  pos:
+  - pronoun
+  level: A1
+noise:
+  pos:
+  - noun
+  level: A2
+noisy:
+  pos:
+  - adjective
+  level: A2
+none:
+  pos:
+  - pronoun
+  level: A2
+nor:
+  level: B1
+  pos:
+  - adverb
+  - conjunction
+normal:
+  level: B1
+  pos:
+  - adjective
+  - noun
+normally:
+  pos:
+  - adverb
+  level: A2
+north:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+northern:
+  pos:
+  - adjective
+  level: B1
+nose:
+  pos:
+  - noun
+  level: A1
+not:
+  pos:
+  - adverb
+  level: A1
+note:
+  level: B1
+  pos:
+  - noun
+  - verb
+nothing:
+  pos:
+  - pronoun
+  level: A1
+notice:
+  level: A2
+  pos:
+  - noun
+  - verb
+notion:
+  pos:
+  - noun
+  level: B2
+novel:
+  pos:
+  - noun
+  level: A2
+November:
+  pos:
+  - noun
+  level: A1
+now:
+  level: B1
+  pos:
+  - adverb
+  - conjunction
+nowhere:
+  pos:
+  - adverb
+  level: A2
+nuclear:
+  pos:
+  - adjective
+  level: B1
+number:
+  level: A2
+  pos:
+  - noun
+  - verb
+numerous:
+  pos:
+  - adjective
+  level: B2
+nurse:
+  pos:
+  - noun
+  level: A1
+nut:
+  pos:
+  - noun
+  level: A2
+o'clock:
+  pos:
+  - adverb
+  level: A1
+obey:
+  pos:
+  - verb
+  level: B2
+object:
+  level: B2
+  pos:
+  - noun
+  - verb
+objective:
+  level: B2
+  pos:
+  - adjective
+  - noun
+obligation:
+  pos:
+  - noun
+  level: B2
+observation:
+  pos:
+  - noun
+  level: B2
+observe:
+  pos:
+  - verb
+  level: B2
+obtain:
+  pos:
+  - verb
+  level: B2
+obvious:
+  pos:
+  - adjective
+  level: B1
+obviously:
+  pos:
+  - adverb
+  level: B1
+occasion:
+  pos:
+  - noun
+  level: B1
+occasionally:
+  pos:
+  - adverb
+  level: B2
+occur:
+  pos:
+  - verb
+  level: B1
+ocean:
+  pos:
+  - noun
+  level: A2
+October:
+  pos:
+  - noun
+  level: A1
+odd:
+  pos:
+  - adjective
+  level: B1
+of:
+  pos:
+  - preposition
+  level: A1
+'off':
+  level: A1
+  pos:
+  - adverb
+  - preposition
+offence:
+  pos:
+  - noun
+  level: B2
+offend:
+  pos:
+  - verb
+  level: B2
+offensive:
+  pos:
+  - adjective
+  level: B2
+offer:
+  level: A2
+  pos:
+  - noun
+  - verb
+office:
+  pos:
+  - noun
+  level: A1
+officer:
+  pos:
+  - noun
+  level: A2
+official:
+  level: B2
+  pos:
+  - adjective
+  - noun
+often:
+  pos:
+  - adverb
+  level: A1
+oh:
+  pos:
+  - exclamation
+  level: A1
+oil:
+  pos:
+  - noun
+  level: A2
+OK:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - exclamation
+old:
+  pos:
+  - adjective
+  level: A1
+old fashioned:
+  pos:
+  - adjective
+  level: B1
+'on':
+  level: A1
+  pos:
+  - adverb
+  - preposition
+once:
+  level: B1
+  pos:
+  - adverb
+  - conjunction
+one:
+  level: A1
+  pos:
+  - determiner
+  - number
+  - pronoun
+onion:
+  pos:
+  - noun
+  level: A1
+online:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+only:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+onto:
+  pos:
+  - preposition
+  level: A2
+open:
+  level: A1
+  pos:
+  - adjective
+  - verb
+opening:
+  pos:
+  - noun
+  level: B2
+operate:
+  pos:
+  - verb
+  level: B2
+operation:
+  pos:
+  - noun
+  level: B1
+opinion:
+  pos:
+  - noun
+  level: A1
+opponent:
+  pos:
+  - noun
+  level: B2
+opportunity:
+  pos:
+  - noun
+  level: A2
+oppose:
+  pos:
+  - verb
+  level: B2
+opposed:
+  pos:
+  - adjective
+  level: B2
+opposite:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+  - preposition
+opposition:
+  pos:
+  - noun
+  level: B2
+option:
+  pos:
+  - noun
+  level: A2
+or:
+  pos:
+  - conjunction
+  level: A1
+orange:
+  level: A1
+  pos:
+  - adjective
+  - noun
+order:
+  level: A1
+  pos:
+  - noun
+  - verb
+ordinary:
+  pos:
+  - adjective
+  level: A2
+organ:
+  pos:
+  - noun
+  level: B2
+organization:
+  pos:
+  - noun
+  level: A2
+organize:
+  pos:
+  - verb
+  level: A2
+organized:
+  pos:
+  - adjective
+  level: B1
+organizer:
+  pos:
+  - noun
+  level: B1
+origin:
+  pos:
+  - noun
+  level: B2
+original:
+  level: B1
+  pos:
+  - adjective
+  - noun
+originally:
+  pos:
+  - adverb
+  level: B1
+other:
+  level: A1
+  pos:
+  - adjective
+  - pronoun
+otherwise:
+  pos:
+  - adverb
+  level: B2
+ought:
+  pos:
+  - modal
+  - verb
+  level: B1
+our:
+  pos:
+  - determiner
+  level: A1
+ours:
+  pos:
+  - pronoun
+  level: B1
+ourselves:
+  pos:
+  - pronoun
+  level: A2
+out:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+outcome:
+  pos:
+  - noun
+  level: B2
+outdoor:
+  pos:
+  - adjective
+  level: B1
+outdoors:
+  pos:
+  - adverb
+  level: B1
+outer:
+  pos:
+  - adjective
+  level: B2
+outline:
+  level: B2
+  pos:
+  - noun
+  - verb
+outside:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+  - noun
+  - preposition
+oven:
+  pos:
+  - noun
+  level: A2
+over:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+overall:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+owe:
+  pos:
+  - verb
+  level: B2
+own:
+  level: A2
+  pos:
+  - adjective
+  - pronoun
+  - verb
+owner:
+  pos:
+  - noun
+  level: A2
+pace:
+  level: B2
+  pos:
+  - noun
+  - verb
+pack:
+  level: A2
+  pos:
+  - noun
+  - verb
+package:
+  level: B2
+  pos:
+  - noun
+  - verb
+page:
+  pos:
+  - noun
+  level: A1
+pain:
+  pos:
+  - noun
+  level: A2
+painful:
+  pos:
+  - adjective
+  level: B1
+paint:
+  level: A1
+  pos:
+  - noun
+  - verb
+painter:
+  pos:
+  - noun
+  level: A2
+painting:
+  pos:
+  - noun
+  level: A1
+pair:
+  pos:
+  - noun
+  level: A1
+palace:
+  pos:
+  - noun
+  level: A2
+pale:
+  pos:
+  - adjective
+  level: B1
+pan:
+  pos:
+  - noun
+  level: B1
+panel:
+  pos:
+  - noun
+  level: B2
+pants:
+  pos:
+  - noun
+  level: A2
+paper:
+  pos:
+  - noun
+  level: A1
+paragraph:
+  pos:
+  - noun
+  level: A1
+parent:
+  pos:
+  - noun
+  level: A1
+park:
+  level: A1
+  pos:
+  - noun
+  - verb
+parking:
+  pos:
+  - noun
+  level: A2
+parliament:
+  pos:
+  - noun
+  level: B2
+part:
+  pos:
+  - noun
+  level: A1
+participant:
+  pos:
+  - noun
+  level: B2
+participate:
+  pos:
+  - verb
+  level: B1
+particular:
+  pos:
+  - adjective
+  level: A2
+particularly:
+  pos:
+  - adverb
+  level: B1
+partly:
+  pos:
+  - adverb
+  level: B2
+partner:
+  pos:
+  - noun
+  level: A1
+party:
+  pos:
+  - noun
+  level: A1
+pass:
+  level: A2
+  pos:
+  - noun
+  - verb
+passage:
+  pos:
+  - noun
+  level: B2
+passenger:
+  pos:
+  - noun
+  level: A2
+passion:
+  pos:
+  - noun
+  level: B1
+passport:
+  pos:
+  - noun
+  level: A1
+past:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+  - preposition
+path:
+  pos:
+  - noun
+  level: B1
+patient:
+  level: A2
+  pos:
+  - adjective
+  - noun
+pattern:
+  pos:
+  - noun
+  level: A2
+pay:
+  level: A1
+  pos:
+  - noun
+  - verb
+payment:
+  pos:
+  - noun
+  level: B1
+peace:
+  pos:
+  - noun
+  level: A2
+peaceful:
+  pos:
+  - adjective
+  level: B1
+pen:
+  pos:
+  - noun
+  level: A1
+pencil:
+  pos:
+  - noun
+  level: A1
+penny:
+  pos:
+  - noun
+  level: A2
+pension:
+  pos:
+  - noun
+  level: B2
+people:
+  pos:
+  - noun
+  level: A1
+pepper:
+  pos:
+  - noun
+  level: A1
+per:
+  pos:
+  - preposition
+  level: A2
+percent:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+  - noun
+percentage:
+  pos:
+  - noun
+  level: B1
+perfect:
+  pos:
+  - adjective
+  level: A1
+perfectly:
+  pos:
+  - adverb
+  level: B1
+perform:
+  pos:
+  - verb
+  level: A2
+performance:
+  pos:
+  - noun
+  level: B1
+perhaps:
+  pos:
+  - adverb
+  level: A2
+period:
+  pos:
+  - noun
+  level: A1
+permanent:
+  pos:
+  - adjective
+  level: B2
+permission:
+  pos:
+  - noun
+  level: A2
+permit:
+  level: B2
+  pos:
+  - noun
+  - verb
+person:
+  pos:
+  - noun
+  level: A1
+personal:
+  pos:
+  - adjective
+  level: A1
+personality:
+  pos:
+  - noun
+  level: A2
+personally:
+  pos:
+  - adverb
+  level: B1
+perspective:
+  pos:
+  - noun
+  level: B2
+persuade:
+  pos:
+  - verb
+  level: B1
+pet:
+  pos:
+  - noun
+  level: A2
+petrol:
+  pos:
+  - noun
+  level: A2
+phase:
+  pos:
+  - noun
+  level: B2
+phenomenon:
+  pos:
+  - noun
+  level: B2
+philosophy:
+  pos:
+  - noun
+  level: B2
+phone:
+  level: A1
+  pos:
+  - noun
+  - verb
+photo:
+  pos:
+  - noun
+  level: A1
+photograph:
+  level: A2
+  pos:
+  - noun
+  - verb
+photographer:
+  pos:
+  - noun
+  level: B1
+photography:
+  pos:
+  - noun
+  level: B1
+phrase:
+  pos:
+  - noun
+  level: A1
+physical:
+  pos:
+  - adjective
+  level: A2
+physics:
+  pos:
+  - noun
+  level: A2
+piano:
+  pos:
+  - noun
+  level: A1
+pick:
+  level: A2
+  pos:
+  - noun
+  - verb
+picture:
+  level: B2
+  pos:
+  - noun
+  - verb
+piece:
+  pos:
+  - noun
+  level: A1
+pig:
+  pos:
+  - noun
+  level: A1
+pile:
+  level: B2
+  pos:
+  - noun
+  - verb
+pilot:
+  pos:
+  - noun
+  level: A2
+pin:
+  level: B1
+  pos:
+  - noun
+  - verb
+pink:
+  level: A1
+  pos:
+  - adjective
+  - noun
+pipe:
+  pos:
+  - noun
+  level: B1
+pitch:
+  pos:
+  - noun
+  level: B2
+place:
+  level: B1
+  pos:
+  - noun
+  - verb
+plain:
+  pos:
+  - adjective
+  level: B2
+plan:
+  level: A1
+  pos:
+  - noun
+  - verb
+plane:
+  pos:
+  - noun
+  level: A1
+planet:
+  pos:
+  - noun
+  level: A2
+planning:
+  pos:
+  - noun
+  level: B1
+plant:
+  level: A2
+  pos:
+  - noun
+  - verb
+plastic:
+  level: A2
+  pos:
+  - adjective
+  - noun
+plate:
+  pos:
+  - noun
+  level: A2
+platform:
+  pos:
+  - noun
+  level: A2
+play:
+  level: A1
+  pos:
+  - noun
+  - verb
+player:
+  pos:
+  - noun
+  level: A1
+pleasant:
+  pos:
+  - adjective
+  level: B1
+please:
+  level: A2
+  pos:
+  - exclamation
+  - verb
+pleased:
+  pos:
+  - adjective
+  level: A2
+pleasure:
+  pos:
+  - noun
+  level: B1
+plenty:
+  pos:
+  - pronoun
+  level: B1
+plot:
+  level: B2
+  pos:
+  - noun
+  - verb
+plus:
+  level: B1
+  pos:
+  - adjective
+  - conjunction
+  - noun
+  - preposition
+pocket:
+  pos:
+  - noun
+  level: A2
+poem:
+  pos:
+  - noun
+  level: B1
+poet:
+  pos:
+  - noun
+  level: B1
+poetry:
+  pos:
+  - noun
+  level: B1
+point:
+  level: B1
+  pos:
+  - noun
+  - verb
+pointed:
+  pos:
+  - adjective
+  level: B2
+poison:
+  level: B1
+  pos:
+  - noun
+  - verb
+poisonous:
+  pos:
+  - adjective
+  level: B1
+police:
+  pos:
+  - noun
+  level: A1
+policeman:
+  pos:
+  - noun
+  level: A1
+policy:
+  pos:
+  - noun
+  level: B1
+polite:
+  pos:
+  - adjective
+  level: A2
+political:
+  pos:
+  - adjective
+  level: B1
+politician:
+  pos:
+  - noun
+  level: B1
+politics:
+  pos:
+  - noun
+  level: B1
+pollution:
+  pos:
+  - noun
+  level: A2
+pool:
+  pos:
+  - noun
+  level: A1
+poor:
+  pos:
+  - adjective
+  level: A1
+pop:
+  level: A2
+  pos:
+  - adjective
+  - noun
+popular:
+  pos:
+  - adjective
+  level: A1
+popularity:
+  pos:
+  - noun
+  level: B2
+population:
+  pos:
+  - noun
+  level: A2
+port:
+  pos:
+  - noun
+  level: B1
+portrait:
+  pos:
+  - noun
+  level: B1
+pose:
+  pos:
+  - verb
+  level: B2
+position:
+  level: B2
+  pos:
+  - noun
+  - verb
+positive:
+  level: B2
+  pos:
+  - adjective
+  - noun
+possess:
+  pos:
+  - verb
+  level: B2
+possession:
+  pos:
+  - noun
+  level: A2
+possibility:
+  pos:
+  - noun
+  level: A2
+possible:
+  pos:
+  - adjective
+  level: A1
+possibly:
+  pos:
+  - adverb
+  level: B1
+post:
+  level: A1
+  pos:
+  - noun
+  - verb
+poster:
+  pos:
+  - noun
+  level: A2
+pot:
+  pos:
+  - noun
+  level: B1
+potato:
+  pos:
+  - noun
+  level: A1
+potential:
+  level: B2
+  pos:
+  - adjective
+  - noun
+pound:
+  pos:
+  - noun
+  level: A1
+pour:
+  pos:
+  - verb
+  level: B1
+poverty:
+  pos:
+  - noun
+  level: B1
+powder:
+  pos:
+  - noun
+  level: B1
+power:
+  level: B2
+  pos:
+  - noun
+  - verb
+powerful:
+  pos:
+  - adjective
+  level: B1
+practical:
+  pos:
+  - adjective
+  level: B1
+practice:
+  pos:
+  - noun
+  level: A1
+practise:
+  pos:
+  - verb
+  level: A1
+praise:
+  level: B2
+  pos:
+  - noun
+  - verb
+pray:
+  pos:
+  - verb
+  level: B1
+prayer:
+  pos:
+  - noun
+  level: B1
+predict:
+  pos:
+  - verb
+  level: A2
+prediction:
+  pos:
+  - noun
+  level: B1
+prefer:
+  pos:
+  - verb
+  level: A1
+pregnant:
+  pos:
+  - adjective
+  level: B2
+preparation:
+  pos:
+  - noun
+  level: B2
+prepare:
+  pos:
+  - verb
+  level: A1
+prepared:
+  pos:
+  - adjective
+  level: B1
+presence:
+  pos:
+  - noun
+  level: B2
+present:
+  level: A2
+  pos:
+  - adjective
+  - noun
+  - verb
+presentation:
+  pos:
+  - noun
+  level: B1
+preserve:
+  pos:
+  - verb
+  level: B2
+president:
+  pos:
+  - noun
+  level: A2
+press:
+  level: B1
+  pos:
+  - noun
+  - verb
+pressure:
+  pos:
+  - noun
+  level: B1
+pretend:
+  pos:
+  - verb
+  level: B1
+pretty:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+prevent:
+  pos:
+  - verb
+  level: A2
+previous:
+  pos:
+  - adjective
+  level: B1
+previously:
+  pos:
+  - adverb
+  level: B1
+price:
+  level: B2
+  pos:
+  - noun
+  - verb
+priest:
+  pos:
+  - noun
+  level: B1
+primary:
+  pos:
+  - adjective
+  level: B1
+prime:
+  pos:
+  - adjective
+  level: B2
+prince:
+  pos:
+  - noun
+  level: B1
+princess:
+  pos:
+  - noun
+  level: B1
+principle:
+  pos:
+  - noun
+  level: B2
+print:
+  level: A2
+  pos:
+  - noun
+  - verb
+printer:
+  pos:
+  - noun
+  level: A2
+printing:
+  pos:
+  - noun
+  level: B1
+priority:
+  pos:
+  - noun
+  level: B2
+prison:
+  pos:
+  - noun
+  level: A2
+prisoner:
+  pos:
+  - noun
+  level: B1
+privacy:
+  pos:
+  - noun
+  level: B2
+private:
+  pos:
+  - adjective
+  level: B1
+prize:
+  pos:
+  - noun
+  level: A2
+probably:
+  pos:
+  - adverb
+  level: A1
+problem:
+  pos:
+  - noun
+  level: A1
+procedure:
+  pos:
+  - noun
+  level: B2
+process:
+  level: B2
+  pos:
+  - noun
+  - verb
+produce:
+  level: A2
+  pos:
+  - noun
+  - verb
+producer:
+  pos:
+  - noun
+  level: B1
+product:
+  pos:
+  - noun
+  level: A1
+production:
+  pos:
+  - noun
+  level: B1
+profession:
+  pos:
+  - noun
+  level: B1
+professional:
+  level: B2
+  pos:
+  - adjective
+  - noun
+professor:
+  pos:
+  - noun
+  level: A2
+profile:
+  pos:
+  - noun
+  level: A2
+profit:
+  pos:
+  - noun
+  level: B1
+program:
+  level: B1
+  pos:
+  - noun
+  - verb
+programme:
+  pos:
+  - noun
+  level: A1
+progress:
+  level: B2
+  pos:
+  - noun
+  - verb
+project:
+  level: B2
+  pos:
+  - noun
+  - verb
+promise:
+  level: A2
+  pos:
+  - noun
+  - verb
+promote:
+  pos:
+  - verb
+  level: B1
+pronounce:
+  pos:
+  - verb
+  level: A2
+proof:
+  pos:
+  - noun
+  level: B2
+proper:
+  pos:
+  - adjective
+  level: B1
+properly:
+  pos:
+  - adverb
+  level: B1
+property:
+  pos:
+  - noun
+  level: B1
+proposal:
+  pos:
+  - noun
+  level: B2
+propose:
+  pos:
+  - verb
+  level: B2
+prospect:
+  pos:
+  - noun
+  level: B2
+protect:
+  pos:
+  - verb
+  level: A2
+protection:
+  pos:
+  - noun
+  level: B2
+protest:
+  level: B1
+  pos:
+  - noun
+  - verb
+proud:
+  pos:
+  - adjective
+  level: B1
+prove:
+  pos:
+  - verb
+  level: B1
+provide:
+  pos:
+  - verb
+  level: A2
+psychologist:
+  pos:
+  - noun
+  level: B2
+psychology:
+  pos:
+  - noun
+  level: B2
+pub:
+  pos:
+  - noun
+  level: A2
+public:
+  level: A2
+  pos:
+  - adjective
+  - noun
+publication:
+  pos:
+  - noun
+  level: B2
+publish:
+  pos:
+  - verb
+  level: A2
+pull:
+  level: A2
+  pos:
+  - noun
+  - verb
+punish:
+  pos:
+  - verb
+  level: B1
+punishment:
+  pos:
+  - noun
+  level: B1
+pupil:
+  pos:
+  - noun
+  level: B2
+purchase:
+  level: B2
+  pos:
+  - noun
+  - verb
+pure:
+  pos:
+  - adjective
+  level: B2
+purple:
+  level: A1
+  pos:
+  - adjective
+  - noun
+purpose:
+  pos:
+  - noun
+  level: A2
+pursue:
+  pos:
+  - verb
+  level: B2
+push:
+  level: A2
+  pos:
+  - noun
+  - verb
+put:
+  pos:
+  - verb
+  level: A1
+qualification:
+  pos:
+  - noun
+  level: B1
+qualified:
+  pos:
+  - adjective
+  level: B1
+qualify:
+  pos:
+  - verb
+  level: B1
+quality:
+  pos:
+  - noun
+  level: A2
+quantity:
+  pos:
+  - noun
+  level: A2
+quarter:
+  pos:
+  - noun
+  level: A1
+queen:
+  pos:
+  - noun
+  level: A2
+question:
+  level: A2
+  pos:
+  - noun
+  - verb
+queue:
+  level: B1
+  pos:
+  - noun
+  - verb
+quick:
+  pos:
+  - adjective
+  level: A1
+quickly:
+  pos:
+  - adverb
+  level: A1
+quiet:
+  pos:
+  - adjective
+  level: A1
+quietly:
+  pos:
+  - adverb
+  level: A2
+quit:
+  pos:
+  - verb
+  level: B1
+quite:
+  pos:
+  - adverb
+  level: A1
+quotation:
+  pos:
+  - noun
+  level: B1
+quote:
+  level: B1
+  pos:
+  - noun
+  - verb
+race:
+  level: A2
+  pos:
+  - noun
+  - verb
+racing:
+  pos:
+  - noun
+  level: B1
+radio:
+  pos:
+  - noun
+  level: A1
+railway:
+  pos:
+  - noun
+  level: A2
+rain:
+  level: A1
+  pos:
+  - noun
+  - verb
+raise:
+  pos:
+  - verb
+  level: A2
+range:
+  level: B2
+  pos:
+  - noun
+  - verb
+rank:
+  level: B2
+  pos:
+  - noun
+  - verb
+rapid:
+  pos:
+  - adjective
+  level: B2
+rapidly:
+  pos:
+  - adverb
+  level: B2
+rare:
+  pos:
+  - adjective
+  level: B1
+rarely:
+  pos:
+  - adverb
+  level: B1
+rate:
+  level: B2
+  pos:
+  - noun
+  - verb
+rather:
+  pos:
+  - adverb
+  level: A2
+raw:
+  pos:
+  - adjective
+  level: B2
+reach:
+  level: A2
+  pos:
+  - noun
+  - verb
+react:
+  pos:
+  - verb
+  level: A2
+reaction:
+  pos:
+  - noun
+  level: B1
+read:
+  pos:
+  - verb
+  level: A1
+reader:
+  pos:
+  - noun
+  level: A1
+reading:
+  pos:
+  - noun
+  level: A1
+ready:
+  pos:
+  - adjective
+  level: A1
+real:
+  pos:
+  - adjective
+  level: A1
+realistic:
+  pos:
+  - adjective
+  level: B2
+reality:
+  pos:
+  - noun
+  level: B1
+realize:
+  pos:
+  - verb
+  level: A2
+really:
+  pos:
+  - adverb
+  level: A1
+reason:
+  pos:
+  - noun
+  level: A1
+reasonable:
+  pos:
+  - adjective
+  level: B2
+recall:
+  pos:
+  - verb
+  level: B2
+receipt:
+  pos:
+  - noun
+  level: B1
+receive:
+  pos:
+  - verb
+  level: A2
+recent:
+  pos:
+  - adjective
+  level: A2
+recently:
+  pos:
+  - adverb
+  level: A2
+reception:
+  pos:
+  - noun
+  level: A2
+recipe:
+  pos:
+  - noun
+  level: A2
+recognize:
+  pos:
+  - verb
+  level: A2
+recommend:
+  pos:
+  - verb
+  level: A2
+recommendation:
+  pos:
+  - noun
+  level: B1
+record:
+  level: A2
+  pos:
+  - noun
+  - verb
+recording:
+  pos:
+  - noun
+  level: A2
+recover:
+  pos:
+  - verb
+  level: B2
+recycle:
+  pos:
+  - verb
+  level: A2
+red:
+  level: A1
+  pos:
+  - adjective
+  - noun
+reduce:
+  pos:
+  - verb
+  level: A2
+reduction:
+  pos:
+  - noun
+  level: B2
+refer:
+  pos:
+  - verb
+  level: A2
+reference:
+  pos:
+  - noun
+  level: B1
+reflect:
+  pos:
+  - verb
+  level: B1
+refuse:
+  pos:
+  - verb
+  level: A2
+regard:
+  level: B2
+  pos:
+  - noun
+  - verb
+region:
+  pos:
+  - noun
+  level: A2
+regional:
+  pos:
+  - adjective
+  level: B2
+register:
+  level: B2
+  pos:
+  - noun
+  - verb
+regret:
+  level: B2
+  pos:
+  - noun
+  - verb
+regular:
+  pos:
+  - adjective
+  level: A2
+regularly:
+  pos:
+  - adverb
+  level: B1
+regulation:
+  pos:
+  - noun
+  level: B2
+reject:
+  pos:
+  - verb
+  level: B1
+relate:
+  pos:
+  - verb
+  level: B1
+related:
+  pos:
+  - adjective
+  level: B1
+relation:
+  pos:
+  - noun
+  level: B1
+relationship:
+  pos:
+  - noun
+  level: A2
+relative:
+  level: B1
+  pos:
+  - adjective
+  - noun
+relatively:
+  pos:
+  - adverb
+  level: B2
+relax:
+  pos:
+  - verb
+  level: A1
+relaxed:
+  pos:
+  - adjective
+  level: B1
+relaxing:
+  pos:
+  - adjective
+  level: B1
+release:
+  level: B1
+  pos:
+  - noun
+  - verb
+relevant:
+  pos:
+  - adjective
+  level: B2
+reliable:
+  pos:
+  - adjective
+  level: B1
+relief:
+  pos:
+  - noun
+  level: B2
+religion:
+  pos:
+  - noun
+  level: B1
+religious:
+  pos:
+  - adjective
+  level: B1
+rely:
+  pos:
+  - verb
+  level: B2
+remain:
+  pos:
+  - verb
+  level: B1
+remark:
+  level: B2
+  pos:
+  - noun
+  - verb
+remember:
+  pos:
+  - verb
+  level: A1
+remind:
+  pos:
+  - verb
+  level: B1
+remote:
+  pos:
+  - adjective
+  level: B1
+remove:
+  pos:
+  - verb
+  level: A2
+rent:
+  level: B1
+  pos:
+  - noun
+  - verb
+repair:
+  level: A2
+  pos:
+  - noun
+  - verb
+repeat:
+  level: A1
+  pos:
+  - noun
+  - verb
+repeated:
+  pos:
+  - adjective
+  level: B1
+replace:
+  pos:
+  - verb
+  level: A2
+reply:
+  level: A2
+  pos:
+  - noun
+  - verb
+report:
+  level: A2
+  pos:
+  - noun
+  - verb
+reporter:
+  pos:
+  - noun
+  level: A2
+represent:
+  pos:
+  - verb
+  level: B1
+representative:
+  level: B2
+  pos:
+  - adjective
+  - noun
+reputation:
+  pos:
+  - noun
+  level: B2
+request:
+  level: B1
+  pos:
+  - noun
+  - verb
+require:
+  pos:
+  - verb
+  level: B1
+requirement:
+  pos:
+  - noun
+  level: B2
+rescue:
+  level: B2
+  pos:
+  - noun
+  - verb
+research:
+  level: A2
+  pos:
+  - noun
+  - verb
+researcher:
+  pos:
+  - noun
+  level: A2
+reservation:
+  pos:
+  - noun
+  level: B1
+reserve:
+  level: B2
+  pos:
+  - noun
+  - verb
+resident:
+  level: B2
+  pos:
+  - adjective
+  - noun
+resist:
+  pos:
+  - verb
+  level: B2
+resolve:
+  pos:
+  - verb
+  level: B2
+resort:
+  pos:
+  - noun
+  level: B2
+resource:
+  pos:
+  - noun
+  level: B1
+respect:
+  level: B1
+  pos:
+  - noun
+  - verb
+respond:
+  pos:
+  - verb
+  level: A2
+response:
+  pos:
+  - noun
+  level: A2
+responsibility:
+  pos:
+  - noun
+  level: B1
+responsible:
+  pos:
+  - adjective
+  level: B1
+rest:
+  level: A2
+  pos:
+  - noun
+  - verb
+restaurant:
+  pos:
+  - noun
+  level: A1
+result:
+  level: B1
+  pos:
+  - noun
+  - verb
+retain:
+  pos:
+  - verb
+  level: B2
+retire:
+  pos:
+  - verb
+  level: B1
+retired:
+  pos:
+  - adjective
+  level: B1
+return:
+  level: A1
+  pos:
+  - noun
+  - verb
+reveal:
+  pos:
+  - verb
+  level: B2
+review:
+  level: A2
+  pos:
+  - noun
+  - verb
+revise:
+  pos:
+  - verb
+  level: B1
+revolution:
+  pos:
+  - noun
+  level: B2
+reward:
+  level: B2
+  pos:
+  - noun
+  - verb
+rhythm:
+  pos:
+  - noun
+  level: B2
+rice:
+  pos:
+  - noun
+  level: A1
+rich:
+  pos:
+  - adjective
+  level: A1
+rid:
+  pos:
+  - verb
+  level: B2
+ride:
+  level: A1
+  pos:
+  - noun
+  - verb
+right:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+ring:
+  level: A2
+  pos:
+  - noun
+  - verb
+rise:
+  level: A2
+  pos:
+  - noun
+  - verb
+risk:
+  level: B1
+  pos:
+  - noun
+  - verb
+river:
+  pos:
+  - noun
+  level: A1
+road:
+  pos:
+  - noun
+  level: A1
+robot:
+  pos:
+  - noun
+  level: B1
+rock:
+  pos:
+  - noun
+  level: A2
+role:
+  pos:
+  - noun
+  level: A2
+roll:
+  level: B1
+  pos:
+  - noun
+  - verb
+romantic:
+  pos:
+  - adjective
+  level: B1
+roof:
+  pos:
+  - noun
+  level: A2
+room:
+  pos:
+  - noun
+  level: A1
+root:
+  pos:
+  - noun
+  level: B2
+rope:
+  pos:
+  - noun
+  level: B1
+rough:
+  pos:
+  - adjective
+  level: B1
+round:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+  - noun
+  - preposition
+route:
+  pos:
+  - noun
+  level: A2
+routine:
+  level: A1
+  pos:
+  - adjective
+  - noun
+row:
+  pos:
+  - noun
+  level: B1
+royal:
+  pos:
+  - adjective
+  level: B1
+rub:
+  pos:
+  - verb
+  level: B2
+rubber:
+  level: B2
+  pos:
+  - adjective
+  - noun
+rubbish:
+  pos:
+  - noun
+  level: A2
+rude:
+  pos:
+  - adjective
+  level: A2
+rugby:
+  pos:
+  - noun
+  level: B1
+rule:
+  level: B1
+  pos:
+  - noun
+  - verb
+run:
+  level: A1
+  pos:
+  - noun
+  - verb
+runner:
+  pos:
+  - noun
+  level: A2
+running:
+  pos:
+  - noun
+  level: A2
+rural:
+  pos:
+  - adjective
+  level: B2
+rush:
+  level: B2
+  pos:
+  - noun
+  - verb
+sad:
+  pos:
+  - adjective
+  level: A1
+sadly:
+  pos:
+  - adverb
+  level: A2
+safe:
+  pos:
+  - adjective
+  level: A2
+safety:
+  pos:
+  - noun
+  level: B1
+sail:
+  level: A2
+  pos:
+  - noun
+  - verb
+sailing:
+  pos:
+  - noun
+  level: A2
+sailor:
+  pos:
+  - noun
+  level: B1
+salad:
+  pos:
+  - noun
+  level: A1
+salary:
+  pos:
+  - noun
+  level: A2
+sale:
+  pos:
+  - noun
+  level: A2
+salt:
+  pos:
+  - noun
+  level: A1
+same:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - pronoun
+sample:
+  level: B2
+  pos:
+  - noun
+  - verb
+sand:
+  pos:
+  - noun
+  level: B1
+sandwich:
+  pos:
+  - noun
+  level: A1
+satellite:
+  pos:
+  - noun
+  level: B2
+satisfied:
+  pos:
+  - adjective
+  level: B2
+satisfy:
+  pos:
+  - verb
+  level: B2
+Saturday:
+  pos:
+  - noun
+  level: A1
+sauce:
+  pos:
+  - noun
+  level: A2
+save:
+  pos:
+  - verb
+  level: A2
+saving:
+  pos:
+  - noun
+  level: B2
+say:
+  pos:
+  - verb
+  level: A1
+scale:
+  pos:
+  - noun
+  level: B2
+scan:
+  pos:
+  - verb
+  level: B1
+scared:
+  pos:
+  - adjective
+  level: A2
+scary:
+  pos:
+  - adjective
+  level: A2
+scene:
+  pos:
+  - noun
+  level: A2
+schedule:
+  level: B2
+  pos:
+  - noun
+  - verb
+scheme:
+  pos:
+  - noun
+  level: B2
+school:
+  pos:
+  - noun
+  level: A1
+science:
+  pos:
+  - noun
+  level: A1
+scientific:
+  pos:
+  - adjective
+  level: B1
+scientist:
+  pos:
+  - noun
+  level: A1
+score:
+  level: A2
+  pos:
+  - noun
+  - verb
+scream:
+  level: B2
+  pos:
+  - noun
+  - verb
+screen:
+  level: B2
+  pos:
+  - noun
+  - verb
+script:
+  pos:
+  - noun
+  level: B1
+sculpture:
+  pos:
+  - noun
+  level: B1
+sea:
+  pos:
+  - noun
+  level: A1
+search:
+  level: A2
+  pos:
+  - noun
+  - verb
+season:
+  pos:
+  - noun
+  level: A2
+seat:
+  level: B2
+  pos:
+  - noun
+  - verb
+second:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - noun
+  - ordinal
+  - number
+secondary:
+  pos:
+  - adjective
+  level: B1
+secondly:
+  pos:
+  - adverb
+  level: A2
+secret:
+  level: A2
+  pos:
+  - adjective
+  - noun
+secretary:
+  pos:
+  - noun
+  level: A2
+section:
+  pos:
+  - noun
+  level: A1
+sector:
+  pos:
+  - noun
+  level: B2
+secure:
+  level: B2
+  pos:
+  - adjective
+  - verb
+security:
+  pos:
+  - noun
+  level: B1
+see:
+  pos:
+  - verb
+  level: A1
+seed:
+  pos:
+  - noun
+  level: B1
+seek:
+  pos:
+  - verb
+  level: B2
+seem:
+  pos:
+  - linking
+  - verb
+  level: A2
+select:
+  pos:
+  - verb
+  level: B2
+selection:
+  pos:
+  - noun
+  level: B2
+self:
+  pos:
+  - noun
+  level: B2
+sell:
+  pos:
+  - verb
+  level: A1
+send:
+  pos:
+  - verb
+  level: A1
+senior:
+  pos:
+  - adjective
+  level: B2
+sense:
+  level: B2
+  pos:
+  - noun
+  - verb
+sensible:
+  pos:
+  - adjective
+  level: B1
+sensitive:
+  pos:
+  - adjective
+  level: B2
+sentence:
+  level: B2
+  pos:
+  - noun
+  - verb
+separate:
+  level: B1
+  pos:
+  - adjective
+  - verb
+September:
+  pos:
+  - noun
+  level: A1
+sequence:
+  pos:
+  - noun
+  level: B2
+series:
+  pos:
+  - noun
+  level: A2
+serious:
+  pos:
+  - adjective
+  level: A2
+seriously:
+  pos:
+  - adverb
+  level: B1
+servant:
+  pos:
+  - noun
+  level: B1
+serve:
+  pos:
+  - verb
+  level: A2
+service:
+  pos:
+  - noun
+  level: A2
+session:
+  pos:
+  - noun
+  level: B2
+set:
+  level: B1
+  pos:
+  - noun
+  - verb
+setting:
+  pos:
+  - noun
+  level: B1
+settle:
+  pos:
+  - verb
+  level: B2
+seven:
+  pos:
+  - number
+  level: A1
+seventeen:
+  pos:
+  - number
+  level: A1
+seventy:
+  pos:
+  - number
+  level: A1
+several:
+  level: A2
+  pos:
+  - determiner
+  - pronoun
+severe:
+  pos:
+  - adjective
+  level: B2
+sex:
+  pos:
+  - noun
+  level: B1
+sexual:
+  pos:
+  - adjective
+  level: B1
+shade:
+  pos:
+  - noun
+  level: B2
+shadow:
+  pos:
+  - noun
+  level: B2
+shake:
+  level: A2
+  pos:
+  - noun
+  - verb
+shall:
+  pos:
+  - modal
+  - verb
+  level: A2
+shallow:
+  pos:
+  - adjective
+  level: B2
+shame:
+  pos:
+  - noun
+  level: B2
+shape:
+  level: B2
+  pos:
+  - noun
+  - verb
+share:
+  level: A1
+  pos:
+  - noun
+  - verb
+sharp:
+  pos:
+  - adjective
+  level: B1
+she:
+  pos:
+  - pronoun
+  level: A1
+sheep:
+  pos:
+  - noun
+  level: A1
+sheet:
+  pos:
+  - noun
+  level: A2
+shelf:
+  pos:
+  - noun
+  level: B1
+shell:
+  pos:
+  - noun
+  level: B1
+shelter:
+  level: B2
+  pos:
+  - noun
+  - verb
+shift:
+  level: B2
+  pos:
+  - noun
+  - verb
+shine:
+  pos:
+  - verb
+  level: B1
+shiny:
+  pos:
+  - adjective
+  level: B1
+ship:
+  level: B2
+  pos:
+  - noun
+  - verb
+shirt:
+  pos:
+  - noun
+  level: A1
+shock:
+  level: B2
+  pos:
+  - noun
+  - verb
+shocked:
+  pos:
+  - adjective
+  level: B2
+shoe:
+  pos:
+  - noun
+  level: A1
+shoot:
+  pos:
+  - verb
+  level: B1
+shooting:
+  pos:
+  - noun
+  level: B2
+shop:
+  level: A1
+  pos:
+  - noun
+  - verb
+shopping:
+  pos:
+  - noun
+  level: A1
+short:
+  pos:
+  - adjective
+  level: A1
+shot:
+  pos:
+  - noun
+  level: B2
+should:
+  pos:
+  - modal
+  - verb
+  level: A1
+shoulder:
+  pos:
+  - noun
+  level: A2
+shout:
+  level: A2
+  pos:
+  - noun
+  - verb
+show:
+  level: A1
+  pos:
+  - noun
+  - verb
+shower:
+  pos:
+  - noun
+  level: A1
+shut:
+  level: A2
+  pos:
+  - adjective
+  - verb
+shy:
+  pos:
+  - adjective
+  level: B1
+sick:
+  pos:
+  - adjective
+  level: A1
+side:
+  pos:
+  - noun
+  level: A2
+sight:
+  pos:
+  - noun
+  level: B1
+sign:
+  level: A2
+  pos:
+  - noun
+  - verb
+signal:
+  level: B1
+  pos:
+  - noun
+  - verb
+significant:
+  pos:
+  - adjective
+  level: B2
+significantly:
+  pos:
+  - adverb
+  level: B2
+silence:
+  pos:
+  - noun
+  level: B2
+silent:
+  pos:
+  - adjective
+  level: B1
+silk:
+  pos:
+  - noun
+  level: B2
+silly:
+  pos:
+  - adjective
+  level: B1
+silver:
+  level: A2
+  pos:
+  - adjective
+  - noun
+similar:
+  pos:
+  - adjective
+  level: A1
+similarity:
+  pos:
+  - noun
+  level: B1
+similarly:
+  pos:
+  - adverb
+  level: B1
+simple:
+  pos:
+  - adjective
+  level: A2
+simply:
+  pos:
+  - adverb
+  level: B1
+since:
+  level: A2
+  pos:
+  - adverb
+  - conjunction
+  - preposition
+sincere:
+  pos:
+  - adjective
+  level: B2
+sing:
+  pos:
+  - verb
+  level: A1
+singer:
+  pos:
+  - noun
+  level: A1
+singing:
+  pos:
+  - noun
+  level: A2
+single:
+  level: A2
+  pos:
+  - adjective
+  - noun
+sink:
+  pos:
+  - verb
+  level: B1
+sir:
+  pos:
+  - noun
+  level: A2
+sister:
+  pos:
+  - noun
+  level: A1
+sit:
+  pos:
+  - verb
+  level: A1
+site:
+  pos:
+  - noun
+  level: A2
+situation:
+  pos:
+  - noun
+  level: A1
+six:
+  pos:
+  - number
+  level: A1
+sixteen:
+  pos:
+  - number
+  level: A1
+sixty:
+  pos:
+  - number
+  level: A1
+size:
+  pos:
+  - noun
+  level: A2
+ski:
+  level: A2
+  pos:
+  - adjective
+  - noun
+  - verb
+skiing:
+  pos:
+  - noun
+  level: A2
+skill:
+  pos:
+  - noun
+  level: A1
+skin:
+  pos:
+  - noun
+  level: A2
+skirt:
+  pos:
+  - noun
+  level: A1
+sky:
+  pos:
+  - noun
+  level: A2
+slave:
+  pos:
+  - noun
+  level: B2
+sleep:
+  level: A1
+  pos:
+  - noun
+  - verb
+slice:
+  level: B1
+  pos:
+  - noun
+  - verb
+slide:
+  level: B2
+  pos:
+  - noun
+  - verb
+slight:
+  pos:
+  - adjective
+  level: B2
+slightly:
+  pos:
+  - adverb
+  level: B1
+slip:
+  pos:
+  - verb
+  level: B2
+slope:
+  level: B2
+  pos:
+  - noun
+  - verb
+slow:
+  level: B1
+  pos:
+  - adjective
+  - verb
+slowly:
+  pos:
+  - adverb
+  level: A2
+small:
+  pos:
+  - adjective
+  level: A1
+smart:
+  pos:
+  - adjective
+  level: B1
+smartphone:
+  pos:
+  - noun
+  level: A2
+smell:
+  level: A2
+  pos:
+  - noun
+  - verb
+smile:
+  level: A2
+  pos:
+  - noun
+  - verb
+smoke:
+  level: A2
+  pos:
+  - noun
+  - verb
+smoking:
+  pos:
+  - noun
+  level: A2
+smooth:
+  pos:
+  - adjective
+  level: B1
+snake:
+  pos:
+  - noun
+  level: A1
+snow:
+  level: A1
+  pos:
+  - noun
+  - verb
+so:
+  level: A1
+  pos:
+  - adverb
+  - conjunction
+soap:
+  pos:
+  - noun
+  level: A2
+soccer:
+  pos:
+  - noun
+  level: A2
+social:
+  pos:
+  - adjective
+  level: A2
+society:
+  pos:
+  - noun
+  level: A2
+sock:
+  pos:
+  - noun
+  level: A2
+soft:
+  pos:
+  - adjective
+  level: A2
+software:
+  pos:
+  - noun
+  level: B1
+soil:
+  pos:
+  - noun
+  level: B1
+solar:
+  pos:
+  - adjective
+  level: B2
+soldier:
+  pos:
+  - noun
+  level: A2
+solid:
+  level: B1
+  pos:
+  - adjective
+  - noun
+solution:
+  pos:
+  - noun
+  level: A2
+solve:
+  pos:
+  - verb
+  level: A2
+some:
+  level: A1
+  pos:
+  - determiner
+  - pronoun
+somebody:
+  pos:
+  - pronoun
+  level: A1
+someone:
+  pos:
+  - pronoun
+  level: A1
+something:
+  pos:
+  - pronoun
+  level: A1
+sometimes:
+  pos:
+  - adverb
+  level: A1
+somewhat:
+  pos:
+  - adverb
+  level: B2
+somewhere:
+  level: A2
+  pos:
+  - adverb
+  - pronoun
+son:
+  pos:
+  - noun
+  level: A1
+song:
+  pos:
+  - noun
+  level: A1
+soon:
+  pos:
+  - adverb
+  level: A1
+sorry:
+  level: A1
+  pos:
+  - adjective
+  - exclamation
+sort:
+  level: B1
+  pos:
+  - noun
+  - verb
+soul:
+  pos:
+  - noun
+  level: B2
+sound:
+  level: A1
+  pos:
+  - noun
+  - verb
+soup:
+  pos:
+  - noun
+  level: A1
+source:
+  pos:
+  - noun
+  level: A2
+south:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+southern:
+  pos:
+  - adjective
+  level: B1
+space:
+  pos:
+  - noun
+  level: A1
+speak:
+  pos:
+  - verb
+  level: A1
+speaker:
+  pos:
+  - noun
+  level: A2
+special:
+  pos:
+  - adjective
+  level: A1
+specialist:
+  level: B2
+  pos:
+  - adjective
+  - noun
+species:
+  pos:
+  - noun
+  level: B2
+specific:
+  pos:
+  - adjective
+  level: A2
+specifically:
+  pos:
+  - adverb
+  level: B1
+speech:
+  pos:
+  - noun
+  level: A2
+speed:
+  level: B2
+  pos:
+  - noun
+  - verb
+spell:
+  pos:
+  - verb
+  level: A1
+spelling:
+  pos:
+  - noun
+  level: A1
+spend:
+  pos:
+  - verb
+  level: A1
+spending:
+  pos:
+  - noun
+  level: B1
+spicy:
+  pos:
+  - adjective
+  level: B1
+spider:
+  pos:
+  - noun
+  level: A2
+spirit:
+  pos:
+  - noun
+  level: B1
+spiritual:
+  pos:
+  - adjective
+  level: B2
+split:
+  level: B2
+  pos:
+  - noun
+  - verb
+spoken:
+  pos:
+  - adjective
+  level: B1
+sponsor:
+  level: B2
+  pos:
+  - noun
+  - verb
+spoon:
+  pos:
+  - noun
+  level: A2
+sport:
+  pos:
+  - noun
+  level: A1
+spot:
+  level: B2
+  pos:
+  - noun
+  - verb
+spread:
+  level: B1
+  pos:
+  - noun
+  - verb
+spring:
+  level: B2
+  pos:
+  - noun
+  - verb
+square:
+  level: A2
+  pos:
+  - adjective
+  - noun
+stable:
+  pos:
+  - adjective
+  level: B2
+stadium:
+  pos:
+  - noun
+  level: B1
+staff:
+  pos:
+  - noun
+  level: B1
+stage:
+  level: B2
+  pos:
+  - noun
+  - verb
+stair:
+  pos:
+  - noun
+  level: A2
+stamp:
+  pos:
+  - noun
+  level: A2
+stand:
+  level: A1
+  pos:
+  - noun
+  - verb
+standard:
+  level: B1
+  pos:
+  - adjective
+  - noun
+star:
+  level: A2
+  pos:
+  - noun
+  - verb
+stare:
+  pos:
+  - verb
+  level: B2
+start:
+  level: A1
+  pos:
+  - noun
+  - verb
+state:
+  level: B1
+  pos:
+  - adjective
+  - noun
+  - verb
+statement:
+  pos:
+  - noun
+  level: A1
+station:
+  pos:
+  - noun
+  level: A1
+statistic:
+  pos:
+  - noun
+  level: B1
+statue:
+  pos:
+  - noun
+  level: B1
+status:
+  pos:
+  - noun
+  level: B2
+stay:
+  level: A1
+  pos:
+  - noun
+  - verb
+steady:
+  pos:
+  - adjective
+  level: B2
+steal:
+  pos:
+  - verb
+  level: A2
+steel:
+  pos:
+  - noun
+  level: B2
+steep:
+  pos:
+  - adjective
+  level: B2
+step:
+  level: B2
+  pos:
+  - noun
+  - verb
+stick:
+  level: B1
+  pos:
+  - noun
+  - verb
+sticky:
+  pos:
+  - adjective
+  level: B2
+stiff:
+  pos:
+  - adjective
+  level: B2
+still:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+stock:
+  pos:
+  - noun
+  level: B2
+stomach:
+  pos:
+  - noun
+  level: A2
+stone:
+  pos:
+  - noun
+  level: A2
+stop:
+  level: A1
+  pos:
+  - noun
+  - verb
+store:
+  level: B1
+  pos:
+  - noun
+  - verb
+storm:
+  pos:
+  - noun
+  level: A2
+story:
+  pos:
+  - noun
+  level: A1
+straight:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+strange:
+  pos:
+  - adjective
+  level: A2
+stranger:
+  pos:
+  - noun
+  level: B1
+strategy:
+  pos:
+  - noun
+  level: A2
+stream:
+  pos:
+  - noun
+  level: B2
+street:
+  pos:
+  - noun
+  level: A1
+strength:
+  pos:
+  - noun
+  level: B1
+stress:
+  level: A2
+  pos:
+  - noun
+  - verb
+stretch:
+  level: B2
+  pos:
+  - noun
+  - verb
+strict:
+  pos:
+  - adjective
+  level: B2
+strike:
+  level: B2
+  pos:
+  - noun
+  - verb
+string:
+  pos:
+  - noun
+  level: B1
+strong:
+  pos:
+  - adjective
+  level: A1
+strongly:
+  pos:
+  - adverb
+  level: B1
+structure:
+  level: B2
+  pos:
+  - noun
+  - verb
+struggle:
+  level: B2
+  pos:
+  - noun
+  - verb
+student:
+  pos:
+  - noun
+  level: A1
+studio:
+  pos:
+  - noun
+  level: B1
+study:
+  level: A1
+  pos:
+  - noun
+  - verb
+stuff:
+  level: B2
+  pos:
+  - noun
+  - verb
+stupid:
+  pos:
+  - adjective
+  level: A2
+style:
+  pos:
+  - noun
+  level: A1
+subject:
+  level: A1
+  pos:
+  - adjective
+  - noun
+submit:
+  pos:
+  - verb
+  level: B2
+substance:
+  pos:
+  - noun
+  level: B1
+succeed:
+  pos:
+  - verb
+  level: A2
+success:
+  pos:
+  - noun
+  level: A1
+successful:
+  pos:
+  - adjective
+  level: A2
+successfully:
+  pos:
+  - adverb
+  level: B1
+such:
+  level: A2
+  pos:
+  - determiner
+  - pronoun
+sudden:
+  pos:
+  - adjective
+  level: B1
+suddenly:
+  pos:
+  - adverb
+  level: A2
+suffer:
+  pos:
+  - verb
+  level: B1
+sugar:
+  pos:
+  - noun
+  level: A1
+suggest:
+  pos:
+  - verb
+  level: A2
+suggestion:
+  pos:
+  - noun
+  level: A2
+suit:
+  level: B1
+  pos:
+  - noun
+  - verb
+suitable:
+  pos:
+  - adjective
+  level: B1
+sum:
+  level: B2
+  pos:
+  - noun
+  - verb
+summarize:
+  pos:
+  - verb
+  level: B1
+summary:
+  pos:
+  - noun
+  level: B1
+summer:
+  pos:
+  - noun
+  level: A1
+sun:
+  pos:
+  - noun
+  level: A1
+Sunday:
+  pos:
+  - noun
+  level: A1
+supermarket:
+  pos:
+  - noun
+  level: A1
+supply:
+  level: B1
+  pos:
+  - noun
+  - verb
+support:
+  level: A2
+  pos:
+  - noun
+  - verb
+supporter:
+  pos:
+  - noun
+  level: B1
+suppose:
+  pos:
+  - verb
+  level: A2
+sure:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+surely:
+  pos:
+  - adverb
+  level: B1
+surface:
+  pos:
+  - noun
+  level: B1
+surgery:
+  pos:
+  - noun
+  level: B2
+surprise:
+  level: A2
+  pos:
+  - noun
+  - verb
+surprised:
+  pos:
+  - adjective
+  level: A2
+surprising:
+  pos:
+  - adjective
+  level: A2
+surround:
+  pos:
+  - verb
+  level: B2
+surrounding:
+  pos:
+  - adjective
+  level: B2
+survey:
+  level: B2
+  pos:
+  - noun
+  - verb
+survive:
+  pos:
+  - verb
+  level: B1
+suspect:
+  level: B2
+  pos:
+  - noun
+  - verb
+swear:
+  pos:
+  - verb
+  level: B2
+sweater:
+  pos:
+  - noun
+  level: A1
+sweep:
+  pos:
+  - verb
+  level: B2
+sweet:
+  level: A2
+  pos:
+  - adjective
+  - noun
+swim:
+  level: A1
+  pos:
+  - noun
+  - verb
+swimming:
+  pos:
+  - noun
+  level: A1
+switch:
+  level: B1
+  pos:
+  - noun
+  - verb
+symbol:
+  pos:
+  - noun
+  level: A2
+sympathy:
+  pos:
+  - noun
+  level: B2
+symptom:
+  pos:
+  - noun
+  level: B1
+system:
+  pos:
+  - noun
+  level: A2
+T-shirt:
+  pos:
+  - noun
+  level: A1
+table:
+  pos:
+  - noun
+  level: A1
+tablet:
+  pos:
+  - noun
+  level: A2
+tail:
+  pos:
+  - noun
+  level: B1
+take:
+  pos:
+  - verb
+  level: A1
+tale:
+  pos:
+  - noun
+  level: B2
+talent:
+  pos:
+  - noun
+  level: B1
+talented:
+  pos:
+  - adjective
+  level: B1
+talk:
+  level: A1
+  pos:
+  - noun
+  - verb
+tall:
+  pos:
+  - adjective
+  level: A1
+tank:
+  pos:
+  - noun
+  level: B2
+tape:
+  pos:
+  - noun
+  level: B1
+target:
+  level: B2
+  pos:
+  - noun
+  - verb
+task:
+  pos:
+  - noun
+  level: A2
+taste:
+  level: A2
+  pos:
+  - noun
+  - verb
+tax:
+  level: B1
+  pos:
+  - noun
+  - verb
+taxi:
+  pos:
+  - noun
+  level: A1
+tea:
+  pos:
+  - noun
+  level: A1
+teach:
+  pos:
+  - verb
+  level: A1
+teacher:
+  pos:
+  - noun
+  level: A1
+teaching:
+  pos:
+  - noun
+  level: A2
+team:
+  pos:
+  - noun
+  level: A1
+tear:
+  level: B2
+  pos:
+  - noun
+  - verb
+technical:
+  pos:
+  - adjective
+  level: B1
+technique:
+  pos:
+  - noun
+  level: B1
+technology:
+  pos:
+  - noun
+  level: A2
+teenage:
+  pos:
+  - adjective
+  level: A2
+teenager:
+  pos:
+  - noun
+  level: A1
+telephone:
+  level: A1
+  pos:
+  - noun
+  - verb
+television:
+  pos:
+  - noun
+  level: A1
+tell:
+  pos:
+  - verb
+  level: A1
+temperature:
+  pos:
+  - noun
+  level: A2
+temporary:
+  pos:
+  - adjective
+  level: B2
+ten:
+  pos:
+  - number
+  level: A1
+tend:
+  pos:
+  - verb
+  level: B1
+tennis:
+  pos:
+  - noun
+  level: A1
+tent:
+  pos:
+  - noun
+  level: B1
+term:
+  level: B2
+  pos:
+  - noun
+  - verb
+terrible:
+  pos:
+  - adjective
+  level: A1
+test:
+  level: A1
+  pos:
+  - noun
+  - verb
+text:
+  level: A2
+  pos:
+  - noun
+  - verb
+than:
+  level: A1
+  pos:
+  - conjunction
+  - preposition
+thank:
+  pos:
+  - verb
+  level: A1
+thanks:
+  level: A1
+  pos:
+  - exclamation
+  - noun
+that:
+  level: A1
+  pos:
+  - adverb
+  - conjunction
+  - determiner
+  - pronoun
+the:
+  pos:
+  - definite
+  - article
+  level: A1
+theatre:
+  pos:
+  - noun
+  level: A1
+their:
+  pos:
+  - determiner
+  level: A1
+theirs:
+  pos:
+  - pronoun
+  level: B1
+them:
+  pos:
+  - pronoun
+  level: A1
+theme:
+  pos:
+  - noun
+  level: B1
+themselves:
+  pos:
+  - pronoun
+  level: A2
+then:
+  pos:
+  - adverb
+  level: A1
+theory:
+  pos:
+  - noun
+  level: B1
+therapy:
+  pos:
+  - noun
+  level: B2
+there:
+  pos:
+  - adverb
+  level: A1
+therefore:
+  pos:
+  - adverb
+  level: B1
+they:
+  pos:
+  - pronoun
+  level: A1
+thick:
+  pos:
+  - adjective
+  level: A2
+thief:
+  pos:
+  - noun
+  level: A2
+thin:
+  pos:
+  - adjective
+  level: A2
+thing:
+  pos:
+  - noun
+  level: A1
+think:
+  pos:
+  - verb
+  level: A1
+thinking:
+  pos:
+  - noun
+  level: A2
+third:
+  level: A1
+  pos:
+  - noun
+  - ordinal
+  - number
+thirsty:
+  pos:
+  - adjective
+  level: A1
+thirteen:
+  pos:
+  - number
+  level: A1
+thirty:
+  pos:
+  - number
+  level: A1
+this:
+  level: A1
+  pos:
+  - adverb
+  - determiner
+  - pronoun
+though:
+  level: B1
+  pos:
+  - adverb
+  - conjunction
+thought:
+  pos:
+  - noun
+  level: A2
+thousand:
+  pos:
+  - number
+  level: A1
+threat:
+  pos:
+  - noun
+  level: B2
+threaten:
+  pos:
+  - verb
+  level: B2
+three:
+  pos:
+  - number
+  level: A1
+throat:
+  pos:
+  - noun
+  level: B1
+through:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+throughout:
+  level: B1
+  pos:
+  - adverb
+  - preposition
+throw:
+  pos:
+  - verb
+  level: A2
+Thursday:
+  pos:
+  - noun
+  level: A1
+thus:
+  pos:
+  - adverb
+  level: B2
+ticket:
+  pos:
+  - noun
+  level: A1
+tidy:
+  level: A2
+  pos:
+  - adjective
+  - verb
+tie:
+  level: A2
+  pos:
+  - noun
+  - verb
+tight:
+  pos:
+  - adjective
+  level: B1
+till:
+  level: B1
+  pos:
+  - conjunction
+  - preposition
+time:
+  level: B2
+  pos:
+  - noun
+  - verb
+tin:
+  pos:
+  - noun
+  level: B1
+tiny:
+  pos:
+  - adjective
+  level: B1
+tip:
+  level: B1
+  pos:
+  - noun
+  - verb
+tired:
+  pos:
+  - adjective
+  level: A1
+title:
+  level: B2
+  pos:
+  - noun
+  - verb
+to:
+  level: A1
+  pos:
+  - infinitive
+  - marker
+  - preposition
+today:
+  level: A1
+  pos:
+  - adverb
+  - noun
+toe:
+  pos:
+  - noun
+  level: B1
+together:
+  pos:
+  - adverb
+  level: A1
+toilet:
+  pos:
+  - noun
+  level: A1
+tomato:
+  pos:
+  - noun
+  level: A1
+tomorrow:
+  level: A1
+  pos:
+  - adverb
+  - noun
+tone:
+  pos:
+  - noun
+  level: B2
+tongue:
+  pos:
+  - noun
+  level: B1
+tonight:
+  level: A1
+  pos:
+  - adverb
+  - noun
+too:
+  pos:
+  - adverb
+  level: A1
+tool:
+  pos:
+  - noun
+  level: A2
+tooth:
+  pos:
+  - noun
+  level: A1
+top:
+  level: A2
+  pos:
+  - adjective
+  - noun
+topic:
+  pos:
+  - noun
+  level: A1
+total:
+  level: B1
+  pos:
+  - adjective
+  - noun
+totally:
+  pos:
+  - adverb
+  level: B1
+touch:
+  level: A2
+  pos:
+  - noun
+  - verb
+tough:
+  pos:
+  - adjective
+  level: B2
+tour:
+  level: B1
+  pos:
+  - noun
+  - verb
+tourism:
+  pos:
+  - noun
+  level: A2
+tourist:
+  pos:
+  - noun
+  level: A1
+towards:
+  pos:
+  - preposition
+  level: A2
+towel:
+  pos:
+  - noun
+  level: A2
+tower:
+  pos:
+  - noun
+  level: A2
+town:
+  pos:
+  - noun
+  level: A1
+toy:
+  level: A2
+  pos:
+  - adjective
+  - noun
+track:
+  level: B2
+  pos:
+  - noun
+  - verb
+trade:
+  level: B1
+  pos:
+  - noun
+  - verb
+tradition:
+  pos:
+  - noun
+  level: A2
+traditional:
+  pos:
+  - adjective
+  level: A2
+traffic:
+  pos:
+  - noun
+  level: A1
+train:
+  level: A2
+  pos:
+  - noun
+  - verb
+trainer:
+  pos:
+  - noun
+  level: A2
+training:
+  pos:
+  - noun
+  level: A2
+transfer:
+  level: B2
+  pos:
+  - noun
+  - verb
+transform:
+  pos:
+  - verb
+  level: B2
+transition:
+  pos:
+  - noun
+  level: B2
+translate:
+  pos:
+  - verb
+  level: B1
+translation:
+  pos:
+  - noun
+  level: B1
+transport:
+  level: B1
+  pos:
+  - noun
+  - verb
+travel:
+  level: A1
+  pos:
+  - noun
+  - verb
+traveller:
+  pos:
+  - noun
+  level: A2
+treat:
+  pos:
+  - verb
+  level: B1
+treatment:
+  pos:
+  - noun
+  level: B1
+tree:
+  pos:
+  - noun
+  level: A1
+trend:
+  pos:
+  - noun
+  level: B1
+trial:
+  pos:
+  - noun
+  level: B2
+trick:
+  level: B1
+  pos:
+  - noun
+  - verb
+trip:
+  level: B2
+  pos:
+  - noun
+  - verb
+tropical:
+  pos:
+  - adjective
+  level: B2
+trouble:
+  level: B2
+  pos:
+  - noun
+  - verb
+trousers:
+  pos:
+  - noun
+  level: A1
+truck:
+  pos:
+  - noun
+  level: A2
+'true':
+  pos:
+  - adjective
+  level: A1
+truly:
+  pos:
+  - adverb
+  level: B2
+trust:
+  level: B2
+  pos:
+  - noun
+  - verb
+truth:
+  pos:
+  - noun
+  level: B1
+try:
+  level: A1
+  pos:
+  - noun
+  - verb
+tube:
+  pos:
+  - noun
+  level: B1
+Tuesday:
+  pos:
+  - noun
+  level: A1
+tune:
+  pos:
+  - noun
+  level: B2
+tunnel:
+  pos:
+  - noun
+  level: B2
+turn:
+  level: A1
+  pos:
+  - noun
+  - verb
+TV:
+  pos:
+  - noun
+  level: A1
+twelve:
+  pos:
+  - number
+  level: A1
+twenty:
+  pos:
+  - number
+  level: A1
+twice:
+  pos:
+  - adverb
+  level: A1
+twin:
+  level: A2
+  pos:
+  - adjective
+  - noun
+two:
+  pos:
+  - number
+  level: A1
+type:
+  level: B1
+  pos:
+  - noun
+  - verb
+typical:
+  pos:
+  - adjective
+  level: A2
+typically:
+  pos:
+  - adverb
+  level: B1
+tyre:
+  pos:
+  - noun
+  level: B1
+ugly:
+  pos:
+  - adjective
+  level: B1
+ultimately:
+  pos:
+  - adverb
+  level: B2
+umbrella:
+  pos:
+  - noun
+  level: A1
+unable:
+  pos:
+  - adjective
+  level: B1
+uncle:
+  pos:
+  - noun
+  level: A1
+uncomfortable:
+  pos:
+  - adjective
+  level: B1
+unconscious:
+  pos:
+  - adjective
+  level: B2
+under:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+underground:
+  level: A2
+  pos:
+  - adjective
+  - adverb
+understand:
+  pos:
+  - verb
+  level: A1
+understanding:
+  pos:
+  - noun
+  level: A2
+underwear:
+  pos:
+  - noun
+  level: B1
+unemployed:
+  pos:
+  - adjective
+  level: B1
+unemployment:
+  pos:
+  - noun
+  level: B1
+unexpected:
+  pos:
+  - adjective
+  level: B2
+unfair:
+  pos:
+  - adjective
+  level: B1
+unfortunately:
+  pos:
+  - adverb
+  level: A2
+unhappy:
+  pos:
+  - adjective
+  level: A2
+uniform:
+  pos:
+  - noun
+  level: A2
+union:
+  pos:
+  - noun
+  level: B1
+unique:
+  pos:
+  - adjective
+  level: B2
+unit:
+  pos:
+  - noun
+  level: A2
+united:
+  pos:
+  - adjective
+  level: A2
+universe:
+  pos:
+  - noun
+  level: B2
+university:
+  pos:
+  - noun
+  level: A1
+unknown:
+  pos:
+  - adjective
+  level: B2
+unless:
+  pos:
+  - conjunction
+  level: B1
+unlike:
+  pos:
+  - preposition
+  level: B1
+unlikely:
+  pos:
+  - adjective
+  level: B1
+unnecessary:
+  pos:
+  - adjective
+  level: B1
+unpleasant:
+  pos:
+  - adjective
+  level: B1
+until:
+  level: A1
+  pos:
+  - conjunction
+  - preposition
+unusual:
+  pos:
+  - adjective
+  level: A2
+up:
+  level: A1
+  pos:
+  - adverb
+  - preposition
+update:
+  level: B1
+  pos:
+  - noun
+  - verb
+upon:
+  pos:
+  - preposition
+  level: B1
+upper:
+  pos:
+  - adjective
+  level: B2
+upset:
+  level: B1
+  pos:
+  - adjective
+  - verb
+upstairs:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+upwards:
+  pos:
+  - adverb
+  level: B2
+urban:
+  pos:
+  - adjective
+  level: B2
+urge:
+  pos:
+  - verb
+  level: B2
+us:
+  pos:
+  - pronoun
+  level: A1
+use:
+  level: A1
+  pos:
+  - noun
+  - verb
+used:
+  pos:
+  - adjective
+  level: B1
+used to:
+  pos:
+  - modal
+  - verb
+  level: A2
+useful:
+  pos:
+  - adjective
+  level: A1
+user:
+  pos:
+  - noun
+  level: A2
+usual:
+  pos:
+  - adjective
+  level: A2
+usually:
+  pos:
+  - adverb
+  level: A1
+vacation:
+  pos:
+  - noun
+  level: A1
+valley:
+  pos:
+  - noun
+  level: A2
+valuable:
+  pos:
+  - adjective
+  level: B1
+value:
+  level: B2
+  pos:
+  - noun
+  - verb
+van:
+  pos:
+  - noun
+  level: A2
+variety:
+  pos:
+  - noun
+  level: A2
+various:
+  pos:
+  - adjective
+  level: B1
+vary:
+  pos:
+  - verb
+  level: B2
+vast:
+  pos:
+  - adjective
+  level: B2
+vegetable:
+  pos:
+  - noun
+  level: A1
+vehicle:
+  pos:
+  - noun
+  level: A2
+venue:
+  pos:
+  - noun
+  level: B2
+version:
+  pos:
+  - noun
+  level: B1
+very:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+via:
+  pos:
+  - preposition
+  level: B2
+victim:
+  pos:
+  - noun
+  level: B1
+victory:
+  pos:
+  - noun
+  level: B2
+video:
+  pos:
+  - noun
+  level: A1
+view:
+  level: B1
+  pos:
+  - noun
+  - verb
+viewer:
+  pos:
+  - noun
+  level: B1
+village:
+  pos:
+  - noun
+  level: A1
+violence:
+  pos:
+  - noun
+  level: B2
+violent:
+  pos:
+  - adjective
+  level: B1
+virtual:
+  pos:
+  - adjective
+  level: B2
+virus:
+  pos:
+  - noun
+  level: A2
+vision:
+  pos:
+  - noun
+  level: B2
+visit:
+  level: A1
+  pos:
+  - noun
+  - verb
+visitor:
+  pos:
+  - noun
+  level: A1
+visual:
+  pos:
+  - adjective
+  level: B2
+vital:
+  pos:
+  - adjective
+  level: B2
+vitamin:
+  pos:
+  - noun
+  level: B2
+voice:
+  pos:
+  - noun
+  level: A2
+volume:
+  pos:
+  - noun
+  level: B2
+volunteer:
+  level: B1
+  pos:
+  - noun
+  - verb
+vote:
+  level: B1
+  pos:
+  - noun
+  - verb
+wage:
+  pos:
+  - noun
+  level: B2
+wait:
+  level: A1
+  pos:
+  - noun
+  - verb
+waiter:
+  pos:
+  - noun
+  level: A1
+wake:
+  pos:
+  - verb
+  level: A1
+walk:
+  level: A1
+  pos:
+  - noun
+  - verb
+wall:
+  pos:
+  - noun
+  level: A1
+want:
+  pos:
+  - verb
+  level: A1
+war:
+  pos:
+  - noun
+  level: A2
+warm:
+  level: B1
+  pos:
+  - adjective
+  - verb
+warn:
+  pos:
+  - verb
+  level: B1
+warning:
+  pos:
+  - noun
+  level: B1
+wash:
+  level: A1
+  pos:
+  - noun
+  - verb
+washing:
+  pos:
+  - noun
+  level: A2
+waste:
+  level: B1
+  pos:
+  - adjective
+  - noun
+  - verb
+watch:
+  level: A1
+  pos:
+  - noun
+  - verb
+water:
+  level: B1
+  pos:
+  - noun
+  - verb
+wave:
+  level: B1
+  pos:
+  - noun
+  - verb
+way:
+  level: A1
+  pos:
+  - adverb
+  - noun
+we:
+  pos:
+  - pronoun
+  level: A1
+weak:
+  pos:
+  - adjective
+  level: A2
+weakness:
+  pos:
+  - noun
+  level: B2
+wealth:
+  pos:
+  - noun
+  level: B2
+wealthy:
+  pos:
+  - adjective
+  level: B2
+weapon:
+  pos:
+  - noun
+  level: B1
+wear:
+  pos:
+  - verb
+  level: A1
+weather:
+  pos:
+  - noun
+  level: A1
+web:
+  pos:
+  - noun
+  level: A2
+website:
+  pos:
+  - noun
+  level: A1
+wedding:
+  pos:
+  - noun
+  level: A2
+Wednesday:
+  pos:
+  - noun
+  level: A1
+week:
+  pos:
+  - noun
+  level: A1
+weekend:
+  pos:
+  - noun
+  level: A1
+weigh:
+  pos:
+  - verb
+  level: B1
+weight:
+  pos:
+  - noun
+  level: A2
+welcome:
+  level: A1
+  pos:
+  - adjective
+  - exclamation
+  - noun
+  - verb
+well:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - exclamation
+west:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+  - noun
+western:
+  pos:
+  - adjective
+  level: B1
+wet:
+  pos:
+  - adjective
+  level: A2
+what:
+  level: A1
+  pos:
+  - determiner
+  - pronoun
+whatever:
+  level: B1
+  pos:
+  - determiner
+  - pronoun
+wheel:
+  pos:
+  - noun
+  level: A2
+when:
+  level: A1
+  pos:
+  - adverb
+  - conjunction
+  - pronoun
+whenever:
+  pos:
+  - conjunction
+  level: B1
+where:
+  level: A1
+  pos:
+  - adverb
+  - conjunction
+whereas:
+  pos:
+  - conjunction
+  level: B2
+wherever:
+  pos:
+  - conjunction
+  level: B2
+whether:
+  pos:
+  - conjunction
+  level: B1
+which:
+  level: A1
+  pos:
+  - determiner
+  - pronoun
+while:
+  level: B1
+  pos:
+  - conjunction
+  - noun
+whisper:
+  level: B2
+  pos:
+  - noun
+  - verb
+white:
+  level: A1
+  pos:
+  - adjective
+  - noun
+who:
+  pos:
+  - pronoun
+  level: A1
+whole:
+  level: B1
+  pos:
+  - adjective
+  - noun
+whom:
+  pos:
+  - pronoun
+  level: B2
+whose:
+  level: A2
+  pos:
+  - determiner
+  - pronoun
+why:
+  pos:
+  - adverb
+  level: A1
+wide:
+  pos:
+  - adjective
+  level: A2
+widely:
+  pos:
+  - adverb
+  level: B2
+wife:
+  pos:
+  - noun
+  level: A1
+wild:
+  pos:
+  - adjective
+  level: A2
+wildlife:
+  pos:
+  - noun
+  level: B2
+will:
+  level: A1
+  pos:
+  - noun
+  - modal
+  - verb
+willing:
+  pos:
+  - adjective
+  level: B2
+win:
+  level: A1
+  pos:
+  - noun
+  - verb
+wind:
+  level: B2
+  pos:
+  - noun
+  - verb
+window:
+  pos:
+  - noun
+  level: A1
+wine:
+  pos:
+  - noun
+  level: A1
+wing:
+  pos:
+  - noun
+  level: B1
+winner:
+  pos:
+  - noun
+  level: A2
+winter:
+  pos:
+  - noun
+  level: A1
+wire:
+  pos:
+  - noun
+  level: B2
+wise:
+  pos:
+  - adjective
+  level: B2
+wish:
+  level: A2
+  pos:
+  - noun
+  - verb
+with:
+  pos:
+  - preposition
+  level: A1
+within:
+  pos:
+  - preposition
+  level: B1
+without:
+  pos:
+  - preposition
+  level: A1
+witness:
+  level: B2
+  pos:
+  - noun
+  - verb
+woman:
+  pos:
+  - noun
+  level: A1
+wonder:
+  level: B1
+  pos:
+  - noun
+  - verb
+wonderful:
+  pos:
+  - adjective
+  level: A1
+wood:
+  pos:
+  - noun
+  level: A2
+wooden:
+  pos:
+  - adjective
+  level: A2
+wool:
+  pos:
+  - noun
+  level: B1
+word:
+  pos:
+  - noun
+  level: A1
+work:
+  level: A1
+  pos:
+  - noun
+  - verb
+worker:
+  pos:
+  - noun
+  level: A1
+working:
+  pos:
+  - adjective
+  level: A2
+world:
+  pos:
+  - noun
+  level: A1
+worldwide:
+  level: B1
+  pos:
+  - adjective
+  - adverb
+worried:
+  pos:
+  - adjective
+  level: A2
+worry:
+  level: A2
+  pos:
+  - noun
+  - verb
+worse:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - noun
+worst:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - noun
+worth:
+  level: B2
+  pos:
+  - adjective
+  - noun
+would:
+  pos:
+  - modal
+  - verb
+  level: A1
+wound:
+  level: B2
+  pos:
+  - noun
+  - verb
+wow:
+  pos:
+  - exclamation
+  level: A2
+wrap:
+  pos:
+  - verb
+  level: B2
+write:
+  pos:
+  - verb
+  level: A1
+writer:
+  pos:
+  - noun
+  level: A1
+writing:
+  pos:
+  - noun
+  level: A1
+written:
+  pos:
+  - adjective
+  level: B1
+wrong:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - noun
+yard:
+  pos:
+  - noun
+  level: B1
+yeah:
+  pos:
+  - exclamation
+  level: A1
+year:
+  pos:
+  - noun
+  level: A1
+yellow:
+  level: A1
+  pos:
+  - adjective
+  - noun
+yes:
+  pos:
+  - exclamation
+  level: A1
+yesterday:
+  level: A1
+  pos:
+  - adverb
+  - noun
+yet:
+  level: B2
+  pos:
+  - adverb
+  - conjunction
+you:
+  pos:
+  - pronoun
+  level: A1
+young:
+  level: B1
+  pos:
+  - adjective
+  - noun
+your:
+  pos:
+  - determiner
+  level: A1
+yours:
+  pos:
+  - pronoun
+  level: A2
+yourself:
+  pos:
+  - pronoun
+  level: A1
+youth:
+  pos:
+  - noun
+  level: B1
+zero:
+  pos:
+  - number
+  level: A2
+zone:
+  pos:
+  - noun
+  level: B2

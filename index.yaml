@@ -3,3 +3,14 @@
   author:
     - Murray Bromberg
   cover: true
+
+- slug: oxford-3000
+  title: The Oxford 3000 Learner's Word Lists
+  description: The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.
+  cover: false
+
+- slug: oxford-5000
+  title: The Oxford 5000 Learner's Word Lists
+  description: The Oxford 5000 is an expanded core word list for advanced learners of English. As well as the Oxford
+3000, it includes an additional 2000 words for learners at B2-C1 level, which are listed here.
+  cover: false

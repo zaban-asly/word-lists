@@ -1,4 +1,3 @@
----
 abandon:
   pos:
   - verb
@@ -11,6 +10,14 @@ able:
   pos:
   - adjective
   level: A2
+abolish:
+  pos:
+  - verb
+  level: C1
+abortion:
+  pos:
+  - noun
+  level: C1
 about:
   level: A1
   pos:
@@ -25,6 +32,14 @@ abroad:
   pos:
   - adverb
   level: A2
+absence:
+  pos:
+  - noun
+  level: C1
+absent:
+  pos:
+  - adjective
+  level: C1
 absolute:
   pos:
   - adjective
@@ -33,11 +48,44 @@ absolutely:
   pos:
   - adverb
   level: B1
+absorb:
+  pos:
+  - verb
+  level: B2
+abstract:
+  pos:
+  - adjective
+  level: B2
+absurd:
+  pos:
+  - adjective
+  level: C1
+abundance:
+  pos:
+  - noun
+  level: C1
+abuse:
+  level: C1
+  pos:
+  - noun
+  - verb
 academic:
   level: B2
   pos:
   - adjective
   - noun
+academy:
+  pos:
+  - noun
+  level: C1
+accelerate:
+  pos:
+  - verb
+  level: C1
+accent:
+  pos:
+  - noun
+  level: B2
 accept:
   pos:
   - verb
@@ -46,15 +94,31 @@ acceptable:
   pos:
   - adjective
   level: B2
+acceptance:
+  pos:
+  - noun
+  level: C1
 access:
   level: B1
   pos:
   - noun
   - verb
+accessible:
+  pos:
+  - adjective
+  level: C1
 accident:
   pos:
   - noun
   level: A2
+accidentally:
+  pos:
+  - adverb
+  level: B2
+accommodate:
+  pos:
+  - verb
+  level: B2
 accommodation:
   pos:
   - noun
@@ -63,23 +127,75 @@ accompany:
   pos:
   - verb
   level: B2
+accomplish:
+  pos:
+  - verb
+  level: B2
+accomplishment:
+  pos:
+  - noun
+  level: C1
+accordance:
+  pos:
+  - noun
+  level: C1
 according to:
   pos:
   - preposition
   level: A2
+accordingly:
+  pos:
+  - adverb
+  level: C1
 account:
   level: B2
   pos:
   - noun
   - verb
+accountability:
+  pos:
+  - noun
+  level: C1
+accountable:
+  pos:
+  - adjective
+  level: C1
+accountant:
+  pos:
+  - noun
+  level: B2
+accumulate:
+  pos:
+  - verb
+  level: C1
+accumulation:
+  pos:
+  - noun
+  level: C1
+accuracy:
+  pos:
+  - noun
+  level: B2
 accurate:
   pos:
   - adjective
   level: B2
+accurately:
+  pos:
+  - adverb
+  level: B2
+accusation:
+  pos:
+  - noun
+  level: C1
 accuse:
   pos:
   - verb
   level: B2
+accused:
+  pos:
+  - noun
+  level: C1
 achieve:
   pos:
   - verb
@@ -88,6 +204,11 @@ achievement:
   pos:
   - noun
   level: B1
+acid:
+  level: B2
+  pos:
+  - adjective
+  - noun
 acknowledge:
   pos:
   - verb
@@ -96,6 +217,14 @@ acquire:
   pos:
   - verb
   level: B2
+acquisition:
+  pos:
+  - noun
+  level: C1
+acre:
+  pos:
+  - noun
+  level: C1
 across:
   level: A1
   pos:
@@ -110,10 +239,22 @@ action:
   pos:
   - noun
   level: A1
+activate:
+  pos:
+  - verb
+  level: B2
+activation:
+  pos:
+  - noun
+  level: C1
 active:
   pos:
   - adjective
   level: A2
+activist:
+  pos:
+  - noun
+  level: C1
 activity:
   pos:
   - noun
@@ -134,6 +275,10 @@ actually:
   pos:
   - adverb
   level: A2
+acute:
+  pos:
+  - adjective
+  level: C1
 ad:
   pos:
   - noun
@@ -142,10 +287,18 @@ adapt:
   pos:
   - verb
   level: B2
+adaptation:
+  pos:
+  - noun
+  level: C1
 add:
   pos:
   - verb
   level: A1
+addiction:
+  pos:
+  - noun
+  level: B2
 addition:
   pos:
   - noun
@@ -154,27 +307,79 @@ additional:
   pos:
   - adjective
   level: B2
+additionally:
+  pos:
+  - adverb
+  level: B2
 address:
   level: B2
   pos:
   - noun
   - verb
+adequate:
+  pos:
+  - adjective
+  level: B2
+adequately:
+  pos:
+  - adverb
+  level: B2
+adhere:
+  pos:
+  - verb
+  level: C1
+adjacent:
+  pos:
+  - adjective
+  level: C1
+adjust:
+  pos:
+  - verb
+  level: B2
+adjustment:
+  pos:
+  - noun
+  level: C1
+administer:
+  pos:
+  - verb
+  level: C1
 administration:
   pos:
   - noun
   level: B2
+administrative:
+  pos:
+  - adjective
+  level: C1
+administrator:
+  pos:
+  - noun
+  level: C1
 admire:
   pos:
   - verb
   level: B1
+admission:
+  pos:
+  - noun
+  level: C1
 admit:
   pos:
   - verb
   level: B1
+adolescent:
+  pos:
+  - noun
+  level: C1
 adopt:
   pos:
   - verb
   level: B2
+adoption:
+  pos:
+  - noun
+  level: C1
 adult:
   level: A1
   pos:
@@ -198,6 +403,10 @@ adventure:
   pos:
   - noun
   level: A2
+adverse:
+  pos:
+  - adjective
+  level: C1
 advertise:
   pos:
   - verb
@@ -218,6 +427,15 @@ advise:
   pos:
   - verb
   level: B1
+advocate:
+  level: C1
+  pos:
+  - noun
+  - verb
+aesthetic:
+  pos:
+  - adjective
+  level: C1
 affair:
   pos:
   - noun
@@ -226,10 +444,18 @@ affect:
   pos:
   - verb
   level: A2
+affection:
+  pos:
+  - noun
+  level: C1
 afford:
   pos:
   - verb
   level: B1
+affordable:
+  pos:
+  - adjective
+  level: B2
 afraid:
   pos:
   - adjective
@@ -240,6 +466,10 @@ after:
   - adverb
   - conjunction
   - preposition
+aftermath:
+  pos:
+  - noun
+  level: C1
 afternoon:
   pos:
   - noun
@@ -277,6 +507,10 @@ agent:
   pos:
   - noun
   level: B1
+aggression:
+  pos:
+  - noun
+  level: C1
 aggressive:
   pos:
   - adjective
@@ -293,6 +527,14 @@ agreement:
   pos:
   - noun
   level: B1
+agricultural:
+  pos:
+  - adjective
+  level: C1
+agriculture:
+  pos:
+  - noun
+  level: B2
 ah:
   pos:
   - exclamation
@@ -306,6 +548,14 @@ aid:
   pos:
   - noun
   - verb
+aide:
+  pos:
+  - noun
+  level: C1
+AIDS:
+  pos:
+  - noun
+  level: B2
 aim:
   level: B1
   pos:
@@ -332,6 +582,10 @@ alarm:
   pos:
   - noun
   - verb
+albeit:
+  pos:
+  - conjunction
+  level: C1
 album:
   pos:
   - noun
@@ -344,6 +598,30 @@ alcoholic:
   pos:
   - adjective
   level: B1
+alert:
+  level: C1
+  pos:
+  - adjective
+  - noun
+  - verb
+alien:
+  level: B2
+  pos:
+  - adjective
+  - noun
+align:
+  pos:
+  - verb
+  level: C1
+alignment:
+  pos:
+  - noun
+  level: C1
+alike:
+  level: C1
+  pos:
+  - adjective
+  - adverb
 alive:
   pos:
   - adjective
@@ -360,10 +638,42 @@ all right:
   - adjective
   - adverb
   - exclamation
+allegation:
+  pos:
+  - noun
+  level: C1
+allege:
+  pos:
+  - verb
+  level: C1
+allegedly:
+  pos:
+  - adverb
+  level: C1
+alliance:
+  pos:
+  - noun
+  level: C1
+allocate:
+  pos:
+  - verb
+  level: C1
+allocation:
+  pos:
+  - noun
+  level: C1
 allow:
   pos:
   - verb
   level: A2
+allowance:
+  pos:
+  - noun
+  level: C1
+ally:
+  pos:
+  - noun
+  level: C1
 almost:
   pos:
   - adverb
@@ -378,6 +688,10 @@ along:
   pos:
   - adverb
   - preposition
+alongside:
+  pos:
+  - preposition
+  level: B2
 already:
   pos:
   - adverb
@@ -399,10 +713,23 @@ although:
   pos:
   - conjunction
   level: A2
+altogether:
+  pos:
+  - adverb
+  level: B2
+aluminium:
+  pos:
+  - noun
+  level: C1
 always:
   pos:
   - adverb
   level: A1
+amateur:
+  level: C1
+  pos:
+  - adjective
+  - noun
 amazed:
   pos:
   - adjective
@@ -411,6 +738,10 @@ amazing:
   pos:
   - adjective
   level: A1
+ambassador:
+  pos:
+  - noun
+  level: C1
 ambition:
   pos:
   - noun
@@ -419,6 +750,22 @@ ambitious:
   pos:
   - adjective
   level: B1
+ambulance:
+  pos:
+  - noun
+  level: B2
+amend:
+  pos:
+  - verb
+  level: C1
+amendment:
+  pos:
+  - noun
+  level: C1
+amid:
+  pos:
+  - preposition
+  level: C1
 among:
   pos:
   - preposition
@@ -428,6 +775,14 @@ amount:
   pos:
   - noun
   - verb
+amusing:
+  pos:
+  - adjective
+  level: B2
+analogy:
+  pos:
+  - noun
+  level: C1
 analyse:
   pos:
   - verb
@@ -436,6 +791,18 @@ analysis:
   pos:
   - noun
   level: B1
+analyst:
+  pos:
+  - noun
+  level: B2
+ancestor:
+  pos:
+  - noun
+  level: B2
+anchor:
+  pos:
+  - noun
+  level: C1
 ancient:
   pos:
   - adjective
@@ -444,6 +811,10 @@ and:
   pos:
   - conjunction
   level: A1
+angel:
+  pos:
+  - noun
+  level: C1
 anger:
   pos:
   - noun
@@ -460,6 +831,10 @@ animal:
   pos:
   - noun
   level: A1
+animation:
+  pos:
+  - noun
+  level: B2
 ankle:
   pos:
   - noun
@@ -492,6 +867,14 @@ annual:
   pos:
   - adjective
   level: B2
+annually:
+  pos:
+  - adverb
+  level: B2
+anonymous:
+  pos:
+  - adjective
+  level: C1
 another:
   level: A1
   pos:
@@ -502,6 +885,14 @@ answer:
   pos:
   - noun
   - verb
+anticipate:
+  pos:
+  - verb
+  level: B2
+anxiety:
+  pos:
+  - noun
+  level: B2
 anxious:
   pos:
   - adjective
@@ -549,10 +940,18 @@ apologize:
   pos:
   - verb
   level: B1
+apology:
+  pos:
+  - noun
+  level: B2
 app:
   pos:
   - noun
   level: A2
+apparatus:
+  pos:
+  - noun
+  level: C1
 apparent:
   pos:
   - adjective
@@ -566,6 +965,10 @@ appeal:
   pos:
   - noun
   - verb
+appealing:
+  pos:
+  - adjective
+  level: C1
 appear:
   pos:
   - verb
@@ -574,10 +977,26 @@ appearance:
   pos:
   - noun
   level: A2
+appetite:
+  pos:
+  - noun
+  level: C1
+applaud:
+  pos:
+  - verb
+  level: C1
 apple:
   pos:
   - noun
   level: A1
+applicable:
+  pos:
+  - adjective
+  level: C1
+applicant:
+  pos:
+  - noun
+  level: B2
 application:
   pos:
   - noun
@@ -586,6 +1005,10 @@ apply:
   pos:
   - verb
   level: A2
+appoint:
+  pos:
+  - verb
+  level: C1
 appointment:
   pos:
   - noun
@@ -594,6 +1017,10 @@ appreciate:
   pos:
   - verb
   level: B1
+appreciation:
+  pos:
+  - noun
+  level: C1
 approach:
   level: B2
   pos:
@@ -602,6 +1029,10 @@ approach:
 appropriate:
   pos:
   - adjective
+  level: B2
+appropriately:
+  pos:
+  - adverb
   level: B2
 approval:
   pos:
@@ -619,18 +1050,38 @@ April:
   pos:
   - noun
   level: A1
+arbitrary:
+  pos:
+  - adjective
+  level: C1
 architect:
   pos:
   - noun
   level: A2
+architectural:
+  pos:
+  - adjective
+  level: C1
 architecture:
   pos:
   - noun
   level: A2
+archive:
+  pos:
+  - noun
+  level: C1
 area:
   pos:
   - noun
   level: A1
+arena:
+  pos:
+  - noun
+  level: C1
+arguably:
+  pos:
+  - adverb
+  level: C1
 argue:
   pos:
   - verb
@@ -644,9 +1095,10 @@ arise:
   - verb
   level: B2
 arm:
+  level: C1
   pos:
   - noun
-  level: A1
+  - verb
 armed:
   pos:
   - adjective
@@ -672,6 +1124,10 @@ arrangement:
   pos:
   - noun
   level: A2
+array:
+  pos:
+  - noun
+  level: C1
 arrest:
   level: B1
   pos:
@@ -685,6 +1141,10 @@ arrive:
   pos:
   - verb
   level: A1
+arrow:
+  pos:
+  - noun
+  level: B2
 art:
   pos:
   - noun
@@ -693,6 +1153,10 @@ article:
   pos:
   - noun
   level: A1
+articulate:
+  pos:
+  - verb
+  level: C1
 artificial:
   pos:
   - adjective
@@ -705,15 +1169,27 @@ artistic:
   pos:
   - adjective
   level: B2
+artwork:
+  pos:
+  - noun
+  level: B2
 as:
   level: A1
   pos:
   - adverb
   - conjunction
   - preposition
+ash:
+  pos:
+  - noun
+  level: C1
 ashamed:
   pos:
   - adjective
+  level: B2
+aside:
+  pos:
+  - adverb
   level: B2
 ask:
   pos:
@@ -727,6 +1203,39 @@ aspect:
   pos:
   - noun
   level: B2
+aspiration:
+  pos:
+  - noun
+  level: C1
+aspire:
+  pos:
+  - verb
+  level: C1
+assassination:
+  pos:
+  - noun
+  level: C1
+assault:
+  level: C1
+  pos:
+  - noun
+  - verb
+assemble:
+  pos:
+  - verb
+  level: C1
+assembly:
+  pos:
+  - noun
+  level: C1
+assert:
+  pos:
+  - verb
+  level: C1
+assertion:
+  pos:
+  - noun
+  level: C1
 assess:
   pos:
   - verb
@@ -734,6 +1243,14 @@ assess:
 assessment:
   pos:
   - noun
+  level: B2
+asset:
+  pos:
+  - noun
+  level: B2
+assign:
+  pos:
+  - verb
   level: B2
 assignment:
   pos:
@@ -743,6 +1260,10 @@ assist:
   pos:
   - verb
   level: B1
+assistance:
+  pos:
+  - noun
+  level: B2
 assistant:
   level: A2
   pos:
@@ -764,6 +1285,26 @@ assume:
   pos:
   - verb
   level: B2
+assumption:
+  pos:
+  - noun
+  level: B2
+assurance:
+  pos:
+  - noun
+  level: C1
+assure:
+  pos:
+  - verb
+  level: B2
+astonishing:
+  pos:
+  - adjective
+  level: B2
+asylum:
+  pos:
+  - noun
+  level: C1
 at:
   pos:
   - preposition
@@ -776,15 +1317,27 @@ atmosphere:
   pos:
   - noun
   level: B1
+atrocity:
+  pos:
+  - noun
+  level: C1
 attach:
   pos:
   - verb
   level: B1
+attachment:
+  pos:
+  - noun
+  level: B2
 attack:
   level: A2
   pos:
   - noun
   - verb
+attain:
+  pos:
+  - verb
+  level: C1
 attempt:
   level: B2
   pos:
@@ -794,6 +1347,10 @@ attend:
   pos:
   - verb
   level: A2
+attendance:
+  pos:
+  - noun
+  level: C1
 attention:
   level: A2
   pos:
@@ -803,6 +1360,10 @@ attitude:
   pos:
   - noun
   level: B1
+attorney:
+  pos:
+  - noun
+  level: C1
 attract:
   pos:
   - verb
@@ -815,10 +1376,27 @@ attractive:
   pos:
   - adjective
   level: A2
+attribute:
+  level: C1
+  pos:
+  - noun
+  - verb
+auction:
+  pos:
+  - noun
+  level: B2
 audience:
   pos:
   - noun
   level: A2
+audio:
+  pos:
+  - adjective
+  level: B2
+audit:
+  pos:
+  - noun
+  level: C1
 August:
   pos:
   - noun
@@ -827,6 +1405,10 @@ aunt:
   pos:
   - noun
   level: A1
+authentic:
+  pos:
+  - adjective
+  level: C1
 author:
   pos:
   - noun
@@ -835,10 +1417,34 @@ authority:
   pos:
   - noun
   level: B1
+authorize:
+  pos:
+  - verb
+  level: C1
+auto:
+  pos:
+  - noun
+  level: C1
+automatic:
+  pos:
+  - adjective
+  level: B2
+automatically:
+  pos:
+  - adverb
+  level: B2
+autonomy:
+  pos:
+  - noun
+  level: C1
 autumn:
   pos:
   - noun
   level: A1
+availability:
+  pos:
+  - noun
+  level: C1
 available:
   pos:
   - adjective
@@ -853,6 +1459,10 @@ avoid:
   pos:
   - verb
   level: A2
+await:
+  pos:
+  - verb
+  level: C1
 award:
   level: B1
   pos:
@@ -862,6 +1472,10 @@ aware:
   pos:
   - adjective
   level: B1
+awareness:
+  pos:
+  - noun
+  level: B2
 away:
   pos:
   - adverb
@@ -870,6 +1484,10 @@ awful:
   pos:
   - adjective
   level: A2
+awkward:
+  pos:
+  - adjective
+  level: B2
 baby:
   pos:
   - noun
@@ -881,10 +1499,22 @@ back:
   - adverb
   - noun
   - verb
+backdrop:
+  pos:
+  - noun
+  level: C1
 background:
   pos:
   - noun
   level: A2
+backing:
+  pos:
+  - noun
+  level: C1
+backup:
+  pos:
+  - noun
+  level: C1
 backwards:
   pos:
   - adverb
@@ -897,6 +1527,10 @@ bad:
   pos:
   - adjective
   level: A1
+badge:
+  pos:
+  - noun
+  level: B2
 badly:
   pos:
   - adverb
@@ -905,6 +1539,10 @@ bag:
   pos:
   - noun
   level: A1
+bail:
+  pos:
+  - noun
+  level: C1
 bake:
   pos:
   - verb
@@ -914,10 +1552,26 @@ balance:
   pos:
   - noun
   - verb
+balanced:
+  pos:
+  - adjective
+  level: B2
 ball:
   pos:
   - noun
   level: A1
+ballet:
+  pos:
+  - noun
+  level: B2
+balloon:
+  pos:
+  - noun
+  level: B2
+ballot:
+  pos:
+  - noun
+  level: C1
 ban:
   level: B1
   pos:
@@ -935,11 +1589,31 @@ bank:
   pos:
   - noun
   level: A1
+banner:
+  pos:
+  - noun
+  level: C1
 bar:
   level: B2
   pos:
   - noun
   - verb
+bare:
+  pos:
+  - adjective
+  level: C1
+barely:
+  pos:
+  - adverb
+  level: B2
+bargain:
+  pos:
+  - noun
+  level: B2
+barrel:
+  pos:
+  - noun
+  level: C1
 barrier:
   pos:
   - noun
@@ -957,6 +1631,10 @@ based:
   pos:
   - adjective
   level: A2
+basement:
+  pos:
+  - noun
+  level: B2
 basic:
   pos:
   - adjective
@@ -969,10 +1647,23 @@ basis:
   pos:
   - noun
   level: B1
+basket:
+  pos:
+  - noun
+  level: B2
 basketball:
   pos:
   - noun
   level: A2
+bass:
+  pos:
+  - noun
+  level: C1
+bat:
+  level: C1
+  pos:
+  - noun
+  - verb
 bath:
   pos:
   - noun
@@ -990,6 +1681,14 @@ battle:
   pos:
   - noun
   - verb
+battlefield:
+  pos:
+  - noun
+  level: C1
+bay:
+  pos:
+  - noun
+  level: C1
 be:
   level: A1
   pos:
@@ -1000,6 +1699,10 @@ beach:
   pos:
   - noun
   level: A1
+beam:
+  pos:
+  - noun
+  level: C1
 bean:
   pos:
   - noun
@@ -1009,6 +1712,10 @@ bear:
   pos:
   - noun
   - verb
+beast:
+  pos:
+  - noun
+  level: C1
 beat:
   level: A2
   pos:
@@ -1068,6 +1775,10 @@ beginning:
   pos:
   - noun
   level: A1
+behalf:
+  pos:
+  - noun
+  level: C1
 behave:
   pos:
   - verb
@@ -1101,6 +1812,10 @@ belong:
   pos:
   - verb
   level: A2
+beloved:
+  pos:
+  - adjective
+  level: C1
 below:
   level: A1
   pos:
@@ -1110,11 +1825,31 @@ belt:
   pos:
   - noun
   level: A2
+bench:
+  pos:
+  - noun
+  level: C1
+benchmark:
+  pos:
+  - noun
+  level: C1
 bend:
   level: B1
   pos:
   - noun
   - verb
+beneath:
+  pos:
+  - preposition
+  level: C1
+beneficial:
+  pos:
+  - adjective
+  level: B2
+beneficiary:
+  pos:
+  - noun
+  level: C1
 benefit:
   level: B1
   pos:
@@ -1124,6 +1859,15 @@ bent:
   pos:
   - adjective
   level: B2
+beside:
+  pos:
+  - preposition
+  level: B2
+besides:
+  level: B2
+  pos:
+  - adverb
+  - preposition
 best:
   level: A2
   pos:
@@ -1135,6 +1879,10 @@ bet:
   pos:
   - noun
   - verb
+betray:
+  pos:
+  - verb
+  level: C1
 better:
   level: B1
   pos:
@@ -1151,10 +1899,19 @@ beyond:
   pos:
   - adverb
   - preposition
+bias:
+  pos:
+  - noun
+  level: B2
 bicycle:
   pos:
   - noun
   level: A1
+bid:
+  level: B2
+  pos:
+  - noun
+  - verb
 big:
   pos:
   - adjective
@@ -1176,6 +1933,18 @@ bin:
   pos:
   - noun
   level: A2
+bind:
+  pos:
+  - verb
+  level: C1
+biography:
+  pos:
+  - noun
+  level: C1
+biological:
+  pos:
+  - adjective
+  level: B2
 biology:
   pos:
   - noun
@@ -1196,6 +1965,10 @@ biscuit:
   pos:
   - noun
   level: A2
+bishop:
+  pos:
+  - noun
+  level: C1
 bit:
   pos:
   - noun
@@ -1209,11 +1982,19 @@ bitter:
   pos:
   - adjective
   level: B2
+bizarre:
+  pos:
+  - adjective
+  level: C1
 black:
   level: A1
   pos:
   - adjective
   - noun
+blade:
+  pos:
+  - noun
+  level: C1
 blame:
   level: B2
   pos:
@@ -1224,6 +2005,32 @@ blank:
   pos:
   - adjective
   - noun
+blanket:
+  pos:
+  - noun
+  level: B2
+blast:
+  level: C1
+  pos:
+  - noun
+  - verb
+bleed:
+  pos:
+  - verb
+  level: C1
+blend:
+  level: C1
+  pos:
+  - noun
+  - verb
+bless:
+  pos:
+  - verb
+  level: C1
+blessing:
+  pos:
+  - noun
+  level: C1
 blind:
   pos:
   - adjective
@@ -1246,9 +2053,10 @@ blood:
   - noun
   level: A2
 blow:
-  pos:
-  - verb
   level: A2
+  pos:
+  - noun
+  - verb
 blue:
   level: A1
   pos:
@@ -1259,6 +2067,10 @@ board:
   pos:
   - noun
   - verb
+boast:
+  pos:
+  - verb
+  level: C1
 boat:
   pos:
   - noun
@@ -1271,11 +2083,19 @@ boil:
   pos:
   - verb
   level: A2
+bold:
+  pos:
+  - adjective
+  level: B2
 bomb:
   level: B1
   pos:
   - noun
   - verb
+bombing:
+  pos:
+  - noun
+  level: B2
 bond:
   pos:
   - noun
@@ -1284,8 +2104,25 @@ bone:
   pos:
   - noun
   level: A2
+bonus:
+  pos:
+  - noun
+  level: C1
 book:
   level: A2
+  pos:
+  - noun
+  - verb
+booking:
+  pos:
+  - noun
+  level: B2
+boom:
+  pos:
+  - noun
+  level: C1
+boost:
+  level: B2
   pos:
   - noun
   - verb
@@ -1336,6 +2173,23 @@ bottom:
   pos:
   - adjective
   - noun
+bounce:
+  pos:
+  - verb
+  level: C1
+bound:
+  pos:
+  - adjective
+  level: B2
+boundary:
+  pos:
+  - noun
+  level: C1
+bow:
+  level: C1
+  pos:
+  - noun
+  - verb
 bowl:
   pos:
   - noun
@@ -1369,6 +2223,11 @@ brave:
   pos:
   - adjective
   level: B1
+breach:
+  level: C1
+  pos:
+  - noun
+  - verb
 bread:
   pos:
   - noun
@@ -1378,10 +2237,18 @@ break:
   pos:
   - noun
   - verb
+breakdown:
+  pos:
+  - noun
+  level: C1
 breakfast:
   pos:
   - noun
   level: A1
+breakthrough:
+  pos:
+  - noun
+  level: C1
 breast:
   pos:
   - noun
@@ -1398,6 +2265,15 @@ breathing:
   pos:
   - noun
   level: B1
+breed:
+  level: C1
+  pos:
+  - noun
+  - verb
+brick:
+  pos:
+  - noun
+  level: B2
 bride:
   pos:
   - noun
@@ -1409,6 +2285,10 @@ bridge:
 brief:
   pos:
   - adjective
+  level: B2
+briefly:
+  pos:
+  - adverb
   level: B2
 bright:
   pos:
@@ -1426,11 +2306,23 @@ broad:
   pos:
   - adjective
   level: B2
+broadband:
+  pos:
+  - noun
+  level: C1
 broadcast:
   level: B2
   pos:
   - noun
   - verb
+broadcaster:
+  pos:
+  - noun
+  level: B2
+broadly:
+  pos:
+  - adverb
+  level: B2
 broken:
   pos:
   - adjective
@@ -1444,16 +2336,40 @@ brown:
   pos:
   - adjective
   - noun
+browser:
+  pos:
+  - noun
+  level: C1
 brush:
   level: A2
   pos:
   - noun
   - verb
+brutal:
+  pos:
+  - adjective
+  level: C1
 bubble:
   pos:
   - noun
   level: B1
+buck:
+  pos:
+  - noun
+  level: C1
+buddy:
+  pos:
+  - noun
+  level: C1
 budget:
+  pos:
+  - noun
+  level: B2
+buffer:
+  pos:
+  - noun
+  level: C1
+bug:
   pos:
   - noun
   level: B2
@@ -1465,6 +2381,10 @@ building:
   pos:
   - noun
   level: A1
+bulk:
+  pos:
+  - noun
+  level: C1
 bullet:
   pos:
   - noun
@@ -1473,11 +2393,27 @@ bunch:
   pos:
   - noun
   level: B2
+burden:
+  pos:
+  - noun
+  level: C1
+bureaucracy:
+  pos:
+  - noun
+  level: C1
+burial:
+  pos:
+  - noun
+  level: C1
 burn:
   level: A2
   pos:
   - noun
   - verb
+burst:
+  pos:
+  - verb
+  level: C1
 bury:
   pos:
   - verb
@@ -1528,6 +2464,14 @@ bye:
   pos:
   - exclamation
   level: A1
+cabin:
+  pos:
+  - noun
+  level: B2
+cabinet:
+  pos:
+  - noun
+  level: C1
 cable:
   pos:
   - noun
@@ -1544,6 +2488,10 @@ calculate:
   pos:
   - verb
   level: B2
+calculation:
+  pos:
+  - noun
+  level: C1
 call:
   level: A1
   pos:
@@ -1583,6 +2531,10 @@ can:
   - noun
   - modal
   - verb
+canal:
+  pos:
+  - noun
+  level: B2
 cancel:
   pos:
   - verb
@@ -1595,15 +2547,27 @@ candidate:
   pos:
   - noun
   level: B1
+candle:
+  pos:
+  - noun
+  level: B2
 cannot:
   pos:
   - modal
   - verb
   level: A1
+canvas:
+  pos:
+  - noun
+  level: C1
 cap:
   pos:
   - noun
   level: B1
+capability:
+  pos:
+  - noun
+  level: C1
 capable:
   pos:
   - adjective
@@ -1617,6 +2581,14 @@ capital:
   pos:
   - adjective
   - noun
+capitalism:
+  pos:
+  - noun
+  level: C1
+capitalist:
+  pos:
+  - adjective
+  level: C1
 captain:
   pos:
   - noun
@@ -1630,6 +2602,10 @@ car:
   pos:
   - noun
   level: A1
+carbon:
+  pos:
+  - noun
+  level: B2
 card:
   pos:
   - noun
@@ -1655,10 +2631,18 @@ careless:
   pos:
   - adjective
   level: B1
+cargo:
+  pos:
+  - noun
+  level: C1
 carpet:
   pos:
   - noun
   level: A2
+carriage:
+  pos:
+  - noun
+  level: C1
 carrot:
   pos:
   - noun
@@ -1671,6 +2655,10 @@ cartoon:
   pos:
   - noun
   level: A2
+carve:
+  pos:
+  - verb
+  level: C1
 case:
   pos:
   - noun
@@ -1679,6 +2667,10 @@ cash:
   pos:
   - noun
   level: A2
+casino:
+  pos:
+  - noun
+  level: C1
 cast:
   level: B2
   pos:
@@ -1688,10 +2680,22 @@ castle:
   pos:
   - noun
   level: A2
+casual:
+  pos:
+  - adjective
+  level: B2
+casualty:
+  pos:
+  - noun
+  level: C1
 cat:
   pos:
   - noun
   level: A1
+catalogue:
+  pos:
+  - noun
+  level: C1
 catch:
   level: A2
   pos:
@@ -1701,15 +2705,39 @@ category:
   pos:
   - noun
   level: B1
+cater:
+  pos:
+  - verb
+  level: C1
+cattle:
+  pos:
+  - noun
+  level: C1
 cause:
   level: A2
   pos:
   - noun
   - verb
+caution:
+  pos:
+  - noun
+  level: C1
+cautious:
+  pos:
+  - adjective
+  level: C1
+cave:
+  pos:
+  - noun
+  level: B2
 CD:
   pos:
   - noun
   level: A1
+cease:
+  pos:
+  - verb
+  level: C1
 ceiling:
   pos:
   - noun
@@ -1730,6 +2758,10 @@ cell:
   pos:
   - noun
   level: B2
+cemetery:
+  pos:
+  - noun
+  level: C1
 cent:
   pos:
   - noun
@@ -1759,6 +2791,14 @@ certainly:
   pos:
   - adverb
   level: A2
+certainty:
+  pos:
+  - noun
+  level: B2
+certificate:
+  pos:
+  - noun
+  level: B2
 chain:
   level: B2
   pos:
@@ -1778,10 +2818,22 @@ challenge:
   pos:
   - noun
   - verb
+challenging:
+  pos:
+  - adjective
+  level: B2
+chamber:
+  pos:
+  - noun
+  level: C1
 champion:
   pos:
   - noun
   level: B1
+championship:
+  pos:
+  - noun
+  level: B2
 chance:
   pos:
   - noun
@@ -1795,6 +2847,10 @@ channel:
   pos:
   - noun
   level: B1
+chaos:
+  pos:
+  - noun
+  level: C1
 chapter:
   pos:
   - noun
@@ -1808,6 +2864,10 @@ characteristic:
   pos:
   - adjective
   - noun
+characterize:
+  pos:
+  - verb
+  level: C1
 charge:
   level: B1
   pos:
@@ -1817,7 +2877,24 @@ charity:
   pos:
   - noun
   level: A2
+charm:
+  pos:
+  - noun
+  level: C1
+charming:
+  pos:
+  - adjective
+  level: B2
 chart:
+  level: B2
+  pos:
+  - noun
+  - verb
+charter:
+  pos:
+  - noun
+  level: C1
+chase:
   level: B2
   pos:
   - noun
@@ -1839,6 +2916,15 @@ cheat:
   - verb
 check:
   level: A1
+  pos:
+  - noun
+  - verb
+cheek:
+  pos:
+  - noun
+  level: B2
+cheer:
+  level: B2
   pos:
   - noun
   - verb
@@ -1896,10 +2982,26 @@ choice:
   pos:
   - noun
   level: A2
+choir:
+  pos:
+  - noun
+  level: B2
 choose:
   pos:
   - verb
   level: A1
+chop:
+  pos:
+  - verb
+  level: B2
+chronic:
+  pos:
+  - adjective
+  level: C1
+chunk:
+  pos:
+  - noun
+  level: C1
 church:
   pos:
   - noun
@@ -1917,6 +3019,18 @@ circle:
   pos:
   - noun
   - verb
+circuit:
+  pos:
+  - noun
+  level: B2
+circulate:
+  pos:
+  - verb
+  level: C1
+circulation:
+  pos:
+  - noun
+  level: C1
 circumstance:
   pos:
   - noun
@@ -1929,19 +3043,48 @@ citizen:
   pos:
   - noun
   level: B2
+citizenship:
+  pos:
+  - noun
+  level: C1
 city:
   pos:
   - noun
   level: A1
+civic:
+  pos:
+  - adjective
+  level: C1
 civil:
   pos:
   - adjective
+  level: B2
+civilian:
+  level: C1
+  pos:
+  - adjective
+  - noun
+civilization:
+  pos:
+  - noun
   level: B2
 claim:
   level: B1
   pos:
   - noun
   - verb
+clarify:
+  pos:
+  - verb
+  level: B2
+clarity:
+  pos:
+  - noun
+  level: C1
+clash:
+  pos:
+  - noun
+  level: C1
 class:
   pos:
   - noun
@@ -1955,6 +3098,14 @@ classical:
   pos:
   - adjective
   level: A2
+classification:
+  pos:
+  - noun
+  level: C1
+classify:
+  pos:
+  - verb
+  level: B2
 classroom:
   pos:
   - noun
@@ -1977,6 +3128,10 @@ clearly:
   pos:
   - adverb
   level: A2
+clerk:
+  pos:
+  - noun
+  level: B2
 clever:
   pos:
   - adjective
@@ -1990,6 +3145,10 @@ client:
   pos:
   - noun
   level: B1
+cliff:
+  pos:
+  - noun
+  level: B2
 climate:
   pos:
   - noun
@@ -1999,6 +3158,22 @@ climb:
   pos:
   - noun
   - verb
+cling:
+  pos:
+  - verb
+  level: C1
+clinic:
+  pos:
+  - noun
+  level: B2
+clinical:
+  pos:
+  - adjective
+  level: C1
+clip:
+  pos:
+  - noun
+  level: B2
 clock:
   pos:
   - noun
@@ -2018,6 +3193,10 @@ closely:
   pos:
   - adverb
   level: B2
+closure:
+  pos:
+  - noun
+  level: C1
 cloth:
   pos:
   - noun
@@ -2042,6 +3221,10 @@ clue:
   pos:
   - noun
   level: B1
+cluster:
+  pos:
+  - noun
+  level: C1
 coach:
   level: B1
   pos:
@@ -2051,14 +3234,26 @@ coal:
   pos:
   - noun
   level: B1
+coalition:
+  pos:
+  - noun
+  level: C1
 coast:
   pos:
   - noun
   level: A2
+coastal:
+  pos:
+  - adjective
+  level: C1
 coat:
   pos:
   - noun
   level: A1
+cocktail:
+  pos:
+  - noun
+  level: C1
 code:
   pos:
   - noun
@@ -2067,15 +3262,35 @@ coffee:
   pos:
   - noun
   level: A1
+cognitive:
+  pos:
+  - adjective
+  level: C1
 coin:
   pos:
   - noun
   level: B1
+coincide:
+  pos:
+  - verb
+  level: C1
+coincidence:
+  pos:
+  - noun
+  level: B2
 cold:
   level: A1
   pos:
   - adjective
   - noun
+collaborate:
+  pos:
+  - verb
+  level: C1
+collaboration:
+  pos:
+  - noun
+  level: C1
 collapse:
   level: B2
   pos:
@@ -2093,10 +3308,30 @@ collection:
   pos:
   - noun
   level: B1
+collective:
+  pos:
+  - adjective
+  level: C1
+collector:
+  pos:
+  - noun
+  level: B2
 college:
   pos:
   - noun
   level: A1
+collision:
+  pos:
+  - noun
+  level: C1
+colonial:
+  pos:
+  - adjective
+  level: C1
+colony:
+  pos:
+  - noun
+  level: B2
 colour:
   pos:
   - noun
@@ -2105,10 +3340,23 @@ coloured:
   pos:
   - adjective
   level: B1
+colourful:
+  pos:
+  - adjective
+  level: B2
 column:
   pos:
   - noun
   level: A2
+columnist:
+  pos:
+  - noun
+  level: C1
+combat:
+  level: C1
+  pos:
+  - noun
+  - verb
 combination:
   pos:
   - noun
@@ -2134,16 +3382,41 @@ comfortable:
   pos:
   - adjective
   level: A2
+comic:
+  level: B2
+  pos:
+  - adjective
+  - noun
 command:
   level: B2
   pos:
   - noun
   - verb
+commander:
+  pos:
+  - noun
+  level: B2
+commence:
+  pos:
+  - verb
+  level: C1
 comment:
   level: B1
   pos:
   - noun
   - verb
+commentary:
+  pos:
+  - noun
+  level: C1
+commentator:
+  pos:
+  - noun
+  level: C1
+commerce:
+  pos:
+  - noun
+  level: C1
 commercial:
   level: B1
   pos:
@@ -2154,6 +3427,10 @@ commission:
   pos:
   - noun
   - verb
+commissioner:
+  pos:
+  - noun
+  level: C1
 commit:
   pos:
   - verb
@@ -2166,6 +3443,10 @@ committee:
   pos:
   - noun
   level: B2
+commodity:
+  pos:
+  - noun
+  level: C1
 common:
   pos:
   - adjective
@@ -2182,14 +3463,30 @@ communication:
   pos:
   - noun
   level: B1
+communist:
+  pos:
+  - adjective
+  level: C1
 community:
   pos:
   - noun
   level: A2
+companion:
+  pos:
+  - noun
+  level: C1
 company:
   pos:
   - noun
   level: A1
+comparable:
+  pos:
+  - adjective
+  level: C1
+comparative:
+  pos:
+  - adjective
+  level: B2
 compare:
   pos:
   - verb
@@ -2198,10 +3495,38 @@ comparison:
   pos:
   - noun
   level: B1
+compassion:
+  pos:
+  - noun
+  level: C1
+compel:
+  pos:
+  - verb
+  level: C1
+compelling:
+  pos:
+  - adjective
+  level: C1
+compensate:
+  pos:
+  - verb
+  level: C1
+compensation:
+  pos:
+  - noun
+  level: C1
 compete:
   pos:
   - verb
   level: A2
+competence:
+  pos:
+  - noun
+  level: C1
+competent:
+  pos:
+  - adjective
+  level: C1
 competition:
   pos:
   - noun
@@ -2214,6 +3539,10 @@ competitor:
   pos:
   - noun
   level: B1
+compile:
+  pos:
+  - verb
+  level: C1
 complain:
   pos:
   - verb
@@ -2222,6 +3551,10 @@ complaint:
   pos:
   - noun
   level: B1
+complement:
+  pos:
+  - verb
+  level: C1
 complete:
   level: A1
   pos:
@@ -2231,23 +3564,92 @@ completely:
   pos:
   - adverb
   level: A2
+completion:
+  pos:
+  - noun
+  level: B2
 complex:
   level: B2
   pos:
   - adjective
   - noun
+complexity:
+  pos:
+  - noun
+  level: C1
+compliance:
+  pos:
+  - noun
+  level: C1
 complicated:
   pos:
   - adjective
   level: B2
+complication:
+  pos:
+  - noun
+  level: C1
+comply:
+  pos:
+  - verb
+  level: C1
 component:
   pos:
   - noun
   level: B2
+compose:
+  pos:
+  - verb
+  level: B2
+composer:
+  pos:
+  - noun
+  level: B2
+composition:
+  pos:
+  - noun
+  level: C1
+compound:
+  pos:
+  - noun
+  level: B2
+comprehensive:
+  pos:
+  - adjective
+  level: B2
+comprise:
+  pos:
+  - verb
+  level: B2
+compromise:
+  level: C1
+  pos:
+  - noun
+  - verb
+compulsory:
+  pos:
+  - adjective
+  level: B2
+compute:
+  pos:
+  - verb
+  level: C1
 computer:
   pos:
   - noun
   level: A1
+conceal:
+  pos:
+  - verb
+  level: C1
+concede:
+  pos:
+  - verb
+  level: C1
+conceive:
+  pos:
+  - verb
+  level: C1
 concentrate:
   pos:
   - verb
@@ -2260,6 +3662,10 @@ concept:
   pos:
   - noun
   level: B2
+conception:
+  pos:
+  - noun
+  level: C1
 concern:
   level: B2
   pos:
@@ -2273,6 +3679,10 @@ concert:
   pos:
   - noun
   level: A1
+concession:
+  pos:
+  - noun
+  level: C1
 conclude:
   pos:
   - verb
@@ -2281,6 +3691,15 @@ conclusion:
   pos:
   - noun
   level: B1
+concrete:
+  level: B2
+  pos:
+  - adjective
+  - noun
+condemn:
+  pos:
+  - verb
+  level: C1
 condition:
   pos:
   - noun
@@ -2290,10 +3709,22 @@ conduct:
   pos:
   - noun
   - verb
+confer:
+  pos:
+  - verb
+  level: C1
 conference:
   pos:
   - noun
   level: A2
+confess:
+  pos:
+  - verb
+  level: B2
+confession:
+  pos:
+  - noun
+  level: C1
 confidence:
   pos:
   - noun
@@ -2302,15 +3733,35 @@ confident:
   pos:
   - adjective
   level: B1
+configuration:
+  pos:
+  - noun
+  level: C1
+confine:
+  pos:
+  - verb
+  level: C1
 confirm:
   pos:
   - verb
   level: B1
+confirmation:
+  pos:
+  - noun
+  level: C1
 conflict:
   level: B2
   pos:
   - noun
   - verb
+confront:
+  pos:
+  - verb
+  level: C1
+confrontation:
+  pos:
+  - noun
+  level: C1
 confuse:
   pos:
   - verb
@@ -2323,6 +3774,22 @@ confusing:
   pos:
   - adjective
   level: B2
+confusion:
+  pos:
+  - noun
+  level: B2
+congratulate:
+  pos:
+  - verb
+  level: C1
+congregation:
+  pos:
+  - noun
+  level: C1
+congressional:
+  pos:
+  - adjective
+  level: C1
 connect:
   pos:
   - verb
@@ -2335,23 +3802,68 @@ connection:
   pos:
   - noun
   level: B1
+conquer:
+  pos:
+  - verb
+  level: C1
+conscience:
+  pos:
+  - noun
+  level: C1
 conscious:
   pos:
   - adjective
   level: B2
+consciousness:
+  pos:
+  - noun
+  level: C1
+consecutive:
+  pos:
+  - adjective
+  level: C1
+consensus:
+  pos:
+  - noun
+  level: C1
+consent:
+  level: C1
+  pos:
+  - noun
+  - verb
 consequence:
   pos:
   - noun
   level: B1
+consequently:
+  pos:
+  - adverb
+  level: B2
+conservation:
+  pos:
+  - noun
+  level: B2
 conservative:
   level: B2
   pos:
   - adjective
   - noun
+conserve:
+  pos:
+  - verb
+  level: C1
 consider:
   pos:
   - verb
   level: A2
+considerable:
+  pos:
+  - adjective
+  level: B2
+considerably:
+  pos:
+  - adverb
+  level: B2
 consideration:
   pos:
   - noun
@@ -2360,9 +3872,25 @@ consist:
   pos:
   - verb
   level: B1
+consistency:
+  pos:
+  - noun
+  level: C1
 consistent:
   pos:
   - adjective
+  level: B2
+consistently:
+  pos:
+  - adverb
+  level: B2
+consolidate:
+  pos:
+  - verb
+  level: C1
+conspiracy:
+  pos:
+  - noun
   level: B2
 constant:
   pos:
@@ -2372,6 +3900,26 @@ constantly:
   pos:
   - adverb
   level: B2
+constituency:
+  pos:
+  - noun
+  level: C1
+constitute:
+  pos:
+  - verb
+  level: C1
+constitution:
+  pos:
+  - noun
+  level: C1
+constitutional:
+  pos:
+  - adjective
+  level: C1
+constraint:
+  pos:
+  - noun
+  level: C1
 construct:
   pos:
   - verb
@@ -2380,6 +3928,18 @@ construction:
   pos:
   - noun
   level: B2
+consult:
+  pos:
+  - verb
+  level: B2
+consultant:
+  pos:
+  - noun
+  level: B2
+consultation:
+  pos:
+  - noun
+  level: C1
 consume:
   pos:
   - verb
@@ -2388,6 +3948,10 @@ consumer:
   pos:
   - noun
   level: B1
+consumption:
+  pos:
+  - noun
+  level: B2
 contact:
   level: B1
   pos:
@@ -2401,14 +3965,35 @@ container:
   pos:
   - noun
   level: B1
+contemplate:
+  pos:
+  - verb
+  level: C1
 contemporary:
   pos:
   - adjective
   level: B2
-content:
+contempt:
   pos:
   - noun
+  level: C1
+contend:
+  pos:
+  - verb
+  level: C1
+contender:
+  pos:
+  - noun
+  level: C1
+content:
   level: B1
+  pos:
+  - adjective
+  - noun
+contention:
+  pos:
+  - noun
+  level: C1
 contest:
   level: B2
   pos:
@@ -2422,6 +4007,10 @@ continent:
   pos:
   - noun
   level: A2
+continually:
+  pos:
+  - adverb
+  level: C1
 continue:
   pos:
   - verb
@@ -2435,6 +4024,19 @@ contract:
   pos:
   - noun
   - verb
+contractor:
+  pos:
+  - noun
+  level: C1
+contradiction:
+  pos:
+  - noun
+  level: C1
+contrary:
+  level: C1
+  pos:
+  - adjective
+  - noun
 contrast:
   level: B1
   pos:
@@ -2448,28 +4050,72 @@ contribution:
   pos:
   - noun
   level: B2
+contributor:
+  pos:
+  - noun
+  level: C1
 control:
   level: A2
   pos:
   - noun
   - verb
+controversial:
+  pos:
+  - adjective
+  level: B2
+controversy:
+  pos:
+  - noun
+  level: B2
+convenience:
+  pos:
+  - noun
+  level: B2
 convenient:
   pos:
   - adjective
   level: B1
+convention:
+  pos:
+  - noun
+  level: B2
+conventional:
+  pos:
+  - adjective
+  level: B2
 conversation:
   pos:
   - noun
   level: A1
+conversion:
+  pos:
+  - noun
+  level: C1
 convert:
   pos:
   - verb
   level: B2
+convey:
+  pos:
+  - verb
+  level: B2
+convict:
+  pos:
+  - verb
+  level: C1
+conviction:
+  pos:
+  - noun
+  level: C1
 convince:
   pos:
   - verb
   level: B1
 convinced:
+  pos:
+  - adjective
+  level: B2
+convincing:
   pos:
   - adjective
   level: B2
@@ -2491,11 +4137,47 @@ cool:
   pos:
   - adjective
   - verb
+cooperate:
+  pos:
+  - verb
+  level: C1
+cooperative:
+  pos:
+  - adjective
+  level: C1
+coordinate:
+  pos:
+  - verb
+  level: C1
+coordination:
+  pos:
+  - noun
+  level: C1
+coordinator:
+  pos:
+  - noun
+  level: C1
+cop:
+  pos:
+  - noun
+  level: C1
+cope:
+  pos:
+  - verb
+  level: B2
+copper:
+  pos:
+  - noun
+  level: C1
 copy:
   level: A2
   pos:
   - noun
   - verb
+copyright:
+  pos:
+  - noun
+  level: C1
 core:
   level: B2
   pos:
@@ -2509,20 +4191,68 @@ corporate:
   pos:
   - adjective
   level: B2
+corporation:
+  pos:
+  - noun
+  level: B2
 correct:
   level: A1
   pos:
   - adjective
   - verb
+correction:
+  pos:
+  - noun
+  level: C1
 correctly:
   pos:
   - adverb
   level: A2
+correlate:
+  pos:
+  - verb
+  level: C1
+correlation:
+  pos:
+  - noun
+  level: C1
+correspond:
+  pos:
+  - verb
+  level: C1
+correspondence:
+  pos:
+  - noun
+  level: C1
+correspondent:
+  pos:
+  - noun
+  level: C1
+corresponding:
+  pos:
+  - adjective
+  level: C1
+corridor:
+  pos:
+  - noun
+  level: B2
+corrupt:
+  pos:
+  - adjective
+  level: C1
+corruption:
+  pos:
+  - noun
+  level: C1
 cost:
   level: A1
   pos:
   - noun
   - verb
+costly:
+  pos:
+  - adjective
+  level: C1
 costume:
   pos:
   - noun
@@ -2544,11 +4274,36 @@ council:
   pos:
   - noun
   level: B2
+councillor:
+  pos:
+  - noun
+  level: C1
+counselling:
+  pos:
+  - noun
+  level: C1
+counsellor:
+  pos:
+  - noun
+  level: C1
 count:
   level: A2
   pos:
   - noun
   - verb
+counter:
+  level: C1
+  pos:
+  - noun
+  - verb
+counterpart:
+  pos:
+  - noun
+  level: C1
+countless:
+  pos:
+  - adjective
+  level: C1
 country:
   pos:
   - noun
@@ -2561,6 +4316,10 @@ county:
   pos:
   - noun
   level: B2
+coup:
+  pos:
+  - noun
+  level: C1
 couple:
   pos:
   - noun
@@ -2577,6 +4336,10 @@ court:
   pos:
   - noun
   level: B1
+courtesy:
+  pos:
+  - noun
+  level: C1
 cousin:
   pos:
   - noun
@@ -2586,6 +4349,10 @@ cover:
   pos:
   - noun
   - verb
+coverage:
+  pos:
+  - noun
+  level: B2
 covered:
   pos:
   - adjective
@@ -2594,11 +4361,25 @@ cow:
   pos:
   - noun
   level: A1
+crack:
+  level: B2
+  pos:
+  - noun
+  - verb
+craft:
+  level: C1
+  pos:
+  - noun
+  - verb
 crash:
   level: B2
   pos:
   - noun
   - verb
+crawl:
+  pos:
+  - verb
+  level: C1
 crazy:
   pos:
   - adjective
@@ -2620,15 +4401,35 @@ creative:
   pos:
   - adjective
   level: A2
+creativity:
+  pos:
+  - noun
+  level: B2
+creator:
+  pos:
+  - noun
+  level: C1
 creature:
   pos:
   - noun
   level: B2
+credibility:
+  pos:
+  - noun
+  level: C1
+credible:
+  pos:
+  - adjective
+  level: C1
 credit:
   level: B2
   pos:
   - noun
   - verb
+creep:
+  pos:
+  - verb
+  level: C1
 crew:
   pos:
   - noun
@@ -2658,6 +4459,10 @@ critical:
   pos:
   - adjective
   level: B2
+critically:
+  pos:
+  - adverb
+  level: B2
 criticism:
   pos:
   - noun
@@ -2666,6 +4471,10 @@ criticize:
   pos:
   - verb
   level: B2
+critique:
+  pos:
+  - noun
+  level: C1
 crop:
   pos:
   - noun
@@ -2683,19 +4492,53 @@ crowded:
   pos:
   - adjective
   level: A2
+crown:
+  pos:
+  - noun
+  level: C1
 crucial:
   pos:
   - adjective
   level: B2
+crude:
+  pos:
+  - adjective
+  level: C1
 cruel:
   pos:
   - adjective
   level: B1
+cruise:
+  level: B2
+  pos:
+  - noun
+  - verb
+crush:
+  pos:
+  - verb
+  level: C1
 cry:
   level: A2
   pos:
   - noun
   - verb
+crystal:
+  pos:
+  - noun
+  level: C1
+cue:
+  pos:
+  - noun
+  level: B2
+cult:
+  level: C1
+  pos:
+  - adjective
+  - noun
+cultivate:
+  pos:
+  - verb
+  level: C1
 cultural:
   pos:
   - adjective
@@ -2717,6 +4560,14 @@ cure:
   pos:
   - noun
   - verb
+curiosity:
+  pos:
+  - noun
+  level: C1
+curious:
+  pos:
+  - adjective
+  level: B2
 curly:
   pos:
   - adjective
@@ -2734,6 +4585,10 @@ currently:
   pos:
   - adverb
   level: B1
+curriculum:
+  pos:
+  - noun
+  level: B2
 curtain:
   pos:
   - noun
@@ -2747,6 +4602,10 @@ curved:
   pos:
   - adjective
   level: B2
+custody:
+  pos:
+  - noun
+  level: C1
 custom:
   pos:
   - noun
@@ -2760,11 +4619,23 @@ cut:
   pos:
   - noun
   - verb
+cute:
+  pos:
+  - adjective
+  level: B2
+cutting:
+  pos:
+  - noun
+  level: C1
 cycle:
   level: A2
   pos:
   - noun
   - verb
+cynical:
+  pos:
+  - adjective
+  level: C1
 dad:
   pos:
   - noun
@@ -2774,11 +4645,24 @@ daily:
   pos:
   - adjective
   - adverb
+dairy:
+  level: B2
+  pos:
+  - adjective
+  - noun
+dam:
+  pos:
+  - noun
+  level: C1
 damage:
   level: B1
   pos:
   - noun
   - verb
+damaging:
+  pos:
+  - adjective
+  level: C1
 dance:
   level: A1
   pos:
@@ -2800,15 +4684,27 @@ dangerous:
   pos:
   - adjective
   level: A1
+dare:
+  pos:
+  - verb
+  level: B2
 dark:
   level: A2
   pos:
   - adjective
   - noun
+darkness:
+  pos:
+  - noun
+  level: B2
 data:
   pos:
   - noun
   level: A2
+database:
+  pos:
+  - noun
+  level: B2
 date:
   level: B2
   pos:
@@ -2818,6 +4714,10 @@ daughter:
   pos:
   - noun
   level: A1
+dawn:
+  pos:
+  - noun
+  level: C1
 day:
   pos:
   - noun
@@ -2826,11 +4726,23 @@ dead:
   pos:
   - adjective
   level: A2
+deadline:
+  pos:
+  - noun
+  level: B2
+deadly:
+  pos:
+  - adjective
+  level: B2
 deal:
   level: A2
   pos:
   - noun
   - verb
+dealer:
+  pos:
+  - noun
+  level: B2
 dear:
   level: A2
   pos:
@@ -2845,10 +4757,18 @@ debate:
   pos:
   - noun
   - verb
+debris:
+  pos:
+  - noun
+  level: C1
 debt:
   pos:
   - noun
   level: B2
+debut:
+  pos:
+  - noun
+  level: C1
 decade:
   pos:
   - noun
@@ -2869,6 +4789,22 @@ decision:
   pos:
   - noun
   level: A2
+decision-making:
+  pos:
+  - noun
+  level: C1
+decisive:
+  pos:
+  - adjective
+  level: C1
+deck:
+  pos:
+  - noun
+  level: B2
+declaration:
+  pos:
+  - noun
+  level: C1
 declare:
   pos:
   - verb
@@ -2891,6 +4827,22 @@ decrease:
   pos:
   - noun
   - verb
+dedicated:
+  pos:
+  - adjective
+  level: C1
+dedication:
+  pos:
+  - noun
+  level: C1
+deed:
+  pos:
+  - noun
+  level: C1
+deem:
+  pos:
+  - verb
+  level: C1
 deep:
   level: B1
   pos:
@@ -2900,11 +4852,19 @@ deeply:
   pos:
   - adverb
   level: B2
+default:
+  pos:
+  - noun
+  level: C1
 defeat:
   level: B2
   pos:
   - noun
   - verb
+defect:
+  pos:
+  - noun
+  level: C1
 defence:
   pos:
   - noun
@@ -2913,6 +4873,22 @@ defend:
   pos:
   - verb
   level: B2
+defender:
+  pos:
+  - noun
+  level: B2
+defensive:
+  pos:
+  - adjective
+  level: C1
+deficiency:
+  pos:
+  - noun
+  level: C1
+deficit:
+  pos:
+  - noun
+  level: C1
 define:
   pos:
   - verb
@@ -2929,6 +4905,10 @@ definition:
   pos:
   - noun
   level: B1
+defy:
+  pos:
+  - verb
+  level: C1
 degree:
   pos:
   - noun
@@ -2938,6 +4918,18 @@ delay:
   pos:
   - noun
   - verb
+delegate:
+  pos:
+  - noun
+  level: C1
+delegation:
+  pos:
+  - noun
+  level: C1
+delete:
+  pos:
+  - verb
+  level: B2
 deliberate:
   pos:
   - adjective
@@ -2946,6 +4938,10 @@ deliberately:
   pos:
   - adverb
   level: B2
+delicate:
+  pos:
+  - adjective
+  level: C1
 delicious:
   pos:
   - adjective
@@ -2972,15 +4968,51 @@ demand:
   pos:
   - noun
   - verb
+democracy:
+  pos:
+  - noun
+  level: B2
+democratic:
+  pos:
+  - adjective
+  level: B2
+demon:
+  pos:
+  - noun
+  level: C1
 demonstrate:
   pos:
   - verb
   level: B2
+demonstration:
+  pos:
+  - noun
+  level: B2
+denial:
+  pos:
+  - noun
+  level: C1
+denounce:
+  pos:
+  - verb
+  level: C1
+dense:
+  pos:
+  - adjective
+  level: C1
+density:
+  pos:
+  - noun
+  level: C1
 dentist:
   pos:
   - noun
   level: A2
 deny:
+  pos:
+  - verb
+  level: B2
+depart:
   pos:
   - verb
   level: B2
@@ -2996,6 +5028,31 @@ depend:
   pos:
   - verb
   level: A2
+dependence:
+  pos:
+  - noun
+  level: C1
+dependent:
+  pos:
+  - adjective
+  level: B2
+depict:
+  pos:
+  - verb
+  level: C1
+deploy:
+  pos:
+  - verb
+  level: C1
+deployment:
+  pos:
+  - noun
+  level: C1
+deposit:
+  level: C1
+  pos:
+  - noun
+  - verb
 depressed:
   pos:
   - adjective
@@ -3004,10 +5061,34 @@ depressing:
   pos:
   - adjective
   level: B2
+depression:
+  pos:
+  - noun
+  level: B2
+deprive:
+  pos:
+  - verb
+  level: C1
 depth:
   pos:
   - noun
   level: B2
+deputy:
+  pos:
+  - noun
+  level: C1
+derive:
+  pos:
+  - verb
+  level: B2
+descend:
+  pos:
+  - verb
+  level: C1
+descent:
+  pos:
+  - noun
+  level: C1
 describe:
   pos:
   - verb
@@ -3030,10 +5111,18 @@ design:
   pos:
   - noun
   - verb
+designate:
+  pos:
+  - verb
+  level: C1
 designer:
   pos:
   - noun
   level: A2
+desirable:
+  pos:
+  - adjective
+  level: C1
 desire:
   level: B2
   pos:
@@ -3043,9 +5132,17 @@ desk:
   pos:
   - noun
   level: A1
+desktop:
+  pos:
+  - noun
+  level: C1
 desperate:
   pos:
   - adjective
+  level: B2
+desperately:
+  pos:
+  - adverb
   level: B2
 despite:
   pos:
@@ -3059,6 +5156,14 @@ destroy:
   pos:
   - verb
   level: A2
+destruction:
+  pos:
+  - noun
+  level: B2
+destructive:
+  pos:
+  - adjective
+  level: C1
 detail:
   level: B2
   pos:
@@ -3068,14 +5173,34 @@ detailed:
   pos:
   - adjective
   level: B2
+detain:
+  pos:
+  - verb
+  level: C1
 detect:
   pos:
   - verb
   level: B2
+detection:
+  pos:
+  - noun
+  level: C1
 detective:
   pos:
   - noun
   level: A2
+detention:
+  pos:
+  - noun
+  level: C1
+deteriorate:
+  pos:
+  - verb
+  level: C1
+determination:
+  pos:
+  - noun
+  level: B2
 determine:
   pos:
   - verb
@@ -3084,6 +5209,10 @@ determined:
   pos:
   - adjective
   level: B1
+devastate:
+  pos:
+  - verb
+  level: C1
 develop:
   pos:
   - verb
@@ -3096,6 +5225,26 @@ device:
   pos:
   - noun
   level: A2
+devil:
+  pos:
+  - noun
+  level: C1
+devise:
+  pos:
+  - verb
+  level: C1
+devote:
+  pos:
+  - verb
+  level: B2
+diagnose:
+  pos:
+  - verb
+  level: C1
+diagnosis:
+  pos:
+  - noun
+  level: C1
 diagram:
   pos:
   - noun
@@ -3112,6 +5261,14 @@ diary:
   pos:
   - noun
   level: A2
+dictate:
+  pos:
+  - verb
+  level: C1
+dictator:
+  pos:
+  - noun
+  level: C1
 dictionary:
   pos:
   - noun
@@ -3124,6 +5281,10 @@ diet:
   pos:
   - noun
   level: A1
+differ:
+  pos:
+  - verb
+  level: B2
 difference:
   pos:
   - noun
@@ -3132,6 +5293,10 @@ different:
   pos:
   - adjective
   level: A1
+differentiate:
+  pos:
+  - verb
+  level: C1
 differently:
   pos:
   - adverb
@@ -3152,10 +5317,38 @@ digital:
   pos:
   - adjective
   level: A2
+dignity:
+  pos:
+  - noun
+  level: C1
+dilemma:
+  pos:
+  - noun
+  level: C1
+dimension:
+  pos:
+  - noun
+  level: C1
+diminish:
+  pos:
+  - verb
+  level: C1
 dinner:
   pos:
   - noun
   level: A1
+dip:
+  pos:
+  - verb
+  level: C1
+diplomat:
+  pos:
+  - noun
+  level: C1
+diplomatic:
+  pos:
+  - adjective
+  level: C1
 direct:
   level: B1
   pos:
@@ -3174,6 +5367,10 @@ director:
   pos:
   - noun
   level: A2
+directory:
+  pos:
+  - noun
+  level: C1
 dirt:
   pos:
   - noun
@@ -3182,6 +5379,14 @@ dirty:
   pos:
   - adjective
   level: A1
+disability:
+  pos:
+  - noun
+  level: B2
+disabled:
+  pos:
+  - adjective
+  level: B2
 disadvantage:
   pos:
   - noun
@@ -3190,10 +5395,18 @@ disagree:
   pos:
   - verb
   level: A2
+disagreement:
+  pos:
+  - noun
+  level: B2
 disappear:
   pos:
   - verb
   level: A2
+disappoint:
+  pos:
+  - verb
+  level: B2
 disappointed:
   pos:
   - adjective
@@ -3202,23 +5415,55 @@ disappointing:
   pos:
   - adjective
   level: B1
+disappointment:
+  pos:
+  - noun
+  level: B2
 disaster:
   pos:
   - noun
   level: A2
+disastrous:
+  pos:
+  - adjective
+  level: C1
 disc:
   pos:
   - noun
   level: B2
+discard:
+  pos:
+  - verb
+  level: C1
+discharge:
+  pos:
+  - verb
+  level: C1
 discipline:
   pos:
   - noun
   level: B2
+disclose:
+  pos:
+  - verb
+  level: C1
+disclosure:
+  pos:
+  - noun
+  level: C1
 discount:
   level: B2
   pos:
   - noun
   - verb
+discourage:
+  pos:
+  - verb
+  level: B2
+discourse:
+  pos:
+  - noun
+  level: C1
 discover:
   pos:
   - verb
@@ -3227,6 +5472,14 @@ discovery:
   pos:
   - noun
   level: A2
+discretion:
+  pos:
+  - noun
+  level: C1
+discrimination:
+  pos:
+  - noun
+  level: C1
 discuss:
   pos:
   - verb
@@ -3260,15 +5513,85 @@ dismiss:
   pos:
   - verb
   level: B2
+dismissal:
+  pos:
+  - noun
+  level: C1
+disorder:
+  pos:
+  - noun
+  level: B2
+displace:
+  pos:
+  - verb
+  level: C1
 display:
   level: B2
   pos:
   - noun
   - verb
+disposal:
+  pos:
+  - noun
+  level: C1
+dispose:
+  pos:
+  - verb
+  level: C1
+dispute:
+  level: C1
+  pos:
+  - noun
+  - verb
+disrupt:
+  pos:
+  - verb
+  level: C1
+disruption:
+  pos:
+  - noun
+  level: C1
+dissolve:
+  pos:
+  - verb
+  level: C1
 distance:
   pos:
   - noun
   level: A2
+distant:
+  pos:
+  - adjective
+  level: B2
+distinct:
+  pos:
+  - adjective
+  level: B2
+distinction:
+  pos:
+  - noun
+  level: C1
+distinctive:
+  pos:
+  - adjective
+  level: C1
+distinguish:
+  pos:
+  - verb
+  level: B2
+distort:
+  pos:
+  - verb
+  level: C1
+distract:
+  pos:
+  - verb
+  level: B2
+distress:
+  level: C1
+  pos:
+  - noun
+  - verb
 distribute:
   pos:
   - verb
@@ -3281,15 +5604,49 @@ district:
   pos:
   - noun
   level: B2
+disturb:
+  pos:
+  - verb
+  level: B2
+disturbing:
+  pos:
+  - adjective
+  level: C1
+dive:
+  level: B2
+  pos:
+  - noun
+  - verb
+diverse:
+  pos:
+  - adjective
+  level: B2
+diversity:
+  pos:
+  - noun
+  level: B2
+divert:
+  pos:
+  - verb
+  level: C1
 divide:
   level: B1
   pos:
   - noun
   - verb
+divine:
+  pos:
+  - adjective
+  level: C1
 division:
   pos:
   - noun
   level: B2
+divorce:
+  level: B2
+  pos:
+  - noun
+  - verb
 divorced:
   pos:
   - adjective
@@ -3304,6 +5661,10 @@ doctor:
   pos:
   - noun
   level: A1
+doctrine:
+  pos:
+  - noun
+  level: C1
 document:
   level: B2
   pos:
@@ -3313,6 +5674,10 @@ documentary:
   pos:
   - noun
   level: B1
+documentation:
+  pos:
+  - noun
+  level: C1
 dog:
   pos:
   - noun
@@ -3321,7 +5686,19 @@ dollar:
   pos:
   - noun
   level: A1
+domain:
+  pos:
+  - noun
+  level: C1
 domestic:
+  pos:
+  - adjective
+  level: B2
+dominance:
+  pos:
+  - noun
+  level: C1
+dominant:
   pos:
   - adjective
   level: B2
@@ -3333,10 +5710,26 @@ donate:
   pos:
   - verb
   level: B1
+donation:
+  pos:
+  - noun
+  level: B2
+donor:
+  pos:
+  - noun
+  level: C1
 door:
   pos:
   - noun
   level: A1
+dose:
+  pos:
+  - noun
+  level: C1
+dot:
+  pos:
+  - noun
+  level: B2
 double:
   level: A2
   pos:
@@ -3365,6 +5758,12 @@ downstairs:
   pos:
   - adjective
   - adverb
+downtown:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+  - noun
 downwards:
   pos:
   - adverb
@@ -3383,6 +5782,10 @@ drag:
   pos:
   - verb
   level: B2
+drain:
+  pos:
+  - verb
+  level: C1
 drama:
   pos:
   - noun
@@ -3390,6 +5793,10 @@ drama:
 dramatic:
   pos:
   - adjective
+  level: B2
+dramatically:
+  pos:
+  - adverb
   level: B2
 draw:
   pos:
@@ -3413,6 +5820,10 @@ dressed:
   pos:
   - adjective
   level: B1
+drift:
+  pos:
+  - verb
+  level: C1
 drink:
   level: A1
   pos:
@@ -3428,14 +5839,23 @@ driver:
   - noun
   level: A1
 driving:
-  pos:
-  - noun
   level: A2
+  pos:
+  - adjective
+  - noun
 drop:
   level: A2
   pos:
   - noun
   - verb
+drought:
+  pos:
+  - noun
+  level: B2
+drown:
+  pos:
+  - verb
+  level: C1
 drug:
   pos:
   - noun
@@ -3453,10 +5873,38 @@ dry:
   pos:
   - adjective
   - verb
+dual:
+  pos:
+  - adjective
+  level: C1
+dub:
+  pos:
+  - verb
+  level: C1
 due:
   pos:
   - adjective
   level: B1
+dull:
+  pos:
+  - adjective
+  level: B2
+dumb:
+  pos:
+  - adjective
+  level: C1
+dump:
+  pos:
+  - verb
+  level: B2
+duo:
+  pos:
+  - noun
+  level: C1
+duration:
+  pos:
+  - noun
+  level: B2
 during:
   pos:
   - preposition
@@ -3473,12 +5921,21 @@ DVD:
   pos:
   - noun
   level: A1
+dynamic:
+  level: C1
+  pos:
+  - adjective
+  - noun
 each:
   level: A1
   pos:
   - adverb
   - determiner
   - pronoun
+eager:
+  pos:
+  - adjective
+  level: C1
 ear:
   pos:
   - noun
@@ -3492,6 +5949,10 @@ earn:
   pos:
   - verb
   level: A2
+earnings:
+  pos:
+  - noun
+  level: C1
 earth:
   pos:
   - noun
@@ -3500,6 +5961,11 @@ earthquake:
   pos:
   - noun
   level: B1
+ease:
+  level: C1
+  pos:
+  - noun
+  - verb
 easily:
   pos:
   - adverb
@@ -3522,10 +5988,27 @@ eat:
   pos:
   - verb
   level: A1
+echo:
+  level: C1
+  pos:
+  - noun
+  - verb
+ecological:
+  pos:
+  - adjective
+  level: C1
 economic:
   pos:
   - adjective
   level: B1
+economics:
+  pos:
+  - noun
+  level: B2
+economist:
+  pos:
+  - noun
+  level: B2
 economy:
   pos:
   - noun
@@ -3546,6 +6029,10 @@ editor:
   pos:
   - noun
   level: B1
+editorial:
+  pos:
+  - adjective
+  level: B2
 educate:
   pos:
   - verb
@@ -3562,6 +6049,10 @@ educational:
   pos:
   - adjective
   level: B1
+educator:
+  pos:
+  - noun
+  level: C1
 effect:
   pos:
   - noun
@@ -3574,9 +6065,21 @@ effectively:
   pos:
   - adverb
   level: B1
+effectiveness:
+  pos:
+  - noun
+  level: C1
+efficiency:
+  pos:
+  - noun
+  level: C1
 efficient:
   pos:
   - adjective
+  level: B2
+efficiently:
+  pos:
+  - adverb
   level: B2
 effort:
   pos:
@@ -3586,6 +6089,10 @@ egg:
   pos:
   - noun
   level: A1
+ego:
+  pos:
+  - noun
+  level: C1
 eight:
   pos:
   - number
@@ -3604,6 +6111,14 @@ either:
   - adverb
   - determiner
   - pronoun
+elaborate:
+  pos:
+  - adjective
+  level: C1
+elbow:
+  pos:
+  - noun
+  level: B2
 elderly:
   pos:
   - adjective
@@ -3616,6 +6131,10 @@ election:
   pos:
   - noun
   level: B1
+electoral:
+  pos:
+  - adjective
+  level: C1
 electric:
   pos:
   - adjective
@@ -3632,18 +6151,46 @@ electronic:
   pos:
   - adjective
   level: A2
+electronics:
+  pos:
+  - noun
+  level: B2
+elegant:
+  pos:
+  - adjective
+  level: B2
 element:
   pos:
   - noun
   level: B1
+elementary:
+  pos:
+  - adjective
+  level: B2
 elephant:
   pos:
   - noun
   level: A1
+elevate:
+  pos:
+  - verb
+  level: C1
 eleven:
   pos:
   - number
   level: A1
+eligible:
+  pos:
+  - adjective
+  level: C1
+eliminate:
+  pos:
+  - verb
+  level: B2
+elite:
+  pos:
+  - noun
+  level: C1
 else:
   pos:
   - adverb
@@ -3657,6 +6204,10 @@ email:
   pos:
   - noun
   - verb
+embark:
+  pos:
+  - verb
+  level: C1
 embarrassed:
   pos:
   - adjective
@@ -3665,14 +6216,42 @@ embarrassing:
   pos:
   - adjective
   level: B1
+embarrassment:
+  pos:
+  - noun
+  level: C1
+embassy:
+  pos:
+  - noun
+  level: C1
+embed:
+  pos:
+  - verb
+  level: C1
+embody:
+  pos:
+  - verb
+  level: C1
+embrace:
+  pos:
+  - verb
+  level: B2
 emerge:
   pos:
   - verb
   level: B2
+emergence:
+  pos:
+  - noun
+  level: C1
 emergency:
   pos:
   - noun
   level: B1
+emission:
+  pos:
+  - noun
+  level: B2
 emotion:
   pos:
   - noun
@@ -3680,6 +6259,10 @@ emotion:
 emotional:
   pos:
   - adjective
+  level: B2
+emotionally:
+  pos:
+  - adverb
   level: B2
 emphasis:
   pos:
@@ -3689,6 +6272,14 @@ emphasize:
   pos:
   - verb
   level: B2
+empire:
+  pos:
+  - noun
+  level: B2
+empirical:
+  pos:
+  - adjective
+  level: C1
 employ:
   pos:
   - verb
@@ -3705,6 +6296,10 @@ employment:
   pos:
   - noun
   level: B1
+empower:
+  pos:
+  - verb
+  level: C1
 empty:
   level: B1
   pos:
@@ -3714,6 +6309,14 @@ enable:
   pos:
   - verb
   level: B2
+enact:
+  pos:
+  - verb
+  level: C1
+encompass:
+  pos:
+  - verb
+  level: C1
 encounter:
   level: B2
   pos:
@@ -3723,15 +6326,43 @@ encourage:
   pos:
   - verb
   level: B1
+encouragement:
+  pos:
+  - noun
+  level: C1
+encouraging:
+  pos:
+  - adjective
+  level: C1
 end:
   level: A1
   pos:
   - noun
   - verb
+endeavour:
+  pos:
+  - noun
+  level: C1
 ending:
   pos:
   - noun
   level: A2
+endless:
+  pos:
+  - adjective
+  level: C1
+endorse:
+  pos:
+  - verb
+  level: C1
+endorsement:
+  pos:
+  - noun
+  level: C1
+endure:
+  pos:
+  - verb
+  level: C1
 enemy:
   pos:
   - noun
@@ -3740,6 +6371,14 @@ energy:
   pos:
   - noun
   level: A2
+enforce:
+  pos:
+  - verb
+  level: C1
+enforcement:
+  pos:
+  - noun
+  level: C1
 engage:
   pos:
   - verb
@@ -3748,6 +6387,14 @@ engaged:
   pos:
   - adjective
   level: B1
+engagement:
+  pos:
+  - noun
+  level: C1
+engaging:
+  pos:
+  - adjective
+  level: C1
 engine:
   pos:
   - noun
@@ -3768,6 +6415,10 @@ enjoy:
   pos:
   - verb
   level: A1
+enjoyable:
+  pos:
+  - adjective
+  level: B2
 enormous:
   pos:
   - adjective
@@ -3778,10 +6429,26 @@ enough:
   - adverb
   - determiner
   - pronoun
+enquire:
+  pos:
+  - verb
+  level: C1
 enquiry:
   pos:
   - noun
   level: B2
+enrich:
+  pos:
+  - verb
+  level: C1
+enrol:
+  pos:
+  - verb
+  level: C1
+ensue:
+  pos:
+  - verb
+  level: C1
 ensure:
   pos:
   - verb
@@ -3790,10 +6457,18 @@ enter:
   pos:
   - verb
   level: A2
+enterprise:
+  pos:
+  - noun
+  level: C1
 entertain:
   pos:
   - verb
   level: B1
+entertaining:
+  pos:
+  - adjective
+  level: B2
 entertainment:
   pos:
   - noun
@@ -3802,6 +6477,10 @@ enthusiasm:
   pos:
   - noun
   level: B2
+enthusiast:
+  pos:
+  - noun
+  level: C1
 enthusiastic:
   pos:
   - adjective
@@ -3814,14 +6493,30 @@ entirely:
   pos:
   - adverb
   level: B2
+entitle:
+  pos:
+  - verb
+  level: C1
+entity:
+  pos:
+  - noun
+  level: C1
 entrance:
   pos:
   - noun
   level: B1
+entrepreneur:
+  pos:
+  - noun
+  level: B2
 entry:
   pos:
   - noun
   level: B1
+envelope:
+  pos:
+  - noun
+  level: B2
 environment:
   pos:
   - noun
@@ -3830,6 +6525,10 @@ environmental:
   pos:
   - adjective
   level: B1
+epidemic:
+  pos:
+  - noun
+  level: C1
 episode:
   pos:
   - noun
@@ -3840,18 +6539,51 @@ equal:
   - adjective
   - noun
   - verb
+equality:
+  pos:
+  - noun
+  level: C1
 equally:
   pos:
   - adverb
   level: B1
+equation:
+  pos:
+  - noun
+  level: C1
+equip:
+  pos:
+  - verb
+  level: B2
 equipment:
   pos:
   - noun
   level: A2
+equivalent:
+  level: B2
+  pos:
+  - adjective
+  - noun
+era:
+  pos:
+  - noun
+  level: B2
+erect:
+  pos:
+  - verb
+  level: C1
 error:
   pos:
   - noun
   level: A2
+erupt:
+  pos:
+  - verb
+  level: B2
+escalate:
+  pos:
+  - verb
+  level: C1
 escape:
   level: B1
   pos:
@@ -3865,14 +6597,26 @@ essay:
   pos:
   - noun
   level: A2
+essence:
+  pos:
+  - noun
+  level: C1
 essential:
   pos:
   - adjective
   level: B1
+essentially:
+  pos:
+  - adverb
+  level: B2
 establish:
   pos:
   - verb
   level: B2
+establishment:
+  pos:
+  - noun
+  level: C1
 estate:
   pos:
   - noun
@@ -3882,7 +6626,19 @@ estimate:
   pos:
   - noun
   - verb
+eternal:
+  pos:
+  - adjective
+  level: C1
+ethic:
+  pos:
+  - noun
+  level: B2
 ethical:
+  pos:
+  - adjective
+  level: B2
+ethnic:
   pos:
   - adjective
   level: B2
@@ -3890,9 +6646,17 @@ euro:
   pos:
   - noun
   level: A1
+evacuate:
+  pos:
+  - verb
+  level: C1
 evaluate:
   pos:
   - verb
+  level: B2
+evaluation:
+  pos:
+  - noun
   level: B2
 even:
   level: A1
@@ -3943,11 +6707,31 @@ evidence:
   pos:
   - noun
   level: A2
+evident:
+  pos:
+  - adjective
+  level: B2
 evil:
   level: B2
   pos:
   - adjective
   - noun
+evoke:
+  pos:
+  - verb
+  level: C1
+evolution:
+  pos:
+  - noun
+  level: B2
+evolutionary:
+  pos:
+  - adjective
+  level: C1
+evolve:
+  pos:
+  - verb
+  level: B2
 exact:
   pos:
   - adjective
@@ -3956,6 +6740,10 @@ exactly:
   pos:
   - adverb
   level: A2
+exaggerate:
+  pos:
+  - verb
+  level: C1
 exam:
   pos:
   - noun
@@ -3972,6 +6760,14 @@ example:
   pos:
   - noun
   level: A1
+exceed:
+  pos:
+  - verb
+  level: B2
+excellence:
+  pos:
+  - noun
+  level: C1
 excellent:
   pos:
   - adjective
@@ -3981,6 +6777,23 @@ except:
   pos:
   - conjunction
   - preposition
+exception:
+  pos:
+  - noun
+  level: B2
+exceptional:
+  pos:
+  - adjective
+  level: C1
+excess:
+  level: C1
+  pos:
+  - adjective
+  - noun
+excessive:
+  pos:
+  - adjective
+  level: B2
 exchange:
   level: B1
   pos:
@@ -3998,11 +6811,35 @@ exciting:
   pos:
   - adjective
   level: A1
+exclude:
+  pos:
+  - verb
+  level: B2
+exclusion:
+  pos:
+  - noun
+  level: C1
+exclusive:
+  pos:
+  - adjective
+  level: C1
+exclusively:
+  pos:
+  - adverb
+  level: C1
 excuse:
   level: B2
   pos:
   - noun
   - verb
+execute:
+  pos:
+  - verb
+  level: C1
+execution:
+  pos:
+  - noun
+  level: C1
 executive:
   level: B2
   pos:
@@ -4013,10 +6850,23 @@ exercise:
   pos:
   - noun
   - verb
+exert:
+  pos:
+  - verb
+  level: C1
+exhibit:
+  level: B2
+  pos:
+  - noun
+  - verb
 exhibition:
   pos:
   - noun
   level: B1
+exile:
+  pos:
+  - noun
+  level: C1
 exist:
   pos:
   - verb
@@ -4025,10 +6875,23 @@ existence:
   pos:
   - noun
   level: B2
+exit:
+  level: C1
+  pos:
+  - noun
+  - verb
+exotic:
+  pos:
+  - adjective
+  level: B2
 expand:
   pos:
   - verb
   level: B1
+expansion:
+  pos:
+  - noun
+  level: B2
 expect:
   pos:
   - verb
@@ -4045,6 +6908,10 @@ expedition:
   pos:
   - noun
   level: B1
+expenditure:
+  pos:
+  - noun
+  level: C1
 expense:
   pos:
   - noun
@@ -4067,11 +6934,23 @@ experiment:
   pos:
   - noun
   - verb
+experimental:
+  pos:
+  - adjective
+  level: C1
 expert:
   level: A2
   pos:
   - adjective
   - noun
+expertise:
+  pos:
+  - noun
+  level: B2
+expire:
+  pos:
+  - verb
+  level: C1
 explain:
   pos:
   - verb
@@ -4080,10 +6959,26 @@ explanation:
   pos:
   - noun
   level: A2
+explicit:
+  pos:
+  - adjective
+  level: C1
+explicitly:
+  pos:
+  - adverb
+  level: C1
 explode:
   pos:
   - verb
   level: B1
+exploit:
+  pos:
+  - verb
+  level: B2
+exploitation:
+  pos:
+  - noun
+  level: C1
 exploration:
   pos:
   - noun
@@ -4096,6 +6991,11 @@ explosion:
   pos:
   - noun
   level: B1
+explosive:
+  level: C1
+  pos:
+  - adjective
+  - noun
 export:
   level: B1
   pos:
@@ -4104,6 +7004,10 @@ export:
 expose:
   pos:
   - verb
+  level: B2
+exposure:
+  pos:
+  - noun
   level: B2
 express:
   pos:
@@ -4116,6 +7020,18 @@ expression:
 extend:
   pos:
   - verb
+  level: B2
+extension:
+  pos:
+  - noun
+  level: B2
+extensive:
+  pos:
+  - adjective
+  level: B2
+extensively:
+  pos:
+  - adverb
   level: B2
 extent:
   pos:
@@ -4131,6 +7047,11 @@ extra:
   - adjective
   - adverb
   - noun
+extract:
+  level: C1
+  pos:
+  - noun
+  - verb
 extraordinary:
   pos:
   - adjective
@@ -4144,15 +7065,31 @@ extremely:
   pos:
   - adverb
   level: A2
+extremist:
+  pos:
+  - noun
+  level: C1
 eye:
   pos:
   - noun
   level: A1
+fabric:
+  pos:
+  - noun
+  level: B2
+fabulous:
+  pos:
+  - adjective
+  level: B2
 face:
   level: B1
   pos:
   - noun
   - verb
+facilitate:
+  pos:
+  - verb
+  level: C1
 facility:
   pos:
   - noun
@@ -4161,6 +7098,10 @@ fact:
   pos:
   - noun
   level: A1
+faction:
+  pos:
+  - noun
+  level: C1
 factor:
   pos:
   - noun
@@ -4169,10 +7110,22 @@ factory:
   pos:
   - noun
   level: A2
+faculty:
+  pos:
+  - noun
+  level: C1
+fade:
+  pos:
+  - verb
+  level: C1
 fail:
   pos:
   - verb
   level: A2
+failed:
+  pos:
+  - adjective
+  level: B2
 failure:
   pos:
   - noun
@@ -4185,9 +7138,17 @@ fairly:
   pos:
   - adverb
   level: B1
+fairness:
+  pos:
+  - noun
+  level: C1
 faith:
   pos:
   - noun
+  level: B2
+fake:
+  pos:
+  - adjective
   level: B2
 fall:
   level: A1
@@ -4198,6 +7159,10 @@ fall:
   pos:
   - adjective
   level: A1
+fame:
+  pos:
+  - noun
+  level: B2
 familiar:
   pos:
   - adjective
@@ -4224,11 +7189,19 @@ fantastic:
   pos:
   - adjective
   level: A1
+fantasy:
+  pos:
+  - noun
+  level: B2
 far:
   level: A1
   pos:
   - adjective
   - adverb
+fare:
+  pos:
+  - noun
+  level: B2
 farm:
   level: A2
   pos:
@@ -4268,6 +7241,14 @@ fat:
   pos:
   - adjective
   - noun
+fatal:
+  pos:
+  - adjective
+  level: C1
+fate:
+  pos:
+  - noun
+  level: C1
 father:
   pos:
   - noun
@@ -4281,6 +7262,10 @@ favour:
   pos:
   - noun
   - verb
+favourable:
+  pos:
+  - adjective
+  level: C1
 favourite:
   level: A1
   pos:
@@ -4291,6 +7276,10 @@ fear:
   pos:
   - noun
   - verb
+feat:
+  pos:
+  - noun
+  level: C1
 feather:
   pos:
   - noun
@@ -4304,6 +7293,10 @@ February:
   pos:
   - noun
   level: A1
+federal:
+  pos:
+  - adjective
+  level: B2
 fee:
   pos:
   - noun
@@ -4335,6 +7328,11 @@ female:
   pos:
   - adjective
   - noun
+feminist:
+  level: C1
+  pos:
+  - adjective
+  - noun
 fence:
   pos:
   - noun
@@ -4343,12 +7341,20 @@ festival:
   pos:
   - noun
   level: A1
+fever:
+  pos:
+  - noun
+  level: B2
 few:
   level: A1
   pos:
   - adjective
   - determiner
   - pronoun
+fibre:
+  pos:
+  - noun
+  level: C1
 fiction:
   pos:
   - noun
@@ -4357,6 +7363,10 @@ field:
   pos:
   - noun
   level: A2
+fierce:
+  pos:
+  - adjective
+  level: C1
 fifteen:
   pos:
   - number
@@ -4398,6 +7408,15 @@ film:
   pos:
   - noun
   - verb
+film-maker:
+  pos:
+  - noun
+  level: C1
+filter:
+  level: C1
+  pos:
+  - noun
+  - verb
 final:
   level: A2
   pos:
@@ -4425,9 +7444,11 @@ finding:
   - noun
   level: B2
 fine:
+  level: C1
   pos:
   - adjective
-  level: A1
+  - noun
+  - verb
 finger:
   pos:
   - noun
@@ -4442,9 +7463,26 @@ fire:
   pos:
   - noun
   - verb
-firm:
+firearm:
   pos:
   - noun
+  level: C1
+firefighter:
+  pos:
+  - noun
+  level: B2
+firework:
+  pos:
+  - noun
+  level: B2
+firm:
+  level: B2
+  pos:
+  - adjective
+  - noun
+firmly:
+  pos:
+  - adverb
   level: B2
 first:
   level: A1
@@ -4471,6 +7509,7 @@ fit:
   level: A2
   pos:
   - adjective
+  - noun
   - verb
 fitness:
   pos:
@@ -4489,6 +7528,10 @@ fixed:
   pos:
   - adjective
   level: B1
+fixture:
+  pos:
+  - noun
+  level: C1
 flag:
   pos:
   - noun
@@ -4507,6 +7550,34 @@ flat:
   pos:
   - adjective
   - noun
+flavour:
+  pos:
+  - noun
+  level: B2
+flaw:
+  pos:
+  - noun
+  level: C1
+flawed:
+  pos:
+  - adjective
+  level: C1
+flee:
+  pos:
+  - verb
+  level: C1
+fleet:
+  pos:
+  - noun
+  level: C1
+flesh:
+  pos:
+  - noun
+  level: C1
+flexibility:
+  pos:
+  - noun
+  level: C1
 flexible:
   pos:
   - adjective
@@ -4532,6 +7603,10 @@ flour:
   pos:
   - noun
   level: B1
+flourish:
+  pos:
+  - verb
+  level: C1
 flow:
   level: B1
   pos:
@@ -4545,6 +7620,10 @@ flu:
   pos:
   - noun
   level: A2
+fluid:
+  pos:
+  - noun
+  level: C1
 fly:
   level: A1
   pos:
@@ -4584,14 +7663,26 @@ following:
   - adjective
   - noun
   - preposition
+fond:
+  pos:
+  - adjective
+  level: B2
 food:
   pos:
   - noun
   level: A1
+fool:
+  pos:
+  - noun
+  level: B2
 foot:
   pos:
   - noun
   level: A1
+footage:
+  pos:
+  - noun
+  level: C1
 football:
   pos:
   - noun
@@ -4600,8 +7691,17 @@ for:
   pos:
   - preposition
   level: A1
+forbid:
+  pos:
+  - verb
+  level: B2
 force:
   level: B1
+  pos:
+  - noun
+  - verb
+forecast:
+  level: B2
   pos:
   - noun
   - verb
@@ -4609,6 +7709,10 @@ foreign:
   pos:
   - adjective
   level: A2
+foreigner:
+  pos:
+  - noun
+  level: C1
 forest:
   pos:
   - noun
@@ -4617,6 +7721,10 @@ forever:
   pos:
   - adverb
   level: B1
+forge:
+  pos:
+  - verb
+  level: C1
 forget:
   pos:
   - verb
@@ -4638,7 +7746,39 @@ formal:
   pos:
   - adjective
   level: A2
+format:
+  pos:
+  - noun
+  level: B2
+formation:
+  pos:
+  - noun
+  level: B2
 former:
+  pos:
+  - adjective
+  level: B2
+formerly:
+  pos:
+  - adverb
+  level: B2
+formula:
+  pos:
+  - noun
+  level: C1
+formulate:
+  pos:
+  - verb
+  level: C1
+forth:
+  pos:
+  - adverb
+  level: C1
+forthcoming:
+  pos:
+  - adjective
+  level: C1
+fortunate:
   pos:
   - adjective
   level: B2
@@ -4654,14 +7794,34 @@ forty:
   pos:
   - number
   level: A1
+forum:
+  pos:
+  - noun
+  level: B2
 forward:
   level: A2
   pos:
   - adjective
   - adverb
+fossil:
+  pos:
+  - noun
+  level: B2
+foster:
+  pos:
+  - verb
+  level: C1
 found:
   pos:
   - verb
+  level: B2
+foundation:
+  pos:
+  - noun
+  level: B2
+founder:
+  pos:
+  - noun
   level: B2
 four:
   pos:
@@ -4676,11 +7836,39 @@ fourth:
   - ordinal
   - number
   level: A1
+fraction:
+  pos:
+  - noun
+  level: B2
+fragile:
+  pos:
+  - adjective
+  level: C1
+fragment:
+  pos:
+  - noun
+  level: B2
 frame:
   level: B1
   pos:
   - noun
   - verb
+framework:
+  pos:
+  - noun
+  level: B2
+franchise:
+  pos:
+  - noun
+  level: C1
+frankly:
+  pos:
+  - adverb
+  level: C1
+fraud:
+  pos:
+  - noun
+  level: B2
 free:
   level: B2
   pos:
@@ -4691,6 +7879,10 @@ freedom:
   pos:
   - noun
   level: B2
+freely:
+  pos:
+  - adverb
+  level: B2
 freeze:
   pos:
   - verb
@@ -4698,6 +7890,10 @@ freeze:
 frequency:
   pos:
   - noun
+  level: B2
+frequent:
+  pos:
+  - adjective
   level: B2
 frequently:
   pos:
@@ -4760,6 +7956,18 @@ fruit:
   pos:
   - noun
   level: A1
+frustrated:
+  pos:
+  - adjective
+  level: C1
+frustrating:
+  pos:
+  - adjective
+  level: C1
+frustration:
+  pos:
+  - noun
+  level: C1
 fry:
   pos:
   - verb
@@ -4769,10 +7977,19 @@ fuel:
   pos:
   - noun
   - verb
+fulfil:
+  pos:
+  - verb
+  level: B2
 full:
   pos:
   - adjective
   level: A1
+full-time:
+  level: B2
+  pos:
+  - adjective
+  - adverb
 fully:
   pos:
   - adverb
@@ -4787,6 +8004,10 @@ function:
   pos:
   - noun
   - verb
+functional:
+  pos:
+  - adjective
+  level: C1
 fund:
   level: B2
   pos:
@@ -4796,10 +8017,22 @@ fundamental:
   pos:
   - adjective
   level: B2
+fundamentally:
+  pos:
+  - adverb
+  level: B2
 funding:
   pos:
   - noun
   level: B2
+fundraising:
+  pos:
+  - noun
+  level: C1
+funeral:
+  pos:
+  - noun
+  level: C1
 funny:
   pos:
   - adjective
@@ -4808,6 +8041,10 @@ fur:
   pos:
   - noun
   level: B1
+furious:
+  pos:
+  - adjective
+  level: B2
 furniture:
   pos:
   - noun
@@ -4835,10 +8072,22 @@ gallery:
   pos:
   - noun
   level: A2
+gallon:
+  pos:
+  - noun
+  level: C1
+gambling:
+  pos:
+  - noun
+  level: C1
 game:
   pos:
   - noun
   level: A1
+gaming:
+  pos:
+  - noun
+  level: B2
 gang:
   pos:
   - noun
@@ -4867,6 +8116,31 @@ gather:
   pos:
   - verb
   level: B1
+gathering:
+  pos:
+  - noun
+  level: C1
+gay:
+  pos:
+  - adjective
+  level: B2
+gaze:
+  level: C1
+  pos:
+  - noun
+  - verb
+gear:
+  pos:
+  - noun
+  level: C1
+gender:
+  pos:
+  - noun
+  level: B2
+gene:
+  pos:
+  - noun
+  level: B2
 general:
   pos:
   - adjective
@@ -4883,10 +8157,26 @@ generation:
   pos:
   - noun
   level: B1
+generic:
+  pos:
+  - adjective
+  level: C1
 generous:
   pos:
   - adjective
   level: B1
+genetic:
+  pos:
+  - adjective
+  level: B2
+genius:
+  pos:
+  - noun
+  level: B2
+genocide:
+  pos:
+  - noun
+  level: C1
 genre:
   pos:
   - noun
@@ -4899,10 +8189,22 @@ gentleman:
   pos:
   - noun
   level: B1
+genuine:
+  pos:
+  - adjective
+  level: B2
+genuinely:
+  pos:
+  - adverb
+  level: B2
 geography:
   pos:
   - noun
   level: A1
+gesture:
+  pos:
+  - noun
+  level: B2
 get:
   pos:
   - verb
@@ -4920,6 +8222,10 @@ gift:
   pos:
   - noun
   level: A2
+gig:
+  pos:
+  - noun
+  level: B2
 girl:
   pos:
   - noun
@@ -4936,14 +8242,39 @@ glad:
   pos:
   - adjective
   level: B1
+glance:
+  level: C1
+  pos:
+  - noun
+  - verb
 glass:
   pos:
   - noun
   level: A1
+glimpse:
+  pos:
+  - noun
+  level: C1
 global:
   pos:
   - adjective
   level: B1
+globalization:
+  pos:
+  - noun
+  level: B2
+globe:
+  pos:
+  - noun
+  level: B2
+glorious:
+  pos:
+  - adjective
+  level: C1
+glory:
+  pos:
+  - noun
+  level: C1
 glove:
   pos:
   - noun
@@ -4966,6 +8297,10 @@ gold:
   pos:
   - adjective
   - noun
+golden:
+  pos:
+  - adjective
+  level: B2
 golf:
   pos:
   - noun
@@ -4980,22 +8315,42 @@ goodbye:
   pos:
   - exclamation
   - noun
+goodness:
+  pos:
+  - noun
+  level: B2
 goods:
   pos:
   - noun
   level: B1
+gorgeous:
+  pos:
+  - adjective
+  level: B2
 govern:
   pos:
   - verb
   level: B2
+governance:
+  pos:
+  - noun
+  level: C1
 government:
   pos:
   - noun
   level: A2
+governor:
+  pos:
+  - noun
+  level: B2
 grab:
   pos:
   - verb
   level: B2
+grace:
+  pos:
+  - noun
+  level: C1
 grade:
   level: B2
   pos:
@@ -5035,6 +8390,19 @@ grant:
   pos:
   - noun
   - verb
+graphic:
+  pos:
+  - adjective
+  level: B2
+graphics:
+  pos:
+  - noun
+  level: B2
+grasp:
+  level: C1
+  pos:
+  - noun
+  - verb
 grass:
   pos:
   - noun
@@ -5043,15 +8411,32 @@ grateful:
   pos:
   - adjective
   level: B1
+grave:
+  level: C1
+  pos:
+  - adjective
+  - noun
+gravity:
+  pos:
+  - noun
+  level: C1
 great:
   pos:
   - adjective
   level: A1
+greatly:
+  pos:
+  - adverb
+  level: B2
 green:
   level: A1
   pos:
   - adjective
   - noun
+greenhouse:
+  pos:
+  - noun
+  level: B2
 greet:
   pos:
   - verb
@@ -5061,6 +8446,36 @@ grey:
   pos:
   - adjective
   - noun
+grid:
+  pos:
+  - noun
+  level: C1
+grief:
+  pos:
+  - noun
+  level: C1
+grin:
+  level: C1
+  pos:
+  - noun
+  - verb
+grind:
+  pos:
+  - verb
+  level: C1
+grip:
+  level: C1
+  pos:
+  - noun
+  - verb
+grocery:
+  pos:
+  - noun
+  level: B2
+gross:
+  pos:
+  - adjective
+  level: C1
 ground:
   pos:
   - noun
@@ -5087,6 +8502,10 @@ guard:
   pos:
   - noun
   - verb
+guerrilla:
+  pos:
+  - noun
+  level: C1
 guess:
   level: A1
   pos:
@@ -5096,11 +8515,23 @@ guest:
   pos:
   - noun
   level: A2
+guidance:
+  pos:
+  - noun
+  level: C1
 guide:
   level: A2
   pos:
   - noun
   - verb
+guideline:
+  pos:
+  - noun
+  level: B2
+guilt:
+  pos:
+  - noun
+  level: C1
 guilty:
   pos:
   - adjective
@@ -5113,6 +8544,10 @@ gun:
   pos:
   - noun
   level: A2
+gut:
+  pos:
+  - noun
+  level: C1
 guy:
   pos:
   - noun
@@ -5125,6 +8560,14 @@ habit:
   pos:
   - noun
   level: A2
+habitat:
+  pos:
+  - noun
+  level: B2
+hail:
+  pos:
+  - verb
+  level: C1
 hair:
   pos:
   - noun
@@ -5136,20 +8579,41 @@ half:
   - determiner
   - noun
   - pronoun
+halfway:
+  pos:
+  - adverb
+  level: C1
 hall:
   pos:
   - noun
   level: A2
+halt:
+  level: C1
+  pos:
+  - noun
+  - verb
 hand:
   level: B1
   pos:
   - noun
   - verb
+handful:
+  pos:
+  - noun
+  level: C1
 handle:
   level: B2
   pos:
   - noun
   - verb
+handling:
+  pos:
+  - noun
+  level: C1
+handy:
+  pos:
+  - adjective
+  level: C1
 hang:
   pos:
   - verb
@@ -5170,6 +8634,14 @@ happy:
   pos:
   - adjective
   level: A1
+harassment:
+  pos:
+  - noun
+  level: C1
+harbour:
+  pos:
+  - noun
+  level: B2
 hard:
   level: A1
   pos:
@@ -5179,6 +8651,10 @@ hardly:
   pos:
   - adverb
   level: B1
+hardware:
+  pos:
+  - noun
+  level: C1
 harm:
   level: B2
   pos:
@@ -5188,6 +8664,19 @@ harmful:
   pos:
   - adjective
   level: B2
+harmony:
+  pos:
+  - noun
+  level: C1
+harsh:
+  pos:
+  - adjective
+  level: C1
+harvest:
+  level: C1
+  pos:
+  - noun
+  - verb
 hat:
   pos:
   - noun
@@ -5197,6 +8686,14 @@ hate:
   pos:
   - noun
   - verb
+hatred:
+  pos:
+  - noun
+  level: C1
+haunt:
+  pos:
+  - verb
+  level: C1
 have:
   level: A2
   pos:
@@ -5208,6 +8705,10 @@ have to:
   - modal
   - verb
   level: A1
+hazard:
+  pos:
+  - noun
+  level: C1
 he:
   pos:
   - pronoun
@@ -5225,10 +8726,22 @@ headline:
   pos:
   - noun
   level: B1
+headquarters:
+  pos:
+  - noun
+  level: B2
+heal:
+  pos:
+  - verb
+  level: B2
 health:
   pos:
   - noun
   level: A1
+healthcare:
+  pos:
+  - noun
+  level: B2
 healthy:
   pos:
   - adjective
@@ -5274,6 +8787,10 @@ height:
   pos:
   - noun
   level: A2
+heighten:
+  pos:
+  - verb
+  level: C1
 helicopter:
   pos:
   - noun
@@ -5287,6 +8804,10 @@ hello:
   pos:
   - exclamation
   - noun
+helmet:
+  pos:
+  - noun
+  level: B2
 help:
   level: A1
   pos:
@@ -5296,15 +8817,27 @@ helpful:
   pos:
   - adjective
   level: A2
+hence:
+  pos:
+  - adverb
+  level: B2
 her:
   level: A1
   pos:
   - determiner
   - pronoun
+herb:
+  pos:
+  - noun
+  level: B2
 here:
   pos:
   - adverb
   level: A1
+heritage:
+  pos:
+  - noun
+  level: C1
 hero:
   pos:
   - noun
@@ -5329,16 +8862,28 @@ hi:
   pos:
   - exclamation
   level: A1
+hidden:
+  pos:
+  - adjective
+  level: B2
 hide:
   pos:
   - verb
   level: A2
+hierarchy:
+  pos:
+  - noun
+  level: C1
 high:
   level: B2
   pos:
   - adjective
   - adverb
   - noun
+high-profile:
+  pos:
+  - adjective
+  level: C1
 highlight:
   level: B1
   pos:
@@ -5348,6 +8893,14 @@ highly:
   pos:
   - adverb
   level: B1
+highway:
+  pos:
+  - noun
+  level: B2
+hilarious:
+  pos:
+  - adjective
+  level: B2
 hill:
   pos:
   - noun
@@ -5360,6 +8913,15 @@ himself:
   pos:
   - pronoun
   level: A2
+hint:
+  level: C1
+  pos:
+  - noun
+  - verb
+hip:
+  pos:
+  - noun
+  level: B2
 hire:
   level: B1
   pos:
@@ -5370,6 +8932,10 @@ his:
   pos:
   - determiner
   - pronoun
+historian:
+  pos:
+  - noun
+  level: B2
 historic:
   pos:
   - adjective
@@ -5422,6 +8988,14 @@ home:
   - adjective
   - adverb
   - noun
+homeland:
+  pos:
+  - noun
+  level: C1
+homeless:
+  pos:
+  - adjective
+  level: B2
 homework:
   pos:
   - noun
@@ -5430,8 +9004,17 @@ honest:
   pos:
   - adjective
   level: B1
+honesty:
+  pos:
+  - noun
+  level: B2
 honour:
   level: B2
+  pos:
+  - noun
+  - verb
+hook:
+  level: C1
   pos:
   - noun
   - verb
@@ -5440,6 +9023,22 @@ hope:
   pos:
   - noun
   - verb
+hopeful:
+  pos:
+  - adjective
+  level: C1
+hopefully:
+  pos:
+  - adverb
+  level: B2
+horizon:
+  pos:
+  - noun
+  level: C1
+horn:
+  pos:
+  - noun
+  level: C1
 horrible:
   pos:
   - adjective
@@ -5461,6 +9060,18 @@ host:
   pos:
   - noun
   - verb
+hostage:
+  pos:
+  - noun
+  level: C1
+hostile:
+  pos:
+  - adjective
+  level: C1
+hostility:
+  pos:
+  - noun
+  level: C1
 hot:
   pos:
   - adjective
@@ -5503,6 +9114,18 @@ human:
   pos:
   - adjective
   - noun
+humanitarian:
+  pos:
+  - adjective
+  level: C1
+humanity:
+  pos:
+  - noun
+  level: C1
+humble:
+  pos:
+  - adjective
+  level: C1
 humorous:
   pos:
   - adjective
@@ -5515,6 +9138,10 @@ hundred:
   pos:
   - number
   level: A1
+hunger:
+  pos:
+  - noun
+  level: B2
 hungry:
   pos:
   - adjective
@@ -5547,6 +9174,14 @@ husband:
   pos:
   - noun
   level: A1
+hydrogen:
+  pos:
+  - noun
+  level: C1
+hypothesis:
+  pos:
+  - noun
+  level: B2
 I:
   pos:
   - pronoun
@@ -5559,6 +9194,14 @@ icecream:
   pos:
   - noun
   level: A1
+icon:
+  pos:
+  - noun
+  level: B2
+ID:
+  pos:
+  - noun
+  level: B2
 idea:
   pos:
   - noun
@@ -5568,6 +9211,14 @@ ideal:
   pos:
   - adjective
   - noun
+identical:
+  pos:
+  - adjective
+  level: B2
+identification:
+  pos:
+  - noun
+  level: C1
 identify:
   pos:
   - verb
@@ -5576,10 +9227,26 @@ identity:
   pos:
   - noun
   level: B1
+ideological:
+  pos:
+  - adjective
+  level: C1
+ideology:
+  pos:
+  - noun
+  level: C1
+idiot:
+  pos:
+  - noun
+  level: C1
 if:
   pos:
   - conjunction
   level: A1
+ignorance:
+  pos:
+  - noun
+  level: C1
 ignore:
   pos:
   - verb
@@ -5596,6 +9263,10 @@ illness:
   pos:
   - noun
   level: A2
+illusion:
+  pos:
+  - noun
+  level: B2
 illustrate:
   pos:
   - verb
@@ -5608,6 +9279,10 @@ image:
   pos:
   - noun
   level: A2
+imagery:
+  pos:
+  - noun
+  level: C1
 imaginary:
   pos:
   - adjective
@@ -5628,10 +9303,26 @@ immediately:
   pos:
   - adverb
   level: A2
+immense:
+  pos:
+  - adjective
+  level: C1
 immigrant:
   pos:
   - noun
   level: B1
+immigration:
+  pos:
+  - noun
+  level: B2
+imminent:
+  pos:
+  - adjective
+  level: C1
+immune:
+  pos:
+  - adjective
+  level: B2
 impact:
   level: B1
   pos:
@@ -5640,6 +9331,18 @@ impact:
 impatient:
   pos:
   - adjective
+  level: B2
+implement:
+  pos:
+  - verb
+  level: B2
+implementation:
+  pos:
+  - noun
+  level: C1
+implication:
+  pos:
+  - noun
   level: B2
 imply:
   pos:
@@ -5682,6 +9385,14 @@ impressive:
   pos:
   - adjective
   level: B1
+imprison:
+  pos:
+  - verb
+  level: C1
+imprisonment:
+  pos:
+  - noun
+  level: C1
 improve:
   pos:
   - verb
@@ -5695,14 +9406,38 @@ in:
   pos:
   - adverb
   - preposition
+inability:
+  pos:
+  - noun
+  level: C1
+inadequate:
+  pos:
+  - adjective
+  level: C1
+inappropriate:
+  pos:
+  - adjective
+  level: C1
+incentive:
+  pos:
+  - noun
+  level: B2
 inch:
   pos:
   - noun
   level: B2
+incidence:
+  pos:
+  - noun
+  level: C1
 incident:
   pos:
   - noun
   level: B2
+inclined:
+  pos:
+  - adjective
+  level: C1
 include:
   pos:
   - verb
@@ -5715,9 +9450,21 @@ including:
   pos:
   - preposition
   level: A2
+inclusion:
+  pos:
+  - noun
+  level: C1
 income:
   pos:
   - noun
+  level: B2
+incorporate:
+  pos:
+  - verb
+  level: B2
+incorrect:
+  pos:
+  - adjective
   level: B2
 increase:
   level: A2
@@ -5736,18 +9483,46 @@ incredibly:
   pos:
   - adverb
   level: B1
+incur:
+  pos:
+  - verb
+  level: C1
 indeed:
   pos:
   - adverb
   level: B1
+independence:
+  pos:
+  - noun
+  level: B2
 independent:
   pos:
   - adjective
   level: A2
+index:
+  pos:
+  - noun
+  level: B2
 indicate:
   pos:
   - verb
   level: B1
+indication:
+  pos:
+  - noun
+  level: B2
+indicator:
+  pos:
+  - noun
+  level: C1
+indictment:
+  pos:
+  - noun
+  level: C1
+indigenous:
+  pos:
+  - adjective
+  level: C1
 indirect:
   pos:
   - adjective
@@ -5765,6 +9540,14 @@ indoors:
   pos:
   - adverb
   level: B1
+induce:
+  pos:
+  - verb
+  level: C1
+indulge:
+  pos:
+  - verb
+  level: C1
 industrial:
   pos:
   - adjective
@@ -5773,15 +9556,59 @@ industry:
   pos:
   - noun
   level: A2
+inequality:
+  pos:
+  - noun
+  level: C1
+inevitable:
+  pos:
+  - adjective
+  level: B2
+inevitably:
+  pos:
+  - adverb
+  level: B2
+infamous:
+  pos:
+  - adjective
+  level: C1
+infant:
+  pos:
+  - noun
+  level: C1
+infect:
+  pos:
+  - verb
+  level: C1
 infection:
   pos:
   - noun
   level: B2
+infer:
+  pos:
+  - verb
+  level: B2
+inflation:
+  pos:
+  - noun
+  level: B2
+inflict:
+  pos:
+  - verb
+  level: C1
 influence:
   level: B1
   pos:
   - noun
   - verb
+influential:
+  pos:
+  - adjective
+  level: C1
+info:
+  pos:
+  - noun
+  level: B2
 inform:
   pos:
   - verb
@@ -5794,10 +9621,30 @@ information:
   pos:
   - noun
   level: A1
+infrastructure:
+  pos:
+  - noun
+  level: B2
 ingredient:
   pos:
   - noun
   level: B1
+inhabitant:
+  pos:
+  - noun
+  level: B2
+inherent:
+  pos:
+  - adjective
+  level: C1
+inherit:
+  pos:
+  - verb
+  level: B2
+inhibit:
+  pos:
+  - verb
+  level: C1
 initial:
   pos:
   - adjective
@@ -5806,10 +9653,22 @@ initially:
   pos:
   - adverb
   level: B2
+initiate:
+  pos:
+  - verb
+  level: C1
 initiative:
   pos:
   - noun
   level: B2
+inject:
+  pos:
+  - verb
+  level: C1
+injection:
+  pos:
+  - noun
+  level: C1
 injure:
   pos:
   - verb
@@ -5822,6 +9681,18 @@ injury:
   pos:
   - noun
   level: A2
+injustice:
+  pos:
+  - noun
+  level: C1
+ink:
+  pos:
+  - noun
+  level: B2
+inmate:
+  pos:
+  - noun
+  level: C1
 inner:
   pos:
   - adjective
@@ -5830,6 +9701,18 @@ innocent:
   pos:
   - adjective
   level: B1
+innovation:
+  pos:
+  - noun
+  level: B2
+innovative:
+  pos:
+  - adjective
+  level: B2
+input:
+  pos:
+  - noun
+  level: B2
 inquiry:
   pos:
   - noun
@@ -5838,6 +9721,14 @@ insect:
   pos:
   - noun
   level: A2
+insert:
+  pos:
+  - verb
+  level: B2
+insertion:
+  pos:
+  - noun
+  level: C1
 inside:
   level: A2
   pos:
@@ -5845,6 +9736,10 @@ inside:
   - adverb
   - noun
   - preposition
+insider:
+  pos:
+  - noun
+  level: C1
 insight:
   pos:
   - noun
@@ -5853,6 +9748,22 @@ insist:
   pos:
   - verb
   level: B2
+inspect:
+  pos:
+  - verb
+  level: C1
+inspection:
+  pos:
+  - noun
+  level: C1
+inspector:
+  pos:
+  - noun
+  level: B2
+inspiration:
+  pos:
+  - noun
+  level: C1
 inspire:
   pos:
   - verb
@@ -5861,14 +9772,30 @@ install:
   pos:
   - verb
   level: B2
+installation:
+  pos:
+  - noun
+  level: B2
 instance:
   pos:
   - noun
+  level: B2
+instant:
+  pos:
+  - adjective
+  level: B2
+instantly:
+  pos:
+  - adverb
   level: B2
 instead:
   pos:
   - adverb
   level: A2
+instinct:
+  pos:
+  - noun
+  level: C1
 institute:
   pos:
   - noun
@@ -5877,6 +9804,14 @@ institution:
   pos:
   - noun
   level: B2
+institutional:
+  pos:
+  - adjective
+  level: C1
+instruct:
+  pos:
+  - verb
+  level: C1
 instruction:
   pos:
   - noun
@@ -5889,10 +9824,56 @@ instrument:
   pos:
   - noun
   level: A2
+instrumental:
+  pos:
+  - adjective
+  level: C1
+insufficient:
+  pos:
+  - adjective
+  level: C1
+insult:
+  level: C1
+  pos:
+  - noun
+  - verb
 insurance:
   pos:
   - noun
   level: B2
+intact:
+  pos:
+  - adjective
+  level: C1
+intake:
+  pos:
+  - noun
+  level: C1
+integral:
+  pos:
+  - adjective
+  level: C1
+integrate:
+  pos:
+  - verb
+  level: B2
+integrated:
+  pos:
+  - adjective
+  level: C1
+integration:
+  pos:
+  - noun
+  level: C1
+integrity:
+  pos:
+  - noun
+  level: C1
+intellectual:
+  level: C1
+  pos:
+  - adjective
+  - noun
 intelligence:
   pos:
   - noun
@@ -5913,10 +9894,38 @@ intense:
   pos:
   - adjective
   level: B2
+intensify:
+  pos:
+  - verb
+  level: C1
+intensity:
+  pos:
+  - noun
+  level: C1
+intensive:
+  pos:
+  - adjective
+  level: C1
+intent:
+  pos:
+  - noun
+  level: C1
 intention:
   pos:
   - noun
   level: B1
+interact:
+  pos:
+  - verb
+  level: B2
+interaction:
+  pos:
+  - noun
+  level: B2
+interactive:
+  pos:
+  - adjective
+  level: C1
 interest:
   level: A1
   pos:
@@ -5930,6 +9939,31 @@ interesting:
   pos:
   - adjective
   level: A1
+interface:
+  pos:
+  - noun
+  level: C1
+interfere:
+  pos:
+  - verb
+  level: C1
+interference:
+  pos:
+  - noun
+  level: C1
+interim:
+  pos:
+  - adjective
+  level: C1
+interior:
+  level: C1
+  pos:
+  - adjective
+  - noun
+intermediate:
+  pos:
+  - adjective
+  level: C1
 internal:
   pos:
   - adjective
@@ -5946,19 +9980,43 @@ interpret:
   pos:
   - verb
   level: B2
+interpretation:
+  pos:
+  - noun
+  level: B2
 interrupt:
   pos:
   - verb
   level: B2
+interval:
+  pos:
+  - noun
+  level: B2
+intervene:
+  pos:
+  - verb
+  level: C1
+intervention:
+  pos:
+  - noun
+  level: C1
 interview:
   level: A1
   pos:
   - noun
   - verb
+intimate:
+  pos:
+  - adjective
+  level: C1
 into:
   pos:
   - preposition
   level: A1
+intriguing:
+  pos:
+  - adjective
+  level: C1
 introduce:
   pos:
   - verb
@@ -5967,6 +10025,14 @@ introduction:
   pos:
   - noun
   level: A2
+invade:
+  pos:
+  - verb
+  level: B2
+invasion:
+  pos:
+  - noun
+  level: B2
 invent:
   pos:
   - verb
@@ -5987,10 +10053,22 @@ investigation:
   pos:
   - noun
   level: B2
+investigator:
+  pos:
+  - noun
+  level: C1
 investment:
   pos:
   - noun
   level: B2
+investor:
+  pos:
+  - noun
+  level: B2
+invisible:
+  pos:
+  - adjective
+  level: C1
 invitation:
   pos:
   - noun
@@ -5999,6 +10077,10 @@ invite:
   pos:
   - verb
   level: A2
+invoke:
+  pos:
+  - verb
+  level: C1
 involve:
   pos:
   - verb
@@ -6007,15 +10089,47 @@ involved:
   pos:
   - adjective
   level: B1
+involvement:
+  pos:
+  - noun
+  level: C1
 iron:
   level: B1
   pos:
   - noun
   - verb
+ironic:
+  pos:
+  - adjective
+  level: C1
+ironically:
+  pos:
+  - adverb
+  level: C1
+irony:
+  pos:
+  - noun
+  level: C1
+irrelevant:
+  pos:
+  - adjective
+  level: C1
 island:
   pos:
   - noun
   level: A1
+isolate:
+  pos:
+  - verb
+  level: B2
+isolated:
+  pos:
+  - adjective
+  level: B2
+isolation:
+  pos:
+  - noun
+  level: C1
 issue:
   level: B2
   pos:
@@ -6045,6 +10159,11 @@ jacket:
   pos:
   - noun
   level: A1
+jail:
+  level: B2
+  pos:
+  - noun
+  - verb
 jam:
   pos:
   - noun
@@ -6061,6 +10180,10 @@ jeans:
   pos:
   - noun
   level: A1
+jet:
+  pos:
+  - noun
+  level: B2
 jewellery:
   pos:
   - noun
@@ -6073,6 +10196,11 @@ join:
   pos:
   - verb
   level: A1
+joint:
+  level: B2
+  pos:
+  - adjective
+  - noun
 joke:
   level: A2
   pos:
@@ -6082,6 +10210,10 @@ journal:
   pos:
   - noun
   level: B1
+journalism:
+  pos:
+  - noun
+  level: B2
 journalist:
   pos:
   - noun
@@ -6103,6 +10235,10 @@ judgement:
   pos:
   - noun
   level: B2
+judicial:
+  pos:
+  - adjective
+  level: C1
 juice:
   pos:
   - noun
@@ -6116,6 +10252,10 @@ jump:
   pos:
   - noun
   - verb
+junction:
+  pos:
+  - noun
+  level: C1
 June:
   pos:
   - noun
@@ -6124,14 +10264,27 @@ junior:
   pos:
   - adjective
   level: B2
-just:
+jurisdiction:
   pos:
-  - adverb
+  - noun
+  level: C1
+jury:
+  pos:
+  - noun
+  level: B2
+just:
   level: A1
+  pos:
+  - adjective
+  - adverb
 justice:
   pos:
   - noun
   level: B2
+justification:
+  pos:
+  - noun
+  level: C1
 justify:
   pos:
   - verb
@@ -6163,6 +10316,14 @@ kid:
   pos:
   - noun
   level: A2
+kidnap:
+  pos:
+  - verb
+  level: C1
+kidney:
+  pos:
+  - noun
+  level: C1
 kill:
   pos:
   - verb
@@ -6184,11 +10345,19 @@ king:
   pos:
   - noun
   level: A2
+kingdom:
+  pos:
+  - noun
+  level: C1
 kiss:
   level: B1
   pos:
   - noun
   - verb
+kit:
+  pos:
+  - noun
+  level: B2
 kitchen:
   pos:
   - noun
@@ -6236,6 +10405,14 @@ lack:
   pos:
   - noun
   - verb
+lad:
+  pos:
+  - noun
+  level: C1
+ladder:
+  pos:
+  - noun
+  level: B2
 lady:
   pos:
   - noun
@@ -6253,7 +10430,23 @@ land:
   pos:
   - noun
   - verb
+landing:
+  pos:
+  - noun
+  level: B2
+landlord:
+  pos:
+  - noun
+  level: C1
+landmark:
+  pos:
+  - noun
+  level: C1
 landscape:
+  pos:
+  - noun
+  level: B2
+lane:
   pos:
   - noun
   level: B2
@@ -6261,6 +10454,10 @@ language:
   pos:
   - noun
   level: A1
+lap:
+  pos:
+  - noun
+  level: C1
 laptop:
   pos:
   - noun
@@ -6269,10 +10466,18 @@ large:
   pos:
   - adjective
   level: A1
+large-scale:
+  pos:
+  - adjective
+  level: C1
 largely:
   pos:
   - adverb
   level: B2
+laser:
+  pos:
+  - noun
+  level: C1
 last:
   level: A2
   pos:
@@ -6285,6 +10490,10 @@ late:
   pos:
   - adjective
   - adverb
+lately:
+  pos:
+  - adverb
+  level: B2
 later:
   level: A1
   pos:
@@ -6292,6 +10501,11 @@ later:
   - adverb
 latest:
   level: B2
+  pos:
+  - adjective
+  - noun
+latter:
+  level: C1
   pos:
   - adjective
   - noun
@@ -6313,6 +10527,14 @@ law:
   pos:
   - noun
   level: A2
+lawn:
+  pos:
+  - noun
+  level: C1
+lawsuit:
+  pos:
+  - noun
+  level: C1
 lawyer:
   pos:
   - noun
@@ -6325,6 +10547,10 @@ layer:
   pos:
   - noun
   level: B1
+layout:
+  pos:
+  - noun
+  level: C1
 lazy:
   pos:
   - adjective
@@ -6350,14 +10576,28 @@ leaf:
   pos:
   - noun
   level: B1
+leaflet:
+  pos:
+  - noun
+  level: B2
 league:
   pos:
   - noun
   level: B2
+leak:
+  level: C1
+  pos:
+  - noun
+  - verb
 lean:
   pos:
   - verb
   level: B2
+leap:
+  level: C1
+  pos:
+  - noun
+  - verb
 learn:
   pos:
   - verb
@@ -6396,10 +10636,38 @@ leg:
   pos:
   - noun
   level: A1
+legacy:
+  pos:
+  - noun
+  level: C1
 legal:
   pos:
   - adjective
   level: B1
+legend:
+  pos:
+  - noun
+  level: B2
+legendary:
+  pos:
+  - adjective
+  level: C1
+legislation:
+  pos:
+  - noun
+  level: C1
+legislative:
+  pos:
+  - adjective
+  level: C1
+legislature:
+  pos:
+  - noun
+  level: C1
+legitimate:
+  pos:
+  - adjective
+  level: C1
 leisure:
   pos:
   - noun
@@ -6416,12 +10684,28 @@ length:
   pos:
   - noun
   level: B1
+lengthy:
+  pos:
+  - adjective
+  level: C1
+lens:
+  pos:
+  - noun
+  level: B2
+lesbian:
+  pos:
+  - adjective
+  level: C1
 less:
   level: A2
   pos:
   - adverb
   - determiner
   - pronoun
+lesser:
+  pos:
+  - adjective
+  level: C1
 lesson:
   pos:
   - noun
@@ -6430,6 +10714,10 @@ let:
   pos:
   - verb
   level: A1
+lethal:
+  pos:
+  - adjective
+  level: C1
 letter:
   pos:
   - noun
@@ -6440,6 +10728,23 @@ level:
   - adjective
   - noun
   - verb
+liable:
+  pos:
+  - adjective
+  level: C1
+liberal:
+  level: C1
+  pos:
+  - adjective
+  - noun
+liberation:
+  pos:
+  - noun
+  level: C1
+liberty:
+  pos:
+  - noun
+  level: C1
 library:
   pos:
   - noun
@@ -6448,6 +10753,10 @@ licence:
   pos:
   - noun
   level: B2
+license:
+  pos:
+  - verb
+  level: C1
 lie:
   level: B1
   pos:
@@ -6458,10 +10767,18 @@ life:
   pos:
   - noun
   level: A1
+lifelong:
+  pos:
+  - adjective
+  level: C1
 lifestyle:
   pos:
   - noun
   level: A2
+lifetime:
+  pos:
+  - noun
+  level: B2
 lift:
   level: A2
   pos:
@@ -6473,21 +10790,41 @@ light:
   - adjective
   - noun
   - verb
+lighting:
+  pos:
+  - noun
+  level: B2
 like:
   level: A1
   pos:
   - noun
   - preposition
   - verb
+likelihood:
+  pos:
+  - noun
+  level: C1
 likely:
   pos:
   - adjective
   level: A2
+likewise:
+  pos:
+  - adverb
+  level: B2
+limb:
+  pos:
+  - noun
+  level: C1
 limit:
   level: B1
   pos:
   - noun
   - verb
+limitation:
+  pos:
+  - noun
+  level: B2
 limited:
   pos:
   - adjective
@@ -6497,6 +10834,18 @@ line:
   pos:
   - noun
   - verb
+line-up:
+  pos:
+  - noun
+  level: C1
+linear:
+  pos:
+  - adjective
+  level: C1
+linger:
+  pos:
+  - verb
+  level: C1
 link:
   level: A2
   pos:
@@ -6528,10 +10877,34 @@ listener:
   pos:
   - noun
   level: A2
+listing:
+  pos:
+  - noun
+  level: C1
+literacy:
+  pos:
+  - noun
+  level: C1
+literally:
+  pos:
+  - adverb
+  level: B2
+literary:
+  pos:
+  - adjective
+  level: B2
 literature:
   pos:
   - noun
   level: B1
+litre:
+  pos:
+  - noun
+  level: B2
+litter:
+  pos:
+  - noun
+  level: B2
 little:
   level: A1
   pos:
@@ -6549,6 +10922,10 @@ lively:
   pos:
   - adjective
   level: B2
+liver:
+  pos:
+  - noun
+  level: C1
 living:
   level: B1
   pos:
@@ -6563,6 +10940,11 @@ loan:
   pos:
   - noun
   level: B2
+lobby:
+  level: C1
+  pos:
+  - noun
+  - verb
 local:
   level: B1
   pos:
@@ -6585,28 +10967,58 @@ lock:
   pos:
   - noun
   - verb
+log:
+  level: C1
+  pos:
+  - noun
+  - verb
+logic:
+  pos:
+  - noun
+  level: C1
 logical:
   pos:
   - adjective
+  level: B2
+logo:
+  pos:
+  - noun
   level: B2
 lonely:
   pos:
   - adjective
   level: B1
 long:
+  level: A1
+  pos:
+  - adjective
+  - adverb
+long-standing:
+  pos:
+  - adjective
+  level: C1
+long-term:
   level: B2
   pos:
   - adjective
   - adverb
-  - term
+long-time:
+  pos:
   - adjective
-  - term
-  - adverb
+  level: C1
 look:
   level: A1
   pos:
   - noun
   - verb
+loom:
+  pos:
+  - verb
+  level: C1
+loop:
+  pos:
+  - noun
+  level: C1
 loose:
   pos:
   - adjective
@@ -6637,6 +11049,10 @@ lot:
   - adverb
   - determiner
   - pronoun
+lottery:
+  pos:
+  - noun
+  level: B2
 loud:
   level: A2
   pos:
@@ -6665,6 +11081,14 @@ lower:
   pos:
   - verb
   level: B2
+loyal:
+  pos:
+  - adjective
+  level: B2
+loyalty:
+  pos:
+  - noun
+  level: C1
 luck:
   pos:
   - noun
@@ -6686,10 +11110,18 @@ luxury:
   pos:
   - adjective
   - noun
+lyric:
+  pos:
+  - noun
+  level: B2
 machine:
   pos:
   - noun
   level: A1
+machinery:
+  pos:
+  - noun
+  level: C1
 mad:
   pos:
   - adjective
@@ -6703,6 +11135,26 @@ magic:
   pos:
   - adjective
   - noun
+magical:
+  pos:
+  - adjective
+  level: C1
+magistrate:
+  pos:
+  - noun
+  level: C1
+magnetic:
+  pos:
+  - adjective
+  level: C1
+magnificent:
+  pos:
+  - adjective
+  level: B2
+magnitude:
+  pos:
+  - noun
+  level: C1
 mail:
   level: A2
   pos:
@@ -6712,14 +11164,27 @@ main:
   pos:
   - adjective
   level: A1
+mainland:
+  pos:
+  - noun
+  level: C1
 mainly:
   pos:
   - adverb
   level: B1
+mainstream:
+  level: C1
+  pos:
+  - adjective
+  - noun
 maintain:
   pos:
   - verb
   level: B2
+maintenance:
+  pos:
+  - noun
+  level: C1
 major:
   pos:
   - adjective
@@ -6733,6 +11198,14 @@ make:
   pos:
   - noun
   - verb
+make-up:
+  pos:
+  - noun
+  level: B2
+making:
+  pos:
+  - noun
+  level: B2
 male:
   level: A2
   pos:
@@ -6758,10 +11231,42 @@ manager:
   pos:
   - noun
   level: A2
+mandate:
+  pos:
+  - noun
+  level: C1
+mandatory:
+  pos:
+  - adjective
+  level: C1
+manifest:
+  pos:
+  - verb
+  level: C1
+manipulate:
+  pos:
+  - verb
+  level: C1
+manipulation:
+  pos:
+  - noun
+  level: C1
 manner:
   pos:
   - noun
   level: A2
+manufacture:
+  pos:
+  - verb
+  level: B2
+manufacturing:
+  pos:
+  - noun
+  level: B2
+manuscript:
+  pos:
+  - noun
+  level: C1
 many:
   level: A1
   pos:
@@ -6772,15 +11277,40 @@ map:
   pos:
   - noun
   - verb
+marathon:
+  pos:
+  - noun
+  level: B2
 March:
   pos:
   - noun
   level: A1
+march:
+  level: C1
+  pos:
+  - noun
+  - verb
+margin:
+  pos:
+  - noun
+  level: B2
+marginal:
+  pos:
+  - adjective
+  level: C1
+marine:
+  pos:
+  - adjective
+  level: C1
 mark:
   level: A2
   pos:
   - noun
   - verb
+marker:
+  pos:
+  - noun
+  level: B2
 market:
   level: B1
   pos:
@@ -6790,6 +11320,10 @@ marketing:
   pos:
   - noun
   level: B1
+marketplace:
+  pos:
+  - noun
+  level: C1
 marriage:
   pos:
   - noun
@@ -6802,11 +11336,23 @@ marry:
   pos:
   - verb
   level: A2
+martial:
+  pos:
+  - adjective
+  level: B2
+mask:
+  pos:
+  - noun
+  level: C1
 mass:
   level: B2
   pos:
   - adjective
   - noun
+massacre:
+  pos:
+  - noun
+  level: C1
 massive:
   pos:
   - adjective
@@ -6825,11 +11371,20 @@ matching:
   pos:
   - adjective
   level: B2
+mate:
+  level: B2
+  pos:
+  - noun
+  - verb
 material:
   level: A2
   pos:
   - adjective
   - noun
+mathematical:
+  pos:
+  - adjective
+  level: C1
 mathematics:
   pos:
   - noun
@@ -6843,6 +11398,15 @@ matter:
   pos:
   - noun
   - verb
+mature:
+  level: C1
+  pos:
+  - adjective
+  - verb
+maximize:
+  pos:
+  - verb
+  level: C1
 maximum:
   level: B2
   pos:
@@ -6861,6 +11425,10 @@ maybe:
   pos:
   - adverb
   level: A1
+mayor:
+  pos:
+  - noun
+  level: B2
 me:
   pos:
   - pronoun
@@ -6877,10 +11445,18 @@ meaning:
   pos:
   - noun
   level: A1
+meaningful:
+  pos:
+  - adjective
+  level: C1
 means:
   pos:
   - noun
   level: B2
+meantime:
+  pos:
+  - noun
+  level: C1
 meanwhile:
   pos:
   - adverb
@@ -6898,6 +11474,22 @@ meat:
   pos:
   - noun
   level: A1
+mechanic:
+  pos:
+  - noun
+  level: B2
+mechanical:
+  pos:
+  - adjective
+  level: B2
+mechanism:
+  pos:
+  - noun
+  level: B2
+medal:
+  pos:
+  - noun
+  level: B2
 media:
   pos:
   - noun
@@ -6906,10 +11498,22 @@ medical:
   pos:
   - adjective
   level: A2
+medication:
+  pos:
+  - noun
+  level: B2
 medicine:
   pos:
   - noun
   level: A2
+medieval:
+  pos:
+  - adjective
+  level: C1
+meditation:
+  pos:
+  - noun
+  level: C1
 medium:
   level: B2
   pos:
@@ -6923,6 +11527,10 @@ meeting:
   pos:
   - noun
   level: A1
+melody:
+  pos:
+  - noun
+  level: C1
 melt:
   pos:
   - verb
@@ -6931,6 +11539,26 @@ member:
   pos:
   - noun
   level: A1
+membership:
+  pos:
+  - noun
+  level: B2
+memo:
+  pos:
+  - noun
+  level: C1
+memoir:
+  pos:
+  - noun
+  level: C1
+memorable:
+  pos:
+  - adjective
+  level: B2
+memorial:
+  pos:
+  - noun
+  level: C1
 memory:
   pos:
   - noun
@@ -6944,10 +11572,42 @@ mention:
   pos:
   - noun
   - verb
+mentor:
+  pos:
+  - noun
+  level: C1
 menu:
   pos:
   - noun
   level: A1
+merchant:
+  pos:
+  - noun
+  level: C1
+mercy:
+  pos:
+  - noun
+  level: C1
+mere:
+  pos:
+  - adjective
+  level: C1
+merely:
+  pos:
+  - adverb
+  level: C1
+merge:
+  pos:
+  - verb
+  level: C1
+merger:
+  pos:
+  - noun
+  level: C1
+merit:
+  pos:
+  - noun
+  level: C1
 mess:
   pos:
   - noun
@@ -6960,10 +11620,18 @@ metal:
   pos:
   - noun
   level: A2
+metaphor:
+  pos:
+  - noun
+  level: B2
 method:
   pos:
   - noun
   level: A2
+methodology:
+  pos:
+  - noun
+  level: C1
 metre:
   pos:
   - noun
@@ -6977,11 +11645,19 @@ midnight:
   pos:
   - noun
   level: A1
+midst:
+  pos:
+  - noun
+  level: C1
 might:
   pos:
   - modal
   - verb
   level: A2
+migration:
+  pos:
+  - noun
+  level: C1
 mild:
   pos:
   - adjective
@@ -6990,15 +11666,28 @@ mile:
   pos:
   - noun
   level: A1
+militant:
+  level: C1
+  pos:
+  - adjective
+  - noun
 military:
   level: B2
   pos:
   - adjective
   - noun
+militia:
+  pos:
+  - noun
+  level: C1
 milk:
   pos:
   - noun
   level: A1
+mill:
+  pos:
+  - noun
+  level: C1
 million:
   pos:
   - number
@@ -7013,19 +11702,39 @@ mine:
   pos:
   - noun
   - pronoun
+miner:
+  pos:
+  - noun
+  level: B2
 mineral:
   pos:
   - noun
   level: B2
+minimal:
+  pos:
+  - adjective
+  level: C1
+minimize:
+  pos:
+  - verb
+  level: C1
 minimum:
   level: B2
   pos:
   - adjective
   - noun
+mining:
+  pos:
+  - noun
+  level: C1
 minister:
   pos:
   - noun
   level: B2
+ministry:
+  pos:
+  - noun
+  level: C1
 minor:
   pos:
   - adjective
@@ -7035,17 +11744,38 @@ minority:
   - noun
   level: B2
 minute:
+  level: A1
+  pos:
+  - adjective
+  - noun
+miracle:
   pos:
   - noun
-  level: A1
+  level: C1
 mirror:
   pos:
   - noun
   level: A2
+miserable:
+  pos:
+  - adjective
+  level: B2
+misery:
+  pos:
+  - noun
+  level: C1
+misleading:
+  pos:
+  - adjective
+  level: C1
 miss:
   pos:
   - verb
   level: A1
+missile:
+  pos:
+  - noun
+  level: C1
 missing:
   pos:
   - adjective
@@ -7072,20 +11802,48 @@ mixture:
   pos:
   - noun
   level: B1
+mob:
+  pos:
+  - noun
+  level: C1
 mobile:
   level: A2
   pos:
   - adjective
   - noun
+mobility:
+  pos:
+  - noun
+  level: C1
+mobilize:
+  pos:
+  - verb
+  level: C1
+mode:
+  pos:
+  - noun
+  level: B2
 model:
   level: B2
   pos:
   - noun
   - verb
+moderate:
+  pos:
+  - adjective
+  level: C1
 modern:
   pos:
   - adjective
   level: A1
+modest:
+  pos:
+  - adjective
+  level: B2
+modification:
+  pos:
+  - noun
+  level: C1
 modify:
   pos:
   - verb
@@ -7094,6 +11852,10 @@ moment:
   pos:
   - noun
   level: A1
+momentum:
+  pos:
+  - noun
+  level: C1
 Monday:
   pos:
   - noun
@@ -7107,14 +11869,34 @@ monitor:
   pos:
   - noun
   - verb
+monk:
+  pos:
+  - noun
+  level: C1
 monkey:
   pos:
   - noun
   level: A2
+monopoly:
+  pos:
+  - noun
+  level: C1
+monster:
+  pos:
+  - noun
+  level: B2
 month:
   pos:
   - noun
   level: A1
+monthly:
+  pos:
+  - adjective
+  level: B2
+monument:
+  pos:
+  - noun
+  level: B2
 mood:
   pos:
   - noun
@@ -7128,16 +11910,32 @@ moral:
   pos:
   - adjective
   - noun
+morality:
+  pos:
+  - noun
+  level: C1
 more:
   level: A1
   pos:
   - adverb
   - determiner
   - pronoun
+moreover:
+  pos:
+  - adverb
+  level: B2
 morning:
   pos:
   - noun
   level: A1
+mortgage:
+  pos:
+  - noun
+  level: B2
+mosque:
+  pos:
+  - noun
+  level: B2
 most:
   level: A1
   pos:
@@ -7152,6 +11950,22 @@ mother:
   pos:
   - noun
   level: A1
+motion:
+  pos:
+  - noun
+  level: B2
+motivate:
+  pos:
+  - verb
+  level: B2
+motivation:
+  pos:
+  - noun
+  level: B2
+motive:
+  pos:
+  - noun
+  level: C1
 motor:
   level: B2
   pos:
@@ -7161,6 +11975,10 @@ motorcycle:
   pos:
   - noun
   level: A2
+motorist:
+  pos:
+  - noun
+  level: C1
 mount:
   pos:
   - verb
@@ -7190,6 +12008,10 @@ movie:
   pos:
   - noun
   level: A1
+moving:
+  pos:
+  - adjective
+  level: B2
 much:
   level: A1
   pos:
@@ -7212,6 +12034,10 @@ mum:
   pos:
   - noun
   level: A1
+municipal:
+  pos:
+  - adjective
+  level: C1
 murder:
   level: B1
   pos:
@@ -7243,6 +12069,10 @@ must:
   - modal
   - verb
   level: A1
+mutual:
+  pos:
+  - adjective
+  level: C1
 my:
   pos:
   - determiner
@@ -7259,15 +12089,27 @@ mystery:
   pos:
   - noun
   level: B1
+myth:
+  pos:
+  - noun
+  level: B2
 nail:
   pos:
   - noun
   level: B1
+naked:
+  pos:
+  - adjective
+  level: B2
 name:
   level: A1
   pos:
   - noun
   - verb
+namely:
+  pos:
+  - adverb
+  level: C1
 narrative:
   level: B1
   pos:
@@ -7278,6 +12120,10 @@ narrow:
   pos:
   - adjective
   - verb
+nasty:
+  pos:
+  - adjective
+  level: B2
 nation:
   pos:
   - noun
@@ -7287,6 +12133,10 @@ national:
   pos:
   - adjective
   - noun
+nationwide:
+  pos:
+  - adjective
+  level: C1
 native:
   level: B1
   pos:
@@ -7304,12 +12154,25 @@ nature:
   pos:
   - noun
   level: A2
+naval:
+  pos:
+  - adjective
+  level: C1
+navigation:
+  pos:
+  - noun
+  level: B2
 near:
   level: A1
   pos:
   - adjective
   - adverb
   - preposition
+nearby:
+  level: B2
+  pos:
+  - adjective
+  - adverb
 nearly:
   pos:
   - adverb
@@ -7326,6 +12189,10 @@ necessary:
   pos:
   - adjective
   level: A2
+necessity:
+  pos:
+  - noun
+  level: B2
 neck:
   pos:
   - noun
@@ -7346,6 +12213,19 @@ negative:
   pos:
   - adjective
   - noun
+neglect:
+  level: C1
+  pos:
+  - noun
+  - verb
+negotiate:
+  pos:
+  - verb
+  level: B2
+negotiation:
+  pos:
+  - noun
+  level: B2
 neighbour:
   pos:
   - noun
@@ -7354,6 +12234,10 @@ neighbourhood:
   pos:
   - noun
   level: B1
+neighbouring:
+  pos:
+  - adjective
+  level: C1
 neither:
   level: A2
   pos:
@@ -7368,14 +12252,23 @@ nervous:
   pos:
   - adjective
   level: A2
-net:
+nest:
   pos:
   - noun
+  level: C1
+net:
   level: B1
+  pos:
+  - adjective
+  - noun
 network:
   pos:
   - noun
   level: A2
+neutral:
+  pos:
+  - adjective
+  level: B2
 never:
   pos:
   - adverb
@@ -7388,10 +12281,18 @@ new:
   pos:
   - adjective
   level: A1
+newly:
+  pos:
+  - adverb
+  level: B2
 news:
   pos:
   - noun
   level: A1
+newsletter:
+  pos:
+  - noun
+  level: C1
 newspaper:
   pos:
   - noun
@@ -7410,6 +12311,10 @@ nice:
   pos:
   - adjective
   level: A1
+niche:
+  pos:
+  - noun
+  level: C1
 night:
   pos:
   - noun
@@ -7439,10 +12344,18 @@ no one:
   pos:
   - pronoun
   level: A1
+noble:
+  pos:
+  - adjective
+  level: C1
 nobody:
   pos:
   - pronoun
   level: A1
+nod:
+  pos:
+  - verb
+  level: C1
 noise:
   pos:
   - noun
@@ -7451,15 +12364,47 @@ noisy:
   pos:
   - adjective
   level: A2
+nominate:
+  pos:
+  - verb
+  level: C1
+nomination:
+  pos:
+  - noun
+  level: C1
+nominee:
+  pos:
+  - noun
+  level: C1
+non-profit:
+  pos:
+  - adjective
+  level: C1
 none:
   pos:
   - pronoun
   level: A2
+nonetheless:
+  pos:
+  - adverb
+  level: C1
+nonsense:
+  pos:
+  - noun
+  level: C1
+noon:
+  pos:
+  - noun
+  level: C1
 nor:
   level: B1
   pos:
   - adverb
   - conjunction
+norm:
+  pos:
+  - noun
+  level: B2
 normal:
   level: B1
   pos:
@@ -7487,11 +12432,23 @@ not:
   pos:
   - adverb
   level: A1
+notable:
+  pos:
+  - adjective
+  level: C1
+notably:
+  pos:
+  - adverb
+  level: C1
 note:
   level: B1
   pos:
   - noun
   - verb
+notebook:
+  pos:
+  - noun
+  level: B2
 nothing:
   pos:
   - pronoun
@@ -7501,14 +12458,27 @@ notice:
   pos:
   - noun
   - verb
+notify:
+  pos:
+  - verb
+  level: C1
 notion:
   pos:
   - noun
   level: B2
+notorious:
+  pos:
+  - adjective
+  level: C1
 novel:
+  level: A2
+  pos:
+  - adjective
+  - noun
+novelist:
   pos:
   - noun
-  level: A2
+  level: B2
 November:
   pos:
   - noun
@@ -7518,6 +12488,10 @@ now:
   pos:
   - adverb
   - conjunction
+nowadays:
+  pos:
+  - adverb
+  level: B2
 nowhere:
   pos:
   - adverb
@@ -7539,14 +12513,30 @@ nurse:
   pos:
   - noun
   level: A1
+nursery:
+  pos:
+  - noun
+  level: C1
+nursing:
+  pos:
+  - noun
+  level: B2
 nut:
   pos:
   - noun
   level: A2
+nutrition:
+  pos:
+  - noun
+  level: B2
 o'clock:
   pos:
   - adverb
   level: A1
+obesity:
+  pos:
+  - noun
+  level: B2
 obey:
   pos:
   - verb
@@ -7556,6 +12546,10 @@ object:
   pos:
   - noun
   - verb
+objection:
+  pos:
+  - noun
+  level: C1
 objective:
   level: B2
   pos:
@@ -7565,6 +12559,10 @@ obligation:
   pos:
   - noun
   level: B2
+oblige:
+  pos:
+  - verb
+  level: C1
 observation:
   pos:
   - noun
@@ -7572,6 +12570,22 @@ observation:
 observe:
   pos:
   - verb
+  level: B2
+observer:
+  pos:
+  - noun
+  level: B2
+obsess:
+  pos:
+  - verb
+  level: C1
+obsession:
+  pos:
+  - noun
+  level: C1
+obstacle:
+  pos:
+  - noun
   level: B2
 obtain:
   pos:
@@ -7589,14 +12603,30 @@ occasion:
   pos:
   - noun
   level: B1
+occasional:
+  pos:
+  - adjective
+  level: C1
 occasionally:
   pos:
   - adverb
+  level: B2
+occupation:
+  pos:
+  - noun
+  level: B2
+occupy:
+  pos:
+  - verb
   level: B2
 occur:
   pos:
   - verb
   level: B1
+occurrence:
+  pos:
+  - noun
+  level: C1
 ocean:
   pos:
   - noun
@@ -7609,6 +12639,10 @@ odd:
   pos:
   - adjective
   level: B1
+odds:
+  pos:
+  - noun
+  level: C1
 of:
   pos:
   - preposition
@@ -7626,6 +12660,10 @@ offend:
   pos:
   - verb
   level: B2
+offender:
+  pos:
+  - noun
+  level: B2
 offensive:
   pos:
   - adjective
@@ -7635,6 +12673,10 @@ offer:
   pos:
   - noun
   - verb
+offering:
+  pos:
+  - noun
+  level: C1
 office:
   pos:
   - noun
@@ -7648,6 +12690,10 @@ official:
   pos:
   - adjective
   - noun
+offspring:
+  pos:
+  - noun
+  level: C1
 often:
   pos:
   - adverb
@@ -7670,7 +12716,7 @@ old:
   pos:
   - adjective
   level: A1
-old fashioned:
+old-fashioned:
   pos:
   - adjective
   level: B1
@@ -7690,6 +12736,10 @@ one:
   - determiner
   - number
   - pronoun
+ongoing:
+  pos:
+  - adjective
+  level: B2
 onion:
   pos:
   - noun
@@ -7717,6 +12767,14 @@ opening:
   pos:
   - noun
   level: B2
+openly:
+  pos:
+  - adverb
+  level: B2
+opera:
+  pos:
+  - noun
+  level: B2
 operate:
   pos:
   - verb
@@ -7725,6 +12783,14 @@ operation:
   pos:
   - noun
   level: B1
+operational:
+  pos:
+  - adjective
+  level: C1
+operator:
+  pos:
+  - noun
+  level: B2
 opinion:
   pos:
   - noun
@@ -7756,6 +12822,22 @@ opposition:
   pos:
   - noun
   level: B2
+opt:
+  pos:
+  - verb
+  level: C1
+optical:
+  pos:
+  - adjective
+  level: C1
+optimism:
+  pos:
+  - noun
+  level: C1
+optimistic:
+  pos:
+  - adjective
+  level: B2
 option:
   pos:
   - noun
@@ -7764,11 +12846,19 @@ or:
   pos:
   - conjunction
   level: A1
+oral:
+  pos:
+  - adjective
+  level: C1
 orange:
   level: A1
   pos:
   - adjective
   - noun
+orchestra:
+  pos:
+  - noun
+  level: B2
 order:
   level: A1
   pos:
@@ -7782,10 +12872,18 @@ organ:
   pos:
   - noun
   level: B2
+organic:
+  pos:
+  - adjective
+  level: B2
 organization:
   pos:
   - noun
   level: A2
+organizational:
+  pos:
+  - adjective
+  level: C1
 organize:
   pos:
   - verb
@@ -7798,6 +12896,10 @@ organizer:
   pos:
   - noun
   level: B1
+orientation:
+  pos:
+  - noun
+  level: C1
 origin:
   pos:
   - noun
@@ -7811,6 +12913,10 @@ originally:
   pos:
   - adverb
   level: B1
+originate:
+  pos:
+  - verb
+  level: C1
 other:
   level: A1
   pos:
@@ -7842,6 +12948,10 @@ out:
   pos:
   - adverb
   - preposition
+outbreak:
+  pos:
+  - noun
+  level: C1
 outcome:
   pos:
   - noun
@@ -7858,8 +12968,33 @@ outer:
   pos:
   - adjective
   level: B2
+outfit:
+  pos:
+  - noun
+  level: B2
+outing:
+  pos:
+  - noun
+  level: C1
+outlet:
+  pos:
+  - noun
+  level: C1
 outline:
   level: B2
+  pos:
+  - noun
+  - verb
+outlook:
+  pos:
+  - noun
+  level: C1
+output:
+  pos:
+  - noun
+  level: B2
+outrage:
+  level: C1
   pos:
   - noun
   - verb
@@ -7870,6 +13005,14 @@ outside:
   - adverb
   - noun
   - preposition
+outsider:
+  pos:
+  - noun
+  level: C1
+outstanding:
+  pos:
+  - adjective
+  level: B2
 oven:
   pos:
   - noun
@@ -7884,6 +13027,43 @@ overall:
   pos:
   - adjective
   - adverb
+overcome:
+  pos:
+  - verb
+  level: B2
+overlook:
+  pos:
+  - verb
+  level: C1
+overly:
+  pos:
+  - adverb
+  level: C1
+overnight:
+  pos:
+  - adverb
+  level: B2
+overseas:
+  level: B2
+  pos:
+  - adjective
+  - adverb
+oversee:
+  pos:
+  - verb
+  level: C1
+overturn:
+  pos:
+  - verb
+  level: C1
+overwhelm:
+  pos:
+  - verb
+  level: C1
+overwhelming:
+  pos:
+  - adjective
+  level: C1
 owe:
   pos:
   - verb
@@ -7898,6 +13078,14 @@ owner:
   pos:
   - noun
   level: A2
+ownership:
+  pos:
+  - noun
+  level: B2
+oxygen:
+  pos:
+  - noun
+  level: B2
 pace:
   level: B2
   pos:
@@ -7913,6 +13101,14 @@ package:
   pos:
   - noun
   - verb
+packet:
+  pos:
+  - noun
+  level: B2
+pad:
+  pos:
+  - noun
+  level: C1
 page:
   pos:
   - noun
@@ -7950,11 +13146,19 @@ pale:
   pos:
   - adjective
   level: B1
+palm:
+  pos:
+  - noun
+  level: B2
 pan:
   pos:
   - noun
   level: B1
 panel:
+  pos:
+  - noun
+  level: B2
+panic:
   pos:
   - noun
   level: B2
@@ -7966,14 +13170,35 @@ paper:
   pos:
   - noun
   level: A1
+parade:
+  pos:
+  - noun
+  level: B2
 paragraph:
   pos:
   - noun
   level: A1
+parallel:
+  level: B2
+  pos:
+  - adjective
+  - noun
+parameter:
+  pos:
+  - noun
+  level: C1
 parent:
   pos:
   - noun
   level: A1
+parental:
+  pos:
+  - adjective
+  level: C1
+parish:
+  pos:
+  - noun
+  level: C1
 park:
   level: A1
   pos:
@@ -7987,10 +13212,26 @@ parliament:
   pos:
   - noun
   level: B2
+parliamentary:
+  pos:
+  - adjective
+  level: C1
 part:
   pos:
   - noun
   level: A1
+part-time:
+  pos:
+  - adjective
+  level: B2
+partial:
+  pos:
+  - adjective
+  level: C1
+partially:
+  pos:
+  - adverb
+  level: C1
 participant:
   pos:
   - noun
@@ -7999,6 +13240,10 @@ participate:
   pos:
   - verb
   level: B1
+participation:
+  pos:
+  - noun
+  level: B2
 particular:
   pos:
   - adjective
@@ -8015,6 +13260,10 @@ partner:
   pos:
   - noun
   level: A1
+partnership:
+  pos:
+  - noun
+  level: B2
 party:
   pos:
   - noun
@@ -8032,14 +13281,30 @@ passenger:
   pos:
   - noun
   level: A2
+passing:
+  pos:
+  - noun
+  level: C1
 passion:
   pos:
   - noun
   level: B1
+passionate:
+  pos:
+  - adjective
+  level: B2
+passive:
+  pos:
+  - adjective
+  level: C1
 passport:
   pos:
   - noun
   level: A1
+password:
+  pos:
+  - noun
+  level: B2
 past:
   level: A1
   pos:
@@ -8047,19 +13312,53 @@ past:
   - adverb
   - noun
   - preposition
+pastor:
+  pos:
+  - noun
+  level: C1
+patch:
+  pos:
+  - noun
+  level: C1
+patent:
+  pos:
+  - noun
+  level: C1
 path:
   pos:
   - noun
   level: B1
+pathway:
+  pos:
+  - noun
+  level: C1
+patience:
+  pos:
+  - noun
+  level: B2
 patient:
   level: A2
   pos:
   - adjective
   - noun
+patrol:
+  level: C1
+  pos:
+  - noun
+  - verb
+patron:
+  pos:
+  - noun
+  level: C1
 pattern:
   pos:
   - noun
   level: A2
+pause:
+  level: B2
+  pos:
+  - noun
+  - verb
 pay:
   level: A1
   pos:
@@ -8077,10 +13376,30 @@ peaceful:
   pos:
   - adjective
   level: B1
+peak:
+  pos:
+  - noun
+  level: C1
+peasant:
+  pos:
+  - noun
+  level: C1
+peculiar:
+  pos:
+  - adjective
+  level: C1
+peer:
+  pos:
+  - noun
+  level: B2
 pen:
   pos:
   - noun
   level: A1
+penalty:
+  pos:
+  - noun
+  level: B2
 pencil:
   pos:
   - noun
@@ -8111,10 +13430,18 @@ percent:
   - adjective
   - adverb
   - noun
+perceive:
+  pos:
+  - verb
+  level: B2
 percentage:
   pos:
   - noun
   level: B1
+perception:
+  pos:
+  - noun
+  level: B2
 perfect:
   pos:
   - adjective
@@ -8143,6 +13470,10 @@ permanent:
   pos:
   - adjective
   level: B2
+permanently:
+  pos:
+  - adverb
+  level: B2
 permission:
   pos:
   - noun
@@ -8152,6 +13483,14 @@ permit:
   pos:
   - noun
   - verb
+persist:
+  pos:
+  - verb
+  level: C1
+persistent:
+  pos:
+  - adjective
+  level: C1
 person:
   pos:
   - noun
@@ -8168,6 +13507,10 @@ personally:
   pos:
   - adverb
   level: B1
+personnel:
+  pos:
+  - noun
+  level: C1
 perspective:
   pos:
   - noun
@@ -8180,6 +13523,10 @@ pet:
   pos:
   - noun
   level: A2
+petition:
+  pos:
+  - noun
+  level: C1
 petrol:
   pos:
   - noun
@@ -8192,6 +13539,14 @@ phenomenon:
   pos:
   - noun
   level: B2
+philosopher:
+  pos:
+  - noun
+  level: C1
+philosophical:
+  pos:
+  - adjective
+  level: C1
 philosophy:
   pos:
   - noun
@@ -8226,6 +13581,10 @@ physical:
   pos:
   - adjective
   level: A2
+physician:
+  pos:
+  - noun
+  level: C1
 physics:
   pos:
   - noun
@@ -8257,6 +13616,10 @@ pile:
   pos:
   - noun
   - verb
+pill:
+  pos:
+  - noun
+  level: B2
 pilot:
   pos:
   - noun
@@ -8271,11 +13634,32 @@ pink:
   pos:
   - adjective
   - noun
+pioneer:
+  level: C1
+  pos:
+  - noun
+  - verb
 pipe:
   pos:
   - noun
   level: B1
+pipeline:
+  pos:
+  - noun
+  level: C1
+pirate:
+  pos:
+  - noun
+  level: C1
+pit:
+  pos:
+  - noun
+  level: C1
 pitch:
+  pos:
+  - noun
+  level: B2
+pity:
   pos:
   - noun
   level: B2
@@ -8284,6 +13668,10 @@ place:
   pos:
   - noun
   - verb
+placement:
+  pos:
+  - noun
+  level: B2
 plain:
   pos:
   - adjective
@@ -8332,6 +13720,14 @@ player:
   pos:
   - noun
   level: A1
+plea:
+  pos:
+  - noun
+  level: C1
+plead:
+  pos:
+  - verb
+  level: C1
 pleasant:
   pos:
   - adjective
@@ -8349,6 +13745,11 @@ pleasure:
   pos:
   - noun
   level: B1
+pledge:
+  level: C1
+  pos:
+  - noun
+  - verb
 plenty:
   pos:
   - pronoun
@@ -8358,6 +13759,15 @@ plot:
   pos:
   - noun
   - verb
+plug:
+  level: C1
+  pos:
+  - noun
+  - verb
+plunge:
+  pos:
+  - verb
+  level: C1
 plus:
   level: B1
   pos:
@@ -8399,6 +13809,10 @@ poisonous:
   pos:
   - adjective
   level: B1
+pole:
+  pos:
+  - noun
+  level: C1
 police:
   pos:
   - noun
@@ -8427,10 +13841,18 @@ politics:
   pos:
   - noun
   level: B1
+poll:
+  pos:
+  - noun
+  level: C1
 pollution:
   pos:
   - noun
   level: A2
+pond:
+  pos:
+  - noun
+  level: C1
 pool:
   pos:
   - noun
@@ -8440,10 +13862,11 @@ poor:
   - adjective
   level: A1
 pop:
-  level: A2
+  level: C1
   pos:
   - adjective
   - noun
+  - verb
 popular:
   pos:
   - adjective
@@ -8460,10 +13883,22 @@ port:
   pos:
   - noun
   level: B1
+portfolio:
+  pos:
+  - noun
+  level: C1
+portion:
+  pos:
+  - noun
+  level: B2
 portrait:
   pos:
   - noun
   level: B1
+portray:
+  pos:
+  - verb
+  level: C1
 pose:
   pos:
   - verb
@@ -8503,10 +13938,18 @@ post:
   pos:
   - noun
   - verb
+post-war:
+  pos:
+  - adjective
+  level: C1
 poster:
   pos:
   - noun
   level: A2
+postpone:
+  pos:
+  - verb
+  level: C1
 pot:
   pos:
   - noun
@@ -8520,6 +13963,10 @@ potential:
   pos:
   - adjective
   - noun
+potentially:
+  pos:
+  - adverb
+  level: B2
 pound:
   pos:
   - noun
@@ -8557,6 +14004,10 @@ practise:
   pos:
   - verb
   level: A1
+practitioner:
+  pos:
+  - noun
+  level: C1
 praise:
   level: B2
   pos:
@@ -8570,22 +14021,94 @@ prayer:
   pos:
   - noun
   level: B1
+preach:
+  pos:
+  - verb
+  level: C1
+precede:
+  pos:
+  - verb
+  level: B2
+precedent:
+  pos:
+  - noun
+  level: C1
+precious:
+  pos:
+  - adjective
+  level: B2
+precise:
+  pos:
+  - adjective
+  level: B2
+precisely:
+  pos:
+  - adverb
+  level: B2
+precision:
+  pos:
+  - noun
+  level: C1
+predator:
+  pos:
+  - noun
+  level: C1
+predecessor:
+  pos:
+  - noun
+  level: C1
 predict:
   pos:
   - verb
   level: A2
+predictable:
+  pos:
+  - adjective
+  level: B2
 prediction:
   pos:
   - noun
   level: B1
+predominantly:
+  pos:
+  - adverb
+  level: C1
 prefer:
   pos:
   - verb
   level: A1
+preference:
+  pos:
+  - noun
+  level: B2
+pregnancy:
+  pos:
+  - noun
+  level: C1
 pregnant:
   pos:
   - adjective
   level: B2
+prejudice:
+  pos:
+  - noun
+  level: C1
+preliminary:
+  pos:
+  - adjective
+  level: C1
+premier:
+  pos:
+  - adjective
+  level: C1
+premise:
+  pos:
+  - noun
+  level: C1
+premium:
+  pos:
+  - noun
+  level: C1
 preparation:
   pos:
   - noun
@@ -8598,6 +14121,14 @@ prepared:
   pos:
   - adjective
   level: B1
+prescribe:
+  pos:
+  - verb
+  level: C1
+prescription:
+  pos:
+  - noun
+  level: C1
 presence:
   pos:
   - noun
@@ -8612,14 +14143,34 @@ presentation:
   pos:
   - noun
   level: B1
+presently:
+  pos:
+  - adverb
+  level: C1
+preservation:
+  pos:
+  - noun
+  level: C1
 preserve:
   pos:
   - verb
   level: B2
+preside:
+  pos:
+  - verb
+  level: C1
+presidency:
+  pos:
+  - noun
+  level: C1
 president:
   pos:
   - noun
   level: A2
+presidential:
+  pos:
+  - adjective
+  level: C1
 press:
   level: B1
   pos:
@@ -8629,6 +14180,18 @@ pressure:
   pos:
   - noun
   level: B1
+prestigious:
+  pos:
+  - adjective
+  level: C1
+presumably:
+  pos:
+  - adverb
+  level: C1
+presume:
+  pos:
+  - verb
+  level: C1
 pretend:
   pos:
   - verb
@@ -8638,10 +14201,22 @@ pretty:
   pos:
   - adjective
   - adverb
+prevail:
+  pos:
+  - verb
+  level: C1
+prevalence:
+  pos:
+  - noun
+  level: C1
 prevent:
   pos:
   - verb
   level: A2
+prevention:
+  pos:
+  - noun
+  level: C1
 previous:
   pos:
   - adjective
@@ -8650,15 +14225,27 @@ previously:
   pos:
   - adverb
   level: B1
+prey:
+  pos:
+  - noun
+  level: C1
 price:
   level: B2
   pos:
   - noun
   - verb
+pride:
+  pos:
+  - noun
+  level: B2
 priest:
   pos:
   - noun
   level: B1
+primarily:
+  pos:
+  - adverb
+  level: B2
 primary:
   pos:
   - adjective
@@ -8675,6 +14262,11 @@ princess:
   pos:
   - noun
   level: B1
+principal:
+  level: C1
+  pos:
+  - adjective
+  - noun
 principle:
   pos:
   - noun
@@ -8692,6 +14284,10 @@ printing:
   pos:
   - noun
   level: B1
+prior:
+  pos:
+  - adjective
+  level: B2
 priority:
   pos:
   - noun
@@ -8712,27 +14308,76 @@ private:
   pos:
   - adjective
   level: B1
+privatization:
+  pos:
+  - noun
+  level: C1
+privilege:
+  pos:
+  - noun
+  level: C1
 prize:
   pos:
   - noun
   level: A2
+probability:
+  pos:
+  - noun
+  level: B2
+probable:
+  pos:
+  - adjective
+  level: B2
 probably:
   pos:
   - adverb
   level: A1
+probe:
+  level: C1
+  pos:
+  - noun
+  - verb
 problem:
   pos:
   - noun
   level: A1
+problematic:
+  pos:
+  - adjective
+  level: C1
 procedure:
   pos:
   - noun
   level: B2
+proceed:
+  pos:
+  - verb
+  level: B2
+proceeding:
+  pos:
+  - noun
+  level: C1
+proceeds:
+  pos:
+  - noun
+  level: C1
 process:
   level: B2
   pos:
   - noun
   - verb
+processing:
+  pos:
+  - noun
+  level: C1
+processor:
+  pos:
+  - noun
+  level: C1
+proclaim:
+  pos:
+  - verb
+  level: C1
 produce:
   level: A2
   pos:
@@ -8750,6 +14395,14 @@ production:
   pos:
   - noun
   level: B1
+productive:
+  pos:
+  - adjective
+  level: C1
+productivity:
+  pos:
+  - noun
+  level: C1
 profession:
   pos:
   - noun
@@ -8771,6 +14424,14 @@ profit:
   pos:
   - noun
   level: B1
+profitable:
+  pos:
+  - adjective
+  level: C1
+profound:
+  pos:
+  - adjective
+  level: C1
 program:
   level: B1
   pos:
@@ -8780,33 +14441,73 @@ programme:
   pos:
   - noun
   level: A1
+programming:
+  pos:
+  - noun
+  level: B2
 progress:
   level: B2
   pos:
   - noun
   - verb
+progressive:
+  pos:
+  - adjective
+  level: B2
+prohibit:
+  pos:
+  - verb
+  level: B2
 project:
   level: B2
   pos:
   - noun
   - verb
+projection:
+  pos:
+  - noun
+  level: C1
+prominent:
+  pos:
+  - adjective
+  level: C1
 promise:
   level: A2
   pos:
   - noun
   - verb
+promising:
+  pos:
+  - adjective
+  level: B2
 promote:
   pos:
   - verb
   level: B1
+promotion:
+  pos:
+  - noun
+  level: B2
+prompt:
+  pos:
+  - verb
+  level: B2
 pronounce:
   pos:
   - verb
   level: A2
+pronounced:
+  pos:
+  - adjective
+  level: C1
 proof:
   pos:
   - noun
   level: B2
+propaganda:
+  pos:
+  - noun
+  level: C1
 proper:
   pos:
   - adjective
@@ -8819,6 +14520,10 @@ property:
   pos:
   - noun
   level: B1
+proportion:
+  pos:
+  - noun
+  level: B2
 proposal:
   pos:
   - noun
@@ -8827,10 +14532,34 @@ propose:
   pos:
   - verb
   level: B2
+proposition:
+  pos:
+  - noun
+  level: C1
+prosecute:
+  pos:
+  - verb
+  level: C1
+prosecution:
+  pos:
+  - noun
+  level: C1
+prosecutor:
+  pos:
+  - noun
+  level: C1
 prospect:
   pos:
   - noun
   level: B2
+prospective:
+  pos:
+  - adjective
+  level: C1
+prosperity:
+  pos:
+  - noun
+  level: C1
 protect:
   pos:
   - verb
@@ -8839,11 +14568,27 @@ protection:
   pos:
   - noun
   level: B2
+protective:
+  pos:
+  - adjective
+  level: C1
+protein:
+  pos:
+  - noun
+  level: B2
 protest:
   level: B1
   pos:
   - noun
   - verb
+protester:
+  pos:
+  - noun
+  level: B2
+protocol:
+  pos:
+  - noun
+  level: C1
 proud:
   pos:
   - adjective
@@ -8856,6 +14601,30 @@ provide:
   pos:
   - verb
   level: A2
+province:
+  pos:
+  - noun
+  level: C1
+provincial:
+  pos:
+  - adjective
+  level: C1
+provision:
+  pos:
+  - noun
+  level: C1
+provoke:
+  pos:
+  - verb
+  level: C1
+psychiatric:
+  pos:
+  - adjective
+  level: C1
+psychological:
+  pos:
+  - adjective
+  level: B2
 psychologist:
   pos:
   - noun
@@ -8877,12 +14646,34 @@ publication:
   pos:
   - noun
   level: B2
+publicity:
+  pos:
+  - noun
+  level: B2
 publish:
   pos:
   - verb
   level: A2
+publishing:
+  pos:
+  - noun
+  level: B2
 pull:
   level: A2
+  pos:
+  - noun
+  - verb
+pulse:
+  pos:
+  - noun
+  level: C1
+pump:
+  level: C1
+  pos:
+  - noun
+  - verb
+punch:
+  level: C1
   pos:
   - noun
   - verb
@@ -8894,6 +14685,10 @@ punishment:
   pos:
   - noun
   level: B1
+punk:
+  pos:
+  - noun
+  level: B2
 pupil:
   pos:
   - noun
@@ -8906,6 +14701,10 @@ purchase:
 pure:
   pos:
   - adjective
+  level: B2
+purely:
+  pos:
+  - adverb
   level: B2
 purple:
   level: A1
@@ -8920,6 +14719,10 @@ pursue:
   pos:
   - verb
   level: B2
+pursuit:
+  pos:
+  - noun
+  level: B2
 push:
   level: A2
   pos:
@@ -8929,6 +14732,10 @@ put:
   pos:
   - verb
   level: A1
+puzzle:
+  pos:
+  - noun
+  level: B2
 qualification:
   pos:
   - noun
@@ -8957,11 +14764,23 @@ queen:
   pos:
   - noun
   level: A2
+query:
+  pos:
+  - noun
+  level: C1
+quest:
+  pos:
+  - noun
+  level: C1
 question:
   level: A2
   pos:
   - noun
   - verb
+questionnaire:
+  pos:
+  - noun
+  level: B2
 queue:
   level: B1
   pos:
@@ -8991,6 +14810,10 @@ quite:
   pos:
   - adverb
   level: A1
+quota:
+  pos:
+  - noun
+  level: C1
 quotation:
   pos:
   - noun
@@ -9005,14 +14828,52 @@ race:
   pos:
   - noun
   - verb
+racial:
+  pos:
+  - adjective
+  level: B2
 racing:
   pos:
   - noun
   level: B1
+racism:
+  pos:
+  - noun
+  level: B2
+racist:
+  level: B2
+  pos:
+  - adjective
+  - noun
+radar:
+  pos:
+  - noun
+  level: C1
+radiation:
+  pos:
+  - noun
+  level: B2
+radical:
+  pos:
+  - adjective
+  level: C1
 radio:
   pos:
   - noun
   level: A1
+rage:
+  pos:
+  - noun
+  level: C1
+raid:
+  level: C1
+  pos:
+  - noun
+  - verb
+rail:
+  pos:
+  - noun
+  level: B2
 railway:
   pos:
   - noun
@@ -9026,6 +14887,15 @@ raise:
   pos:
   - verb
   level: A2
+rally:
+  level: C1
+  pos:
+  - noun
+  - verb
+random:
+  pos:
+  - adjective
+  level: B2
 range:
   level: B2
   pos:
@@ -9033,6 +14903,15 @@ range:
   - verb
 rank:
   level: B2
+  pos:
+  - noun
+  - verb
+ranking:
+  pos:
+  - noun
+  level: C1
+rape:
+  level: C1
   pos:
   - noun
   - verb
@@ -9052,6 +14931,10 @@ rarely:
   pos:
   - adverb
   level: B1
+rat:
+  pos:
+  - noun
+  level: B2
 rate:
   level: B2
   pos:
@@ -9061,10 +14944,26 @@ rather:
   pos:
   - adverb
   level: A2
+rating:
+  pos:
+  - noun
+  level: B2
+ratio:
+  pos:
+  - noun
+  level: C1
+rational:
+  pos:
+  - adjective
+  level: C1
 raw:
   pos:
   - adjective
   level: B2
+ray:
+  pos:
+  - noun
+  level: C1
 reach:
   level: A2
   pos:
@@ -9086,6 +14985,10 @@ reader:
   pos:
   - noun
   level: A1
+readily:
+  pos:
+  - adverb
+  level: C1
 reading:
   pos:
   - noun
@@ -9106,6 +15009,10 @@ reality:
   pos:
   - noun
   level: B1
+realization:
+  pos:
+  - noun
+  level: C1
 realize:
   pos:
   - verb
@@ -9114,6 +15021,15 @@ really:
   pos:
   - adverb
   level: A1
+realm:
+  pos:
+  - noun
+  level: C1
+rear:
+  level: C1
+  pos:
+  - adjective
+  - noun
 reason:
   pos:
   - noun
@@ -9121,6 +15037,30 @@ reason:
 reasonable:
   pos:
   - adjective
+  level: B2
+reasonably:
+  pos:
+  - adverb
+  level: B2
+reasoning:
+  pos:
+  - noun
+  level: C1
+reassure:
+  pos:
+  - verb
+  level: C1
+rebel:
+  pos:
+  - noun
+  level: C1
+rebellion:
+  pos:
+  - noun
+  level: C1
+rebuild:
+  pos:
+  - verb
   level: B2
 recall:
   pos:
@@ -9134,6 +15074,10 @@ receive:
   pos:
   - verb
   level: A2
+receiver:
+  pos:
+  - noun
+  level: B2
 recent:
   pos:
   - adjective
@@ -9146,10 +15090,26 @@ reception:
   pos:
   - noun
   level: A2
+recession:
+  pos:
+  - noun
+  level: B2
 recipe:
   pos:
   - noun
   level: A2
+recipient:
+  pos:
+  - noun
+  level: C1
+reckon:
+  pos:
+  - verb
+  level: B2
+recognition:
+  pos:
+  - noun
+  level: B2
 recognize:
   pos:
   - verb
@@ -9162,6 +15122,10 @@ recommendation:
   pos:
   - noun
   level: B1
+reconstruction:
+  pos:
+  - noun
+  level: C1
 record:
   level: A2
   pos:
@@ -9171,9 +15135,26 @@ recording:
   pos:
   - noun
   level: A2
+recount:
+  pos:
+  - verb
+  level: C1
 recover:
   pos:
   - verb
+  level: B2
+recovery:
+  pos:
+  - noun
+  level: B2
+recruit:
+  level: B2
+  pos:
+  - noun
+  - verb
+recruitment:
+  pos:
+  - noun
   level: B2
 recycle:
   pos:
@@ -9196,23 +15177,64 @@ refer:
   pos:
   - verb
   level: A2
+referee:
+  pos:
+  - noun
+  level: B2
 reference:
   pos:
   - noun
   level: B1
+referendum:
+  pos:
+  - noun
+  level: C1
 reflect:
   pos:
   - verb
   level: B1
+reflection:
+  pos:
+  - noun
+  level: C1
+reform:
+  level: C1
+  pos:
+  - noun
+  - verb
+refuge:
+  pos:
+  - noun
+  level: C1
+refugee:
+  pos:
+  - noun
+  level: B2
+refusal:
+  pos:
+  - noun
+  level: C1
 refuse:
   pos:
   - verb
   level: A2
+regain:
+  pos:
+  - verb
+  level: C1
 regard:
   level: B2
   pos:
   - noun
   - verb
+regardless:
+  pos:
+  - adverb
+  level: C1
+regime:
+  pos:
+  - noun
+  level: C1
 region:
   pos:
   - noun
@@ -9226,6 +15248,10 @@ register:
   pos:
   - noun
   - verb
+registration:
+  pos:
+  - noun
+  level: B2
 regret:
   level: B2
   pos:
@@ -9239,14 +15265,43 @@ regularly:
   pos:
   - adverb
   level: B1
+regulate:
+  pos:
+  - verb
+  level: B2
 regulation:
   pos:
   - noun
+  level: B2
+regulator:
+  pos:
+  - noun
+  level: C1
+regulatory:
+  pos:
+  - adjective
+  level: C1
+rehabilitation:
+  pos:
+  - noun
+  level: C1
+reign:
+  level: C1
+  pos:
+  - noun
+  - verb
+reinforce:
+  pos:
+  - verb
   level: B2
 reject:
   pos:
   - verb
   level: B1
+rejection:
+  pos:
+  - noun
+  level: C1
 relate:
   pos:
   - verb
@@ -9289,10 +15344,18 @@ release:
   pos:
   - noun
   - verb
+relevance:
+  pos:
+  - noun
+  level: C1
 relevant:
   pos:
   - adjective
   level: B2
+reliability:
+  pos:
+  - noun
+  level: C1
 reliable:
   pos:
   - adjective
@@ -9300,6 +15363,14 @@ reliable:
 relief:
   pos:
   - noun
+  level: B2
+relieve:
+  pos:
+  - verb
+  level: B2
+relieved:
+  pos:
+  - adjective
   level: B2
 religion:
   pos:
@@ -9309,6 +15380,10 @@ religious:
   pos:
   - adjective
   level: B1
+reluctant:
+  pos:
+  - adjective
+  level: C1
 rely:
   pos:
   - verb
@@ -9317,11 +15392,31 @@ remain:
   pos:
   - verb
   level: B1
+remainder:
+  pos:
+  - noun
+  level: C1
+remains:
+  pos:
+  - noun
+  level: C1
 remark:
   level: B2
   pos:
   - noun
   - verb
+remarkable:
+  pos:
+  - adjective
+  level: B2
+remarkably:
+  pos:
+  - adverb
+  level: B2
+remedy:
+  pos:
+  - noun
+  level: C1
 remember:
   pos:
   - verb
@@ -9330,19 +15425,43 @@ remind:
   pos:
   - verb
   level: B1
+reminder:
+  pos:
+  - noun
+  level: C1
 remote:
   pos:
   - adjective
   level: B1
+removal:
+  pos:
+  - noun
+  level: C1
 remove:
   pos:
   - verb
   level: A2
+render:
+  pos:
+  - verb
+  level: C1
+renew:
+  pos:
+  - verb
+  level: C1
+renowned:
+  pos:
+  - adjective
+  level: C1
 rent:
   level: B1
   pos:
   - noun
   - verb
+rental:
+  pos:
+  - noun
+  level: C1
 repair:
   level: A2
   pos:
@@ -9361,6 +15480,10 @@ replace:
   pos:
   - verb
   level: A2
+replacement:
+  pos:
+  - noun
+  level: C1
 reply:
   level: A2
   pos:
@@ -9371,19 +15494,43 @@ report:
   pos:
   - noun
   - verb
+reportedly:
+  pos:
+  - adverb
+  level: C1
 reporter:
   pos:
   - noun
   level: A2
+reporting:
+  pos:
+  - noun
+  level: B2
 represent:
   pos:
   - verb
   level: B1
+representation:
+  pos:
+  - noun
+  level: C1
 representative:
   level: B2
   pos:
   - adjective
   - noun
+reproduce:
+  pos:
+  - verb
+  level: C1
+reproduction:
+  pos:
+  - noun
+  level: C1
+republic:
+  pos:
+  - noun
+  level: C1
 reputation:
   pos:
   - noun
@@ -9415,6 +15562,10 @@ researcher:
   pos:
   - noun
   level: A2
+resemble:
+  pos:
+  - verb
+  level: C1
 reservation:
   pos:
   - noun
@@ -9424,14 +15575,46 @@ reserve:
   pos:
   - noun
   - verb
+reside:
+  pos:
+  - verb
+  level: C1
+residence:
+  pos:
+  - noun
+  level: C1
 resident:
   level: B2
   pos:
   - adjective
   - noun
+residential:
+  pos:
+  - adjective
+  level: C1
+residue:
+  pos:
+  - noun
+  level: C1
+resign:
+  pos:
+  - verb
+  level: B2
+resignation:
+  pos:
+  - noun
+  level: C1
 resist:
   pos:
   - verb
+  level: B2
+resistance:
+  pos:
+  - noun
+  level: C1
+resolution:
+  pos:
+  - noun
   level: B2
 resolve:
   pos:
@@ -9450,6 +15633,14 @@ respect:
   pos:
   - noun
   - verb
+respective:
+  pos:
+  - adjective
+  level: C1
+respectively:
+  pos:
+  - adverb
+  level: C1
 respond:
   pos:
   - verb
@@ -9475,11 +15666,39 @@ restaurant:
   pos:
   - noun
   level: A1
+restoration:
+  pos:
+  - noun
+  level: C1
+restore:
+  pos:
+  - verb
+  level: B2
+restraint:
+  pos:
+  - noun
+  level: C1
+restrict:
+  pos:
+  - verb
+  level: B2
+restriction:
+  pos:
+  - noun
+  level: B2
 result:
   level: B1
   pos:
   - noun
   - verb
+resume:
+  pos:
+  - verb
+  level: C1
+retail:
+  pos:
+  - noun
+  level: B2
 retain:
   pos:
   - verb
@@ -9492,6 +15711,19 @@ retired:
   pos:
   - adjective
   level: B1
+retirement:
+  pos:
+  - noun
+  level: B2
+retreat:
+  level: C1
+  pos:
+  - noun
+  - verb
+retrieve:
+  pos:
+  - verb
+  level: C1
 return:
   level: A1
   pos:
@@ -9501,6 +15733,24 @@ reveal:
   pos:
   - verb
   level: B2
+revelation:
+  pos:
+  - noun
+  level: C1
+revenge:
+  pos:
+  - noun
+  level: C1
+revenue:
+  pos:
+  - noun
+  level: B2
+reverse:
+  level: C1
+  pos:
+  - adjective
+  - noun
+  - verb
 review:
   level: A2
   pos:
@@ -9510,15 +15760,35 @@ revise:
   pos:
   - verb
   level: B1
+revision:
+  pos:
+  - noun
+  level: B2
+revival:
+  pos:
+  - noun
+  level: C1
+revive:
+  pos:
+  - verb
+  level: C1
 revolution:
   pos:
   - noun
   level: B2
+revolutionary:
+  pos:
+  - adjective
+  level: C1
 reward:
   level: B2
   pos:
   - noun
   - verb
+rhetoric:
+  pos:
+  - noun
+  level: C1
 rhythm:
   pos:
   - noun
@@ -9540,6 +15810,14 @@ ride:
   pos:
   - noun
   - verb
+ridiculous:
+  pos:
+  - adjective
+  level: B2
+rifle:
+  pos:
+  - noun
+  level: C1
 right:
   level: A1
   pos:
@@ -9551,6 +15829,14 @@ ring:
   pos:
   - noun
   - verb
+riot:
+  pos:
+  - noun
+  level: C1
+rip:
+  pos:
+  - verb
+  level: C1
 rise:
   level: A2
   pos:
@@ -9561,6 +15847,19 @@ risk:
   pos:
   - noun
   - verb
+risky:
+  pos:
+  - adjective
+  level: B2
+ritual:
+  pos:
+  - noun
+  level: C1
+rival:
+  level: B2
+  pos:
+  - adjective
+  - noun
 river:
   pos:
   - noun
@@ -9569,14 +15868,35 @@ road:
   pos:
   - noun
   level: A1
+rob:
+  pos:
+  - verb
+  level: B2
+robbery:
+  pos:
+  - noun
+  level: B2
 robot:
   pos:
   - noun
   level: B1
+robust:
+  pos:
+  - adjective
+  level: C1
 rock:
+  level: C1
   pos:
   - noun
-  level: A2
+  - verb
+rocket:
+  pos:
+  - noun
+  level: B2
+rod:
+  pos:
+  - noun
+  level: C1
 role:
   pos:
   - noun
@@ -9586,6 +15906,10 @@ roll:
   pos:
   - noun
   - verb
+romance:
+  pos:
+  - noun
+  level: B2
 romantic:
   pos:
   - adjective
@@ -9606,10 +15930,26 @@ rope:
   pos:
   - noun
   level: B1
+rose:
+  pos:
+  - noun
+  level: B2
+rotate:
+  pos:
+  - verb
+  level: C1
+rotation:
+  pos:
+  - noun
+  level: C1
 rough:
   pos:
   - adjective
   level: B1
+roughly:
+  pos:
+  - adverb
+  level: B2
 round:
   level: A2
   pos:
@@ -9655,11 +15995,24 @@ rugby:
   pos:
   - noun
   level: B1
+ruin:
+  level: B2
+  pos:
+  - noun
+  - verb
 rule:
   level: B1
   pos:
   - noun
   - verb
+ruling:
+  pos:
+  - noun
+  level: C1
+rumour:
+  pos:
+  - noun
+  level: C1
 run:
   level: A1
   pos:
@@ -9679,6 +16032,19 @@ rural:
   level: B2
 rush:
   level: B2
+  pos:
+  - noun
+  - verb
+sack:
+  pos:
+  - verb
+  level: C1
+sacred:
+  pos:
+  - adjective
+  level: C1
+sacrifice:
+  level: C1
   pos:
   - noun
   - verb
@@ -9711,6 +16077,14 @@ sailor:
   pos:
   - noun
   level: B1
+saint:
+  pos:
+  - noun
+  level: C1
+sake:
+  pos:
+  - noun
+  level: C1
 salad:
   pos:
   - noun
@@ -9738,6 +16112,10 @@ sample:
   pos:
   - noun
   - verb
+sanction:
+  pos:
+  - noun
+  level: C1
 sand:
   pos:
   - noun
@@ -9747,6 +16125,10 @@ sandwich:
   - noun
   level: A1
 satellite:
+  pos:
+  - noun
+  level: B2
+satisfaction:
   pos:
   - noun
   level: B2
@@ -9775,9 +16157,10 @@ saving:
   - noun
   level: B2
 say:
-  pos:
-  - verb
   level: A1
+  pos:
+  - noun
+  - verb
 scale:
   pos:
   - noun
@@ -9786,6 +16169,15 @@ scan:
   pos:
   - verb
   level: B1
+scandal:
+  pos:
+  - noun
+  level: B2
+scare:
+  level: B2
+  pos:
+  - noun
+  - verb
 scared:
   pos:
   - adjective
@@ -9794,16 +16186,36 @@ scary:
   pos:
   - adjective
   level: A2
+scattered:
+  pos:
+  - adjective
+  level: C1
+scenario:
+  pos:
+  - noun
+  level: B2
 scene:
   pos:
   - noun
   level: A2
+sceptical:
+  pos:
+  - adjective
+  level: C1
 schedule:
   level: B2
   pos:
   - noun
   - verb
 scheme:
+  pos:
+  - noun
+  level: B2
+scholar:
+  pos:
+  - noun
+  level: B2
+scholarship:
   pos:
   - noun
   level: B2
@@ -9823,8 +16235,17 @@ scientist:
   pos:
   - noun
   level: A1
+scope:
+  pos:
+  - noun
+  level: C1
 score:
   level: A2
+  pos:
+  - noun
+  - verb
+scratch:
+  level: B2
   pos:
   - noun
   - verb
@@ -9838,10 +16259,23 @@ screen:
   pos:
   - noun
   - verb
+screening:
+  pos:
+  - noun
+  level: B2
+screw:
+  level: C1
+  pos:
+  - noun
+  - verb
 script:
   pos:
   - noun
   level: B1
+scrutiny:
+  pos:
+  - noun
+  level: C1
 sculpture:
   pos:
   - noun
@@ -9850,6 +16284,11 @@ sea:
   pos:
   - noun
   level: A1
+seal:
+  level: C1
+  pos:
+  - noun
+  - verb
 search:
   level: A2
   pos:
@@ -9897,6 +16336,10 @@ sector:
   pos:
   - noun
   level: B2
+secular:
+  pos:
+  - adjective
+  level: C1
 secure:
   level: B2
   pos:
@@ -9918,11 +16361,31 @@ seek:
   pos:
   - verb
   level: B2
+seeker:
+  pos:
+  - noun
+  level: B2
 seem:
   pos:
   - linking
   - verb
   level: A2
+seemingly:
+  pos:
+  - adverb
+  level: C1
+segment:
+  pos:
+  - noun
+  level: C1
+seize:
+  pos:
+  - verb
+  level: C1
+seldom:
+  pos:
+  - adverb
+  level: C1
 select:
   pos:
   - verb
@@ -9931,6 +16394,10 @@ selection:
   pos:
   - noun
   level: B2
+selective:
+  pos:
+  - adjective
+  level: C1
 self:
   pos:
   - noun
@@ -9939,6 +16406,14 @@ sell:
   pos:
   - verb
   level: A1
+seminar:
+  pos:
+  - noun
+  level: B2
+senator:
+  pos:
+  - noun
+  level: C1
 send:
   pos:
   - verb
@@ -9947,6 +16422,10 @@ senior:
   pos:
   - adjective
   level: B2
+sensation:
+  pos:
+  - noun
+  level: C1
 sense:
   level: B2
   pos:
@@ -9960,16 +16439,28 @@ sensitive:
   pos:
   - adjective
   level: B2
+sensitivity:
+  pos:
+  - noun
+  level: C1
 sentence:
   level: B2
   pos:
   - noun
   - verb
+sentiment:
+  pos:
+  - noun
+  level: C1
 separate:
   level: B1
   pos:
   - adjective
   - verb
+separation:
+  pos:
+  - noun
+  level: C1
 September:
   pos:
   - noun
@@ -9978,6 +16469,10 @@ sequence:
   pos:
   - noun
   level: B2
+serial:
+  pos:
+  - adjective
+  level: C1
 series:
   pos:
   - noun
@@ -10011,6 +16506,10 @@ set:
   pos:
   - noun
   - verb
+set-up:
+  pos:
+  - noun
+  level: C1
 setting:
   pos:
   - noun
@@ -10018,6 +16517,14 @@ setting:
 settle:
   pos:
   - verb
+  level: B2
+settlement:
+  pos:
+  - noun
+  level: C1
+settler:
+  pos:
+  - noun
   level: B2
 seven:
   pos:
@@ -10040,6 +16547,10 @@ severe:
   pos:
   - adjective
   level: B2
+severely:
+  pos:
+  - adverb
+  level: B2
 sex:
   pos:
   - noun
@@ -10048,6 +16559,14 @@ sexual:
   pos:
   - adjective
   level: B1
+sexuality:
+  pos:
+  - noun
+  level: C1
+sexy:
+  pos:
+  - adjective
+  level: B2
 shade:
   pos:
   - noun
@@ -10079,23 +16598,43 @@ shape:
   pos:
   - noun
   - verb
+shaped:
+  pos:
+  - adjective
+  level: B2
 share:
   level: A1
   pos:
   - noun
   - verb
+shareholder:
+  pos:
+  - noun
+  level: C1
 sharp:
   pos:
   - adjective
   level: B1
+shatter:
+  pos:
+  - verb
+  level: C1
 she:
   pos:
   - pronoun
   level: A1
+shed:
+  pos:
+  - verb
+  level: C1
 sheep:
   pos:
   - noun
   level: A1
+sheer:
+  pos:
+  - adjective
+  level: C1
 sheet:
   pos:
   - noun
@@ -10131,6 +16670,10 @@ ship:
   pos:
   - noun
   - verb
+shipping:
+  pos:
+  - noun
+  level: C1
 shirt:
   pos:
   - noun
@@ -10144,14 +16687,19 @@ shocked:
   pos:
   - adjective
   level: B2
+shocking:
+  pos:
+  - adjective
+  level: B2
 shoe:
   pos:
   - noun
   level: A1
 shoot:
-  pos:
-  - verb
   level: B1
+  pos:
+  - noun
+  - verb
 shooting:
   pos:
   - noun
@@ -10165,10 +16713,26 @@ shopping:
   pos:
   - noun
   level: A1
+shore:
+  pos:
+  - noun
+  level: B2
 short:
   pos:
   - adjective
   level: A1
+short-term:
+  pos:
+  - adjective
+  level: B2
+shortage:
+  pos:
+  - noun
+  level: B2
+shortly:
+  pos:
+  - adverb
+  level: B2
 shot:
   pos:
   - noun
@@ -10196,6 +16760,14 @@ shower:
   pos:
   - noun
   level: A1
+shrink:
+  pos:
+  - verb
+  level: C1
+shrug:
+  pos:
+  - verb
+  level: C1
 shut:
   level: A2
   pos:
@@ -10205,6 +16777,10 @@ shy:
   pos:
   - adjective
   level: B1
+sibling:
+  pos:
+  - noun
+  level: B2
 sick:
   pos:
   - adjective
@@ -10213,6 +16789,11 @@ side:
   pos:
   - noun
   level: A2
+sigh:
+  level: C1
+  pos:
+  - noun
+  - verb
 sight:
   pos:
   - noun
@@ -10227,6 +16808,14 @@ signal:
   pos:
   - noun
   - verb
+signature:
+  pos:
+  - noun
+  level: B2
+significance:
+  pos:
+  - noun
+  level: B2
 significant:
   pos:
   - adjective
@@ -10276,6 +16865,22 @@ simply:
   pos:
   - adverb
   level: B1
+simulate:
+  pos:
+  - verb
+  level: C1
+simulation:
+  pos:
+  - noun
+  level: C1
+simultaneously:
+  pos:
+  - adverb
+  level: C1
+sin:
+  pos:
+  - noun
+  level: C1
 since:
   level: A2
   pos:
@@ -10323,6 +16928,10 @@ site:
   pos:
   - noun
   level: A2
+situated:
+  pos:
+  - adjective
+  level: C1
 situation:
   pos:
   - noun
@@ -10343,6 +16952,10 @@ size:
   pos:
   - noun
   level: A2
+sketch:
+  pos:
+  - noun
+  level: C1
 ski:
   level: A2
   pos:
@@ -10357,22 +16970,50 @@ skill:
   pos:
   - noun
   level: A1
+skilled:
+  pos:
+  - adjective
+  level: B2
 skin:
   pos:
   - noun
   level: A2
+skip:
+  pos:
+  - verb
+  level: C1
 skirt:
   pos:
   - noun
   level: A1
+skull:
+  pos:
+  - noun
+  level: B2
 sky:
   pos:
   - noun
   level: A2
+slam:
+  pos:
+  - verb
+  level: C1
+slap:
+  pos:
+  - verb
+  level: C1
+slash:
+  pos:
+  - verb
+  level: C1
 slave:
   pos:
   - noun
   level: B2
+slavery:
+  pos:
+  - noun
+  level: C1
 sleep:
   level: A1
   pos:
@@ -10400,11 +17041,19 @@ slip:
   pos:
   - verb
   level: B2
+slogan:
+  pos:
+  - noun
+  level: B2
 slope:
   level: B2
   pos:
   - noun
   - verb
+slot:
+  pos:
+  - noun
+  level: C1
 slow:
   level: B1
   pos:
@@ -10426,6 +17075,10 @@ smartphone:
   pos:
   - noun
   level: A2
+smash:
+  pos:
+  - verb
+  level: C1
 smell:
   level: A2
   pos:
@@ -10453,6 +17106,10 @@ snake:
   pos:
   - noun
   level: A1
+snap:
+  pos:
+  - verb
+  level: C1
 snow:
   level: A1
   pos:
@@ -10463,10 +17120,22 @@ so:
   pos:
   - adverb
   - conjunction
+so-called:
+  pos:
+  - adjective
+  level: B2
+soak:
+  pos:
+  - verb
+  level: C1
 soap:
   pos:
   - noun
   level: A2
+soar:
+  pos:
+  - verb
+  level: C1
 soccer:
   pos:
   - noun
@@ -10475,6 +17144,10 @@ social:
   pos:
   - adjective
   level: A2
+socialist:
+  pos:
+  - adjective
+  level: C1
 society:
   pos:
   - noun
@@ -10503,8 +17176,29 @@ soldier:
   pos:
   - noun
   level: A2
+sole:
+  pos:
+  - adjective
+  level: C1
+solely:
+  pos:
+  - adverb
+  level: C1
+solicitor:
+  pos:
+  - noun
+  level: C1
 solid:
   level: B1
+  pos:
+  - adjective
+  - noun
+solidarity:
+  pos:
+  - noun
+  level: C1
+solo:
+  level: C1
   pos:
   - adjective
   - noun
@@ -10525,6 +17219,10 @@ somebody:
   pos:
   - pronoun
   level: A1
+somehow:
+  pos:
+  - adverb
+  level: B2
 someone:
   pos:
   - pronoun
@@ -10533,6 +17231,10 @@ something:
   pos:
   - pronoun
   level: A1
+sometime:
+  pos:
+  - adverb
+  level: B2
 sometimes:
   pos:
   - adverb
@@ -10558,6 +17260,10 @@ soon:
   pos:
   - adverb
   level: A1
+sophisticated:
+  pos:
+  - adjective
+  level: B2
 sorry:
   level: A1
   pos:
@@ -10575,6 +17281,7 @@ soul:
 sound:
   level: A1
   pos:
+  - adjective
   - noun
   - verb
 soup:
@@ -10595,10 +17302,32 @@ southern:
   pos:
   - adjective
   level: B1
+sovereignty:
+  pos:
+  - noun
+  level: C1
 space:
   pos:
   - noun
   level: A1
+spam:
+  pos:
+  - noun
+  level: C1
+span:
+  level: C1
+  pos:
+  - noun
+  - verb
+spare:
+  level: C1
+  pos:
+  - adjective
+  - verb
+spark:
+  pos:
+  - verb
+  level: C1
 speak:
   pos:
   - verb
@@ -10616,6 +17345,14 @@ specialist:
   pos:
   - adjective
   - noun
+specialize:
+  pos:
+  - verb
+  level: B2
+specialized:
+  pos:
+  - adjective
+  level: C1
 species:
   pos:
   - noun
@@ -10628,6 +17365,42 @@ specifically:
   pos:
   - adverb
   level: B1
+specification:
+  pos:
+  - noun
+  level: C1
+specify:
+  pos:
+  - verb
+  level: B2
+specimen:
+  pos:
+  - noun
+  level: C1
+spectacle:
+  pos:
+  - noun
+  level: C1
+spectacular:
+  pos:
+  - adjective
+  level: B2
+spectator:
+  pos:
+  - noun
+  level: B2
+spectrum:
+  pos:
+  - noun
+  level: C1
+speculate:
+  pos:
+  - verb
+  level: B2
+speculation:
+  pos:
+  - noun
+  level: B2
 speech:
   pos:
   - noun
@@ -10638,9 +17411,10 @@ speed:
   - noun
   - verb
 spell:
-  pos:
-  - verb
   level: A1
+  pos:
+  - noun
+  - verb
 spelling:
   pos:
   - noun
@@ -10653,6 +17427,14 @@ spending:
   pos:
   - noun
   level: B1
+sphere:
+  pos:
+  - noun
+  level: C1
+spice:
+  pos:
+  - noun
+  level: B2
 spicy:
   pos:
   - adjective
@@ -10661,6 +17443,19 @@ spider:
   pos:
   - noun
   level: A2
+spill:
+  pos:
+  - verb
+  level: B2
+spin:
+  level: C1
+  pos:
+  - noun
+  - verb
+spine:
+  pos:
+  - noun
+  level: C1
 spirit:
   pos:
   - noun
@@ -10669,20 +17464,44 @@ spiritual:
   pos:
   - adjective
   level: B2
+spite:
+  pos:
+  - noun
+  level: B2
 split:
   level: B2
   pos:
   - noun
   - verb
+spoil:
+  pos:
+  - verb
+  level: B2
 spoken:
   pos:
   - adjective
   level: B1
+spokesman:
+  pos:
+  - noun
+  level: B2
+spokesperson:
+  pos:
+  - noun
+  level: B2
+spokeswoman:
+  pos:
+  - noun
+  level: B2
 sponsor:
   level: B2
   pos:
   - noun
   - verb
+sponsorship:
+  pos:
+  - noun
+  level: B2
 spoon:
   pos:
   - noun
@@ -10691,11 +17510,23 @@ sport:
   pos:
   - noun
   level: A1
+sporting:
+  pos:
+  - adjective
+  level: B2
 spot:
   level: B2
   pos:
   - noun
   - verb
+spotlight:
+  pos:
+  - noun
+  level: C1
+spouse:
+  pos:
+  - noun
+  level: C1
 spread:
   level: B1
   pos:
@@ -10706,11 +17537,36 @@ spring:
   pos:
   - noun
   - verb
+spy:
+  level: C1
+  pos:
+  - noun
+  - verb
+squad:
+  pos:
+  - noun
+  level: C1
 square:
   level: A2
   pos:
   - adjective
   - noun
+squeeze:
+  pos:
+  - verb
+  level: C1
+stab:
+  pos:
+  - verb
+  level: C1
+stability:
+  pos:
+  - noun
+  level: C1
+stabilize:
+  pos:
+  - verb
+  level: C1
 stable:
   pos:
   - adjective
@@ -10732,10 +17588,22 @@ stair:
   pos:
   - noun
   level: A2
+stake:
+  pos:
+  - noun
+  level: C1
+stall:
+  pos:
+  - noun
+  level: B2
 stamp:
   pos:
   - noun
   level: A2
+stance:
+  pos:
+  - noun
+  level: B2
 stand:
   level: A1
   pos:
@@ -10746,6 +17614,10 @@ standard:
   pos:
   - adjective
   - noun
+standing:
+  pos:
+  - adjective
+  level: C1
 star:
   level: A2
   pos:
@@ -10755,11 +17627,19 @@ stare:
   pos:
   - verb
   level: B2
+stark:
+  pos:
+  - adjective
+  level: C1
 start:
   level: A1
   pos:
   - noun
   - verb
+starve:
+  pos:
+  - verb
+  level: B2
 state:
   level: B1
   pos:
@@ -10778,6 +17658,10 @@ statistic:
   pos:
   - noun
   level: B1
+statistical:
+  pos:
+  - adjective
+  level: C1
 statue:
   pos:
   - noun
@@ -10791,6 +17675,10 @@ stay:
   pos:
   - noun
   - verb
+steadily:
+  pos:
+  - adverb
+  level: B2
 steady:
   pos:
   - adjective
@@ -10799,6 +17687,10 @@ steal:
   pos:
   - verb
   level: A2
+steam:
+  pos:
+  - noun
+  level: B2
 steel:
   pos:
   - noun
@@ -10807,11 +17699,24 @@ steep:
   pos:
   - adjective
   level: B2
+steer:
+  pos:
+  - verb
+  level: C1
+stem:
+  level: C1
+  pos:
+  - noun
+  - verb
 step:
   level: B2
   pos:
   - noun
   - verb
+stereotype:
+  pos:
+  - noun
+  level: C1
 stick:
   level: B1
   pos:
@@ -10830,6 +17735,18 @@ still:
   pos:
   - adjective
   - adverb
+stimulate:
+  pos:
+  - verb
+  level: B2
+stimulus:
+  pos:
+  - noun
+  level: C1
+stir:
+  pos:
+  - verb
+  level: C1
 stock:
   pos:
   - noun
@@ -10847,6 +17764,10 @@ stop:
   pos:
   - noun
   - verb
+storage:
+  pos:
+  - noun
+  level: C1
 store:
   level: B1
   pos:
@@ -10865,6 +17786,18 @@ straight:
   pos:
   - adjective
   - adverb
+straightforward:
+  pos:
+  - adjective
+  level: C1
+strain:
+  pos:
+  - noun
+  level: C1
+strand:
+  pos:
+  - noun
+  level: C1
 strange:
   pos:
   - adjective
@@ -10873,6 +17806,10 @@ stranger:
   pos:
   - noun
   level: B1
+strategic:
+  pos:
+  - adjective
+  level: C1
 strategy:
   pos:
   - noun
@@ -10889,6 +17826,10 @@ strength:
   pos:
   - noun
   level: B1
+strengthen:
+  pos:
+  - verb
+  level: B2
 stress:
   level: A2
   pos:
@@ -10903,15 +17844,36 @@ strict:
   pos:
   - adjective
   level: B2
+strictly:
+  pos:
+  - adverb
+  level: B2
 strike:
   level: B2
   pos:
   - noun
   - verb
+striking:
+  pos:
+  - adjective
+  level: C1
 string:
   pos:
   - noun
   level: B1
+strip:
+  level: C1
+  pos:
+  - noun
+  - verb
+strive:
+  pos:
+  - verb
+  level: C1
+stroke:
+  pos:
+  - noun
+  level: B2
 strong:
   pos:
   - adjective
@@ -10920,6 +17882,10 @@ strongly:
   pos:
   - adverb
   level: B1
+structural:
+  pos:
+  - adjective
+  level: C1
 structure:
   level: B2
   pos:
@@ -10948,6 +17914,18 @@ stuff:
   pos:
   - noun
   - verb
+stumble:
+  pos:
+  - verb
+  level: C1
+stun:
+  pos:
+  - verb
+  level: C1
+stunning:
+  pos:
+  - adjective
+  level: B2
 stupid:
   pos:
   - adjective
@@ -10961,14 +17939,67 @@ subject:
   pos:
   - adjective
   - noun
+submission:
+  pos:
+  - noun
+  level: C1
 submit:
   pos:
   - verb
   level: B2
+subscriber:
+  pos:
+  - noun
+  level: C1
+subscription:
+  pos:
+  - noun
+  level: C1
+subsequent:
+  pos:
+  - adjective
+  level: B2
+subsequently:
+  pos:
+  - adverb
+  level: B2
+subsidy:
+  pos:
+  - noun
+  level: C1
 substance:
   pos:
   - noun
   level: B1
+substantial:
+  pos:
+  - adjective
+  level: C1
+substantially:
+  pos:
+  - adverb
+  level: C1
+substitute:
+  level: C1
+  pos:
+  - noun
+  - verb
+substitution:
+  pos:
+  - noun
+  level: C1
+subtle:
+  pos:
+  - adjective
+  level: C1
+suburb:
+  pos:
+  - noun
+  level: B2
+suburban:
+  pos:
+  - adjective
+  level: C1
 succeed:
   pos:
   - verb
@@ -10985,11 +18016,27 @@ successfully:
   pos:
   - adverb
   level: B1
+succession:
+  pos:
+  - noun
+  level: C1
+successive:
+  pos:
+  - adjective
+  level: C1
+successor:
+  pos:
+  - noun
+  level: C1
 such:
   level: A2
   pos:
   - determiner
   - pronoun
+suck:
+  pos:
+  - verb
+  level: C1
 sudden:
   pos:
   - adjective
@@ -10998,10 +18045,26 @@ suddenly:
   pos:
   - adverb
   level: A2
+sue:
+  pos:
+  - verb
+  level: C1
 suffer:
   pos:
   - verb
   level: B1
+suffering:
+  pos:
+  - noun
+  level: B2
+sufficient:
+  pos:
+  - adjective
+  level: B2
+sufficiently:
+  pos:
+  - adverb
+  level: B2
 sugar:
   pos:
   - noun
@@ -11014,6 +18077,10 @@ suggestion:
   pos:
   - noun
   level: A2
+suicide:
+  pos:
+  - noun
+  level: C1
 suit:
   level: B1
   pos:
@@ -11023,6 +18090,10 @@ suitable:
   pos:
   - adjective
   level: B1
+suite:
+  pos:
+  - noun
+  level: C1
 sum:
   level: B2
   pos:
@@ -11040,6 +18111,10 @@ summer:
   pos:
   - noun
   level: A1
+summit:
+  pos:
+  - noun
+  level: C1
 sun:
   pos:
   - noun
@@ -11048,10 +18123,39 @@ Sunday:
   pos:
   - noun
   level: A1
+super:
+  pos:
+  - adjective
+  level: B2
+superb:
+  pos:
+  - adjective
+  level: C1
+superior:
+  pos:
+  - adjective
+  level: C1
 supermarket:
   pos:
   - noun
   level: A1
+supervise:
+  pos:
+  - verb
+  level: C1
+supervision:
+  pos:
+  - noun
+  level: C1
+supervisor:
+  pos:
+  - noun
+  level: C1
+supplement:
+  level: C1
+  pos:
+  - noun
+  - verb
 supply:
   level: B1
   pos:
@@ -11066,10 +18170,26 @@ supporter:
   pos:
   - noun
   level: B1
+supportive:
+  pos:
+  - adjective
+  level: C1
 suppose:
   pos:
   - verb
   level: A2
+supposedly:
+  pos:
+  - adverb
+  level: C1
+suppress:
+  pos:
+  - verb
+  level: C1
+supreme:
+  pos:
+  - adjective
+  level: C1
 sure:
   level: A2
   pos:
@@ -11083,10 +18203,27 @@ surface:
   pos:
   - noun
   level: B1
+surge:
+  level: C1
+  pos:
+  - noun
+  - verb
+surgeon:
+  pos:
+  - noun
+  level: B2
 surgery:
   pos:
   - noun
   level: B2
+surgical:
+  pos:
+  - adjective
+  level: C1
+surplus:
+  pos:
+  - noun
+  level: C1
 surprise:
   level: A2
   pos:
@@ -11100,6 +18237,10 @@ surprising:
   pos:
   - adjective
   level: A2
+surrender:
+  pos:
+  - verb
+  level: C1
 surround:
   pos:
   - verb
@@ -11108,20 +18249,60 @@ surrounding:
   pos:
   - adjective
   level: B2
+surveillance:
+  pos:
+  - noun
+  level: C1
 survey:
   level: B2
   pos:
   - noun
   - verb
+survival:
+  pos:
+  - noun
+  level: B2
 survive:
   pos:
   - verb
   level: B1
+survivor:
+  pos:
+  - noun
+  level: B2
 suspect:
   level: B2
   pos:
   - noun
   - verb
+suspend:
+  pos:
+  - verb
+  level: B2
+suspension:
+  pos:
+  - noun
+  level: C1
+suspicion:
+  pos:
+  - noun
+  level: C1
+suspicious:
+  pos:
+  - adjective
+  level: C1
+sustain:
+  pos:
+  - verb
+  level: C1
+sustainable:
+  pos:
+  - adjective
+  level: B2
+swallow:
+  pos:
+  - verb
+  level: B2
 swear:
   pos:
   - verb
@@ -11148,15 +18329,32 @@ swimming:
   pos:
   - noun
   level: A1
+swing:
+  level: C1
+  pos:
+  - noun
+  - verb
 switch:
   level: B1
   pos:
   - noun
   - verb
+sword:
+  pos:
+  - noun
+  level: C1
 symbol:
   pos:
   - noun
   level: A2
+symbolic:
+  pos:
+  - adjective
+  level: C1
+sympathetic:
+  pos:
+  - adjective
+  level: B2
 sympathy:
   pos:
   - noun
@@ -11165,10 +18363,22 @@ symptom:
   pos:
   - noun
   level: B1
+syndrome:
+  pos:
+  - noun
+  level: C1
+synthesis:
+  pos:
+  - noun
+  level: C1
 system:
   pos:
   - noun
   level: A2
+systematic:
+  pos:
+  - adjective
+  level: C1
 T-shirt:
   pos:
   - noun
@@ -11181,6 +18391,24 @@ tablet:
   pos:
   - noun
   level: A2
+tackle:
+  level: B2
+  pos:
+  - noun
+  - verb
+tactic:
+  pos:
+  - noun
+  level: C1
+tactical:
+  pos:
+  - adjective
+  level: C1
+tag:
+  level: B2
+  pos:
+  - noun
+  - verb
 tail:
   pos:
   - noun
@@ -11214,6 +18442,11 @@ tank:
   pos:
   - noun
   level: B2
+tap:
+  level: B2
+  pos:
+  - noun
+  - verb
 tape:
   pos:
   - noun
@@ -11241,6 +18474,10 @@ taxi:
   pos:
   - noun
   level: A1
+taxpayer:
+  pos:
+  - noun
+  level: C1
 tea:
   pos:
   - noun
@@ -11274,6 +18511,10 @@ technique:
   pos:
   - noun
   level: B1
+technological:
+  pos:
+  - adjective
+  level: B2
 technology:
   pos:
   - noun
@@ -11286,6 +18527,10 @@ teenager:
   pos:
   - noun
   level: A1
+teens:
+  pos:
+  - noun
+  level: B2
 telephone:
   level: A1
   pos:
@@ -11303,45 +18548,142 @@ temperature:
   pos:
   - noun
   level: A2
+temple:
+  pos:
+  - noun
+  level: B2
+temporarily:
+  pos:
+  - adverb
+  level: B2
 temporary:
   pos:
   - adjective
   level: B2
+tempt:
+  pos:
+  - verb
+  level: C1
 ten:
   pos:
   - number
   level: A1
+tenant:
+  pos:
+  - noun
+  level: C1
 tend:
   pos:
   - verb
   level: B1
+tendency:
+  pos:
+  - noun
+  level: B2
+tender:
+  pos:
+  - adjective
+  level: C1
 tennis:
   pos:
   - noun
   level: A1
+tension:
+  pos:
+  - noun
+  level: B2
 tent:
   pos:
   - noun
   level: B1
+tenure:
+  pos:
+  - noun
+  level: C1
 term:
   level: B2
   pos:
   - noun
   - verb
+terminal:
+  level: B2
+  pos:
+  - adjective
+  - noun
+terminate:
+  pos:
+  - verb
+  level: C1
+terms:
+  pos:
+  - noun
+  level: B2
+terrain:
+  pos:
+  - noun
+  level: C1
 terrible:
   pos:
   - adjective
   level: A1
+terribly:
+  pos:
+  - adverb
+  level: B2
+terrific:
+  pos:
+  - adjective
+  level: C1
+terrify:
+  pos:
+  - verb
+  level: B2
+territory:
+  pos:
+  - noun
+  level: B2
+terror:
+  pos:
+  - noun
+  level: B2
+terrorism:
+  pos:
+  - noun
+  level: B2
+terrorist:
+  pos:
+  - noun
+  level: B2
 test:
   level: A1
   pos:
   - noun
   - verb
+testify:
+  pos:
+  - verb
+  level: C1
+testimony:
+  pos:
+  - noun
+  level: C1
+testing:
+  pos:
+  - noun
+  level: B2
 text:
   level: A2
   pos:
   - noun
   - verb
+textbook:
+  pos:
+  - noun
+  level: B2
+texture:
+  pos:
+  - noun
+  level: C1
 than:
   level: A1
   pos:
@@ -11351,6 +18693,10 @@ thank:
   pos:
   - verb
   level: A1
+thankfully:
+  pos:
+  - adverb
+  level: C1
 thanks:
   level: A1
   pos:
@@ -11372,6 +18718,14 @@ theatre:
   pos:
   - noun
   level: A1
+theatrical:
+  pos:
+  - adjective
+  level: C1
+theft:
+  pos:
+  - noun
+  level: B2
 their:
   pos:
   - determiner
@@ -11396,10 +18750,22 @@ then:
   pos:
   - adverb
   level: A1
+theology:
+  pos:
+  - noun
+  level: C1
+theoretical:
+  pos:
+  - adjective
+  level: C1
 theory:
   pos:
   - noun
   level: B1
+therapist:
+  pos:
+  - noun
+  level: B2
 therapy:
   pos:
   - noun
@@ -11408,10 +18774,22 @@ there:
   pos:
   - adverb
   level: A1
+thereafter:
+  pos:
+  - adverb
+  level: C1
+thereby:
+  pos:
+  - adverb
+  level: C1
 therefore:
   pos:
   - adverb
   level: B1
+thesis:
+  pos:
+  - noun
+  level: B2
 they:
   pos:
   - pronoun
@@ -11464,6 +18842,14 @@ this:
   - adverb
   - determiner
   - pronoun
+thorough:
+  pos:
+  - adjective
+  level: B2
+thoroughly:
+  pos:
+  - adverb
+  level: B2
 though:
   level: B1
   pos:
@@ -11473,10 +18859,22 @@ thought:
   pos:
   - noun
   level: A2
+thought-provoking:
+  pos:
+  - adjective
+  level: C1
+thoughtful:
+  pos:
+  - adjective
+  level: C1
 thousand:
   pos:
   - number
   level: A1
+thread:
+  pos:
+  - noun
+  level: C1
 threat:
   pos:
   - noun
@@ -11489,6 +18887,18 @@ three:
   pos:
   - number
   level: A1
+threshold:
+  pos:
+  - noun
+  level: C1
+thrilled:
+  pos:
+  - adjective
+  level: C1
+thrive:
+  pos:
+  - verb
+  level: C1
 throat:
   pos:
   - noun
@@ -11507,6 +18917,10 @@ throw:
   pos:
   - verb
   level: A2
+thumb:
+  pos:
+  - noun
+  level: B2
 Thursday:
   pos:
   - noun
@@ -11519,6 +18933,10 @@ ticket:
   pos:
   - noun
   level: A1
+tide:
+  pos:
+  - noun
+  level: C1
 tidy:
   level: A2
   pos:
@@ -11533,16 +18951,32 @@ tight:
   pos:
   - adjective
   level: B1
+tighten:
+  pos:
+  - verb
+  level: C1
 till:
   level: B1
   pos:
   - conjunction
   - preposition
+timber:
+  pos:
+  - noun
+  level: C1
 time:
   level: B2
   pos:
   - noun
   - verb
+timely:
+  pos:
+  - adjective
+  level: C1
+timing:
+  pos:
+  - noun
+  level: B2
 tin:
   pos:
   - noun
@@ -11560,6 +18994,10 @@ tired:
   pos:
   - adjective
   level: A1
+tissue:
+  pos:
+  - noun
+  level: B2
 title:
   level: B2
   pos:
@@ -11571,6 +19009,10 @@ to:
   - infinitive
   - marker
   - preposition
+tobacco:
+  pos:
+  - noun
+  level: C1
 today:
   level: A1
   pos:
@@ -11588,6 +19030,18 @@ toilet:
   pos:
   - noun
   level: A1
+tolerance:
+  pos:
+  - noun
+  level: C1
+tolerate:
+  pos:
+  - verb
+  level: C1
+toll:
+  pos:
+  - noun
+  level: C1
 tomato:
   pos:
   - noun
@@ -11597,6 +19051,10 @@ tomorrow:
   pos:
   - adverb
   - noun
+ton:
+  pos:
+  - noun
+  level: B2
 tone:
   pos:
   - noun
@@ -11610,6 +19068,10 @@ tonight:
   pos:
   - adverb
   - noun
+tonne:
+  pos:
+  - noun
+  level: B2
 too:
   pos:
   - adverb
@@ -11623,19 +19085,30 @@ tooth:
   - noun
   level: A1
 top:
-  level: A2
+  level: C1
   pos:
   - adjective
   - noun
+  - verb
 topic:
   pos:
   - noun
   level: A1
+torture:
+  level: C1
+  pos:
+  - noun
+  - verb
+toss:
+  pos:
+  - verb
+  level: C1
 total:
-  level: B1
+  level: C1
   pos:
   - adjective
   - noun
+  - verb
 totally:
   pos:
   - adverb
@@ -11662,6 +19135,10 @@ tourist:
   pos:
   - noun
   level: A1
+tournament:
+  pos:
+  - noun
+  level: B2
 towards:
   pos:
   - preposition
@@ -11678,11 +19155,20 @@ town:
   pos:
   - noun
   level: A1
+toxic:
+  pos:
+  - adjective
+  level: C1
 toy:
   level: A2
   pos:
   - adjective
   - noun
+trace:
+  level: B2
+  pos:
+  - noun
+  - verb
 track:
   level: B2
   pos:
@@ -11693,6 +19179,14 @@ trade:
   pos:
   - noun
   - verb
+trademark:
+  pos:
+  - noun
+  level: C1
+trading:
+  pos:
+  - noun
+  level: B2
 tradition:
   pos:
   - noun
@@ -11705,6 +19199,23 @@ traffic:
   pos:
   - noun
   level: A1
+tragedy:
+  pos:
+  - noun
+  level: B2
+tragic:
+  pos:
+  - adjective
+  level: B2
+trail:
+  level: C1
+  pos:
+  - noun
+  - verb
+trailer:
+  pos:
+  - noun
+  level: C1
 train:
   level: A2
   pos:
@@ -11718,6 +19229,18 @@ training:
   pos:
   - noun
   level: A2
+trait:
+  pos:
+  - noun
+  level: B2
+transaction:
+  pos:
+  - noun
+  level: C1
+transcript:
+  pos:
+  - noun
+  level: C1
 transfer:
   level: B2
   pos:
@@ -11727,6 +19250,14 @@ transform:
   pos:
   - verb
   level: B2
+transformation:
+  pos:
+  - noun
+  level: C1
+transit:
+  pos:
+  - noun
+  level: C1
 transition:
   pos:
   - noun
@@ -11739,11 +19270,40 @@ translation:
   pos:
   - noun
   level: B1
+transmission:
+  pos:
+  - noun
+  level: C1
+transmit:
+  pos:
+  - verb
+  level: B2
+transparency:
+  pos:
+  - noun
+  level: C1
+transparent:
+  pos:
+  - adjective
+  level: C1
 transport:
   level: B1
   pos:
   - noun
   - verb
+transportation:
+  pos:
+  - noun
+  level: B2
+trap:
+  level: B2
+  pos:
+  - noun
+  - verb
+trauma:
+  pos:
+  - noun
+  level: C1
 travel:
   level: A1
   pos:
@@ -11753,6 +19313,10 @@ traveller:
   pos:
   - noun
   level: A2
+treasure:
+  pos:
+  - noun
+  level: B2
 treat:
   pos:
   - verb
@@ -11761,10 +19325,18 @@ treatment:
   pos:
   - noun
   level: B1
+treaty:
+  pos:
+  - noun
+  level: C1
 tree:
   pos:
   - noun
   level: A1
+tremendous:
+  pos:
+  - adjective
+  level: C1
 trend:
   pos:
   - noun
@@ -11773,16 +19345,57 @@ trial:
   pos:
   - noun
   level: B2
+tribal:
+  pos:
+  - adjective
+  level: C1
+tribe:
+  pos:
+  - noun
+  level: B2
+tribunal:
+  pos:
+  - noun
+  level: C1
+tribute:
+  pos:
+  - noun
+  level: C1
 trick:
   level: B1
   pos:
   - noun
   - verb
+trigger:
+  level: B2
+  pos:
+  - noun
+  - verb
+trillion:
+  pos:
+  - number
+  level: B2
+trio:
+  pos:
+  - noun
+  level: C1
 trip:
   level: B2
   pos:
   - noun
   - verb
+triumph:
+  pos:
+  - noun
+  level: C1
+troop:
+  pos:
+  - noun
+  level: B2
+trophy:
+  pos:
+  - noun
+  level: C1
 tropical:
   pos:
   - adjective
@@ -11792,6 +19405,10 @@ trouble:
   pos:
   - noun
   - verb
+troubled:
+  pos:
+  - adjective
+  level: C1
 trousers:
   pos:
   - noun
@@ -11813,6 +19430,10 @@ trust:
   pos:
   - noun
   - verb
+trustee:
+  pos:
+  - noun
+  level: C1
 truth:
   pos:
   - noun
@@ -11822,6 +19443,10 @@ try:
   pos:
   - noun
   - verb
+tsunami:
+  pos:
+  - noun
+  level: B2
 tube:
   pos:
   - noun
@@ -11830,6 +19455,10 @@ Tuesday:
   pos:
   - noun
   level: A1
+tuition:
+  pos:
+  - noun
+  level: C1
 tune:
   pos:
   - noun
@@ -11843,6 +19472,14 @@ turn:
   pos:
   - noun
   - verb
+turnout:
+  pos:
+  - noun
+  level: C1
+turnover:
+  pos:
+  - noun
+  level: C1
 TV:
   pos:
   - noun
@@ -11864,6 +19501,11 @@ twin:
   pos:
   - adjective
   - noun
+twist:
+  level: C1
+  pos:
+  - noun
+  - verb
 two:
   pos:
   - number
@@ -11889,6 +19531,10 @@ ugly:
   pos:
   - adjective
   level: B1
+ultimate:
+  pos:
+  - adjective
+  level: B2
 ultimately:
   pos:
   - adverb
@@ -11901,6 +19547,14 @@ unable:
   pos:
   - adjective
   level: B1
+unacceptable:
+  pos:
+  - adjective
+  level: B2
+uncertainty:
+  pos:
+  - noun
+  level: B2
 uncle:
   pos:
   - noun
@@ -11918,11 +19572,27 @@ under:
   pos:
   - adverb
   - preposition
+undergo:
+  pos:
+  - verb
+  level: B2
+undergraduate:
+  pos:
+  - noun
+  level: C1
 underground:
   level: A2
   pos:
   - adjective
   - adverb
+underlying:
+  pos:
+  - adjective
+  level: C1
+undermine:
+  pos:
+  - verb
+  level: C1
 understand:
   pos:
   - verb
@@ -11931,10 +19601,18 @@ understanding:
   pos:
   - noun
   level: A2
+undertake:
+  pos:
+  - verb
+  level: B2
 underwear:
   pos:
   - noun
   level: B1
+undoubtedly:
+  pos:
+  - adverb
+  level: C1
 unemployed:
   pos:
   - adjective
@@ -11951,6 +19629,14 @@ unfair:
   pos:
   - adjective
   level: B1
+unfold:
+  pos:
+  - verb
+  level: B2
+unfortunate:
+  pos:
+  - adjective
+  level: B2
 unfortunately:
   pos:
   - adverb
@@ -11963,6 +19649,10 @@ uniform:
   pos:
   - noun
   level: A2
+unify:
+  pos:
+  - verb
+  level: C1
 union:
   pos:
   - noun
@@ -11975,10 +19665,22 @@ unit:
   pos:
   - noun
   level: A2
+unite:
+  pos:
+  - verb
+  level: B2
 united:
   pos:
   - adjective
   level: A2
+unity:
+  pos:
+  - noun
+  level: B2
+universal:
+  pos:
+  - adjective
+  level: B2
 universe:
   pos:
   - noun
@@ -12011,6 +19713,10 @@ unpleasant:
   pos:
   - adjective
   level: B1
+unprecedented:
+  pos:
+  - adjective
+  level: C1
 until:
   level: A1
   pos:
@@ -12020,16 +19726,33 @@ unusual:
   pos:
   - adjective
   level: A2
+unveil:
+  pos:
+  - verb
+  level: C1
 up:
   level: A1
   pos:
   - adverb
   - preposition
+upcoming:
+  pos:
+  - adjective
+  level: C1
 update:
   level: B1
   pos:
   - noun
   - verb
+upgrade:
+  level: C1
+  pos:
+  - noun
+  - verb
+uphold:
+  pos:
+  - verb
+  level: C1
 upon:
   pos:
   - preposition
@@ -12060,10 +19783,18 @@ urge:
   pos:
   - verb
   level: B2
+urgent:
+  pos:
+  - adjective
+  level: B2
 us:
   pos:
   - pronoun
   level: A1
+usage:
+  pos:
+  - noun
+  level: B2
 use:
   level: A1
   pos:
@@ -12082,6 +19813,10 @@ useful:
   pos:
   - adjective
   level: A1
+useless:
+  pos:
+  - adjective
+  level: B2
 user:
   pos:
   - noun
@@ -12094,10 +19829,38 @@ usually:
   pos:
   - adverb
   level: A1
+utility:
+  pos:
+  - noun
+  level: C1
+utilize:
+  pos:
+  - verb
+  level: C1
+utterly:
+  pos:
+  - adverb
+  level: C1
 vacation:
   pos:
   - noun
   level: A1
+vacuum:
+  pos:
+  - noun
+  level: C1
+vague:
+  pos:
+  - adjective
+  level: C1
+valid:
+  pos:
+  - adjective
+  level: B2
+validity:
+  pos:
+  - noun
+  level: C1
 valley:
   pos:
   - noun
@@ -12115,6 +19878,23 @@ van:
   pos:
   - noun
   level: A2
+vanish:
+  pos:
+  - verb
+  level: C1
+variable:
+  level: C1
+  pos:
+  - adjective
+  - noun
+variation:
+  pos:
+  - noun
+  level: B2
+varied:
+  pos:
+  - adjective
+  level: C1
 variety:
   pos:
   - noun
@@ -12139,23 +19919,80 @@ vehicle:
   pos:
   - noun
   level: A2
+vein:
+  pos:
+  - noun
+  level: C1
+venture:
+  level: C1
+  pos:
+  - noun
+  - verb
 venue:
   pos:
   - noun
   level: B2
+verbal:
+  pos:
+  - adjective
+  level: C1
+verdict:
+  pos:
+  - noun
+  level: C1
+verify:
+  pos:
+  - verb
+  level: C1
+verse:
+  pos:
+  - noun
+  level: C1
 version:
   pos:
   - noun
   level: B1
+versus:
+  pos:
+  - preposition
+  level: C1
+vertical:
+  pos:
+  - adjective
+  level: B2
 very:
   level: A1
   pos:
   - adjective
   - adverb
+vessel:
+  pos:
+  - noun
+  level: C1
+veteran:
+  pos:
+  - noun
+  level: C1
 via:
   pos:
   - preposition
   level: B2
+viable:
+  pos:
+  - adjective
+  level: C1
+vibrant:
+  pos:
+  - adjective
+  level: C1
+vice:
+  pos:
+  - noun
+  level: C1
+vicious:
+  pos:
+  - adjective
+  level: C1
 victim:
   pos:
   - noun
@@ -12177,10 +20014,26 @@ viewer:
   pos:
   - noun
   level: B1
+viewpoint:
+  pos:
+  - noun
+  level: B2
 village:
   pos:
   - noun
   level: A1
+villager:
+  pos:
+  - noun
+  level: C1
+violate:
+  pos:
+  - verb
+  level: C1
+violation:
+  pos:
+  - noun
+  level: C1
 violence:
   pos:
   - noun
@@ -12193,10 +20046,22 @@ virtual:
   pos:
   - adjective
   level: B2
+virtue:
+  pos:
+  - noun
+  level: C1
 virus:
   pos:
   - noun
   level: A2
+visa:
+  pos:
+  - noun
+  level: B2
+visible:
+  pos:
+  - adjective
+  level: B2
 vision:
   pos:
   - noun
@@ -12222,6 +20087,10 @@ vitamin:
   pos:
   - noun
   level: B2
+vocal:
+  pos:
+  - adjective
+  level: C1
 voice:
   pos:
   - noun
@@ -12229,6 +20098,10 @@ voice:
 volume:
   pos:
   - noun
+  level: B2
+voluntary:
+  pos:
+  - adjective
   level: B2
 volunteer:
   level: B1
@@ -12240,6 +20113,22 @@ vote:
   pos:
   - noun
   - verb
+voting:
+  pos:
+  - noun
+  level: B2
+vow:
+  pos:
+  - verb
+  level: C1
+vulnerability:
+  pos:
+  - noun
+  level: C1
+vulnerable:
+  pos:
+  - adjective
+  level: C1
 wage:
   pos:
   - noun
@@ -12266,6 +20155,10 @@ wall:
   pos:
   - noun
   level: A1
+wander:
+  pos:
+  - verb
+  level: B2
 want:
   pos:
   - verb
@@ -12274,11 +20167,27 @@ war:
   pos:
   - noun
   level: A2
+ward:
+  pos:
+  - noun
+  level: C1
+warehouse:
+  pos:
+  - noun
+  level: C1
+warfare:
+  pos:
+  - noun
+  level: C1
 warm:
   level: B1
   pos:
   - adjective
   - verb
+warming:
+  pos:
+  - noun
+  level: B2
 warn:
   pos:
   - verb
@@ -12287,6 +20196,15 @@ warning:
   pos:
   - noun
   level: B1
+warrant:
+  level: C1
+  pos:
+  - noun
+  - verb
+warrior:
+  pos:
+  - noun
+  level: C1
 wash:
   level: A1
   pos:
@@ -12330,6 +20248,10 @@ weak:
   pos:
   - adjective
   level: A2
+weaken:
+  pos:
+  - verb
+  level: C1
 weakness:
   pos:
   - noun
@@ -12354,6 +20276,10 @@ weather:
   pos:
   - noun
   level: A1
+weave:
+  pos:
+  - verb
+  level: C1
 web:
   pos:
   - noun
@@ -12370,6 +20296,10 @@ Wednesday:
   pos:
   - noun
   level: A1
+weed:
+  pos:
+  - noun
+  level: C1
 week:
   pos:
   - noun
@@ -12378,6 +20308,10 @@ weekend:
   pos:
   - noun
   level: A1
+weekly:
+  pos:
+  - adjective
+  level: B2
 weigh:
   pos:
   - verb
@@ -12386,6 +20320,10 @@ weight:
   pos:
   - noun
   level: A2
+weird:
+  pos:
+  - adjective
+  level: B2
 welcome:
   level: A1
   pos:
@@ -12393,12 +20331,21 @@ welcome:
   - exclamation
   - noun
   - verb
+welfare:
+  pos:
+  - noun
+  level: B2
 well:
-  level: A1
+  level: C1
   pos:
   - adjective
   - adverb
   - exclamation
+  - noun
+well-being:
+  pos:
+  - noun
+  level: C1
 west:
   level: A1
   pos:
@@ -12421,8 +20368,17 @@ what:
 whatever:
   level: B1
   pos:
+  - adverb
   - determiner
   - pronoun
+whatsoever:
+  pos:
+  - adverb
+  level: C1
+wheat:
+  pos:
+  - noun
+  level: B2
 wheel:
   pos:
   - noun
@@ -12446,6 +20402,10 @@ whereas:
   pos:
   - conjunction
   level: B2
+whereby:
+  pos:
+  - adverb
+  level: C1
 wherever:
   pos:
   - conjunction
@@ -12464,6 +20424,14 @@ while:
   pos:
   - conjunction
   - noun
+whilst:
+  pos:
+  - conjunction
+  level: C1
+whip:
+  pos:
+  - verb
+  level: C1
 whisper:
   level: B2
   pos:
@@ -12478,11 +20446,19 @@ who:
   pos:
   - pronoun
   level: A1
+whoever:
+  pos:
+  - pronoun
+  level: B2
 whole:
   level: B1
   pos:
   - adjective
   - noun
+wholly:
+  pos:
+  - adverb
+  level: C1
 whom:
   pos:
   - pronoun
@@ -12504,6 +20480,22 @@ widely:
   pos:
   - adverb
   level: B2
+widen:
+  pos:
+  - verb
+  level: C1
+widespread:
+  pos:
+  - adjective
+  level: B2
+widow:
+  pos:
+  - noun
+  level: C1
+width:
+  pos:
+  - noun
+  level: C1
 wife:
   pos:
   - noun
@@ -12526,6 +20518,10 @@ willing:
   pos:
   - adjective
   level: B2
+willingness:
+  pos:
+  - noun
+  level: C1
 win:
   level: A1
   pos:
@@ -12556,7 +20552,15 @@ winter:
   pos:
   - noun
   level: A1
+wipe:
+  pos:
+  - verb
+  level: C1
 wire:
+  pos:
+  - noun
+  level: B2
+wisdom:
   pos:
   - noun
   level: B2
@@ -12569,10 +20573,22 @@ wish:
   pos:
   - noun
   - verb
+wit:
+  pos:
+  - noun
+  level: C1
 with:
   pos:
   - preposition
   level: A1
+withdraw:
+  pos:
+  - verb
+  level: B2
+withdrawal:
+  pos:
+  - noun
+  level: C1
 within:
   pos:
   - preposition
@@ -12624,10 +20640,26 @@ worker:
   pos:
   - noun
   level: A1
+workforce:
+  pos:
+  - noun
+  level: B2
 working:
   pos:
   - adjective
   level: A2
+workout:
+  pos:
+  - noun
+  level: C1
+workplace:
+  pos:
+  - noun
+  level: B2
+workshop:
+  pos:
+  - noun
+  level: B2
 world:
   pos:
   - noun
@@ -12637,6 +20669,10 @@ worldwide:
   pos:
   - adjective
   - adverb
+worm:
+  pos:
+  - noun
+  level: B2
 worried:
   pos:
   - adjective
@@ -12652,6 +20688,11 @@ worse:
   - adjective
   - adverb
   - noun
+worship:
+  level: C1
+  pos:
+  - noun
+  - verb
 worst:
   level: B2
   pos:
@@ -12663,6 +20704,14 @@ worth:
   pos:
   - adjective
   - noun
+worthwhile:
+  pos:
+  - adjective
+  level: C1
+worthy:
+  pos:
+  - adjective
+  level: C1
 would:
   pos:
   - modal
@@ -12680,6 +20729,10 @@ wow:
 wrap:
   pos:
   - verb
+  level: B2
+wrist:
+  pos:
+  - noun
   level: B2
 write:
   pos:
@@ -12715,12 +20768,16 @@ year:
   pos:
   - noun
   level: A1
+yell:
+  pos:
+  - verb
+  level: C1
 yellow:
   level: A1
   pos:
   - adjective
   - noun
-yes:
+'yes':
   pos:
   - exclamation
   level: A1
@@ -12734,6 +20791,11 @@ yet:
   pos:
   - adverb
   - conjunction
+yield:
+  level: C1
+  pos:
+  - noun
+  - verb
 you:
   pos:
   - pronoun
@@ -12743,6 +20805,10 @@ young:
   pos:
   - adjective
   - noun
+youngster:
+  pos:
+  - noun
+  level: C1
 your:
   pos:
   - determiner

@@ -1,4 +1,5 @@
 - slug: 504-absolutely-essential-words
   title: 504 absolutely essential words
-  author: Murray Bromberg
+  author:
+    - Murray Bromberg
   cover: true
